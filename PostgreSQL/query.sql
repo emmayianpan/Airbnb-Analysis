@@ -1,0 +1,25 @@
+CREATE TABLE summary AS(
+	SELECT*FROM sf
+	UNION
+	SELECT*FROM nyc
+	UNION
+	SELECT*FROM la
+	UNION
+	SELECT*FROM jc
+	UNION
+	SELECT*FROM atx
+	UNION
+	SELECT*FROM bos
+	UNION
+	SELECT*FROM nsh
+	UNION
+	SELECT*FROM chi
+	UNION
+	SELECT*FROM colo
+	UNION
+	SELECT*FROM den
+); 
+
+COPY (SELECT*FROM summary) 
+	To 'C:\Users\emmayianpan\Desktop\Airbnb\static\data\summary.csv' 
+	With CSV DELIMITER ',' HEADER;

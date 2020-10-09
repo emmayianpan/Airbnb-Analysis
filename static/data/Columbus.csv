@@ -1,0 +1,1410 @@
+id,neighbourhood,latitude,longitude,room_type,price,availability_365,minimum_nights
+90676,Near North/University,39.983940000000004,-83.00321,Entire home/apt,198,137,1
+543140,Near North/University,40.01243,-83.00986,Private room,47,216,3
+591101,Near East,39.96086,-82.97968,Private room,80,362,2
+681145,Near North/University,40.01898,-83.00067,Entire home/apt,90,0,2
+923248,Near North/University,40.01259,-83.00164000000001,Shared room,30,359,1
+927867,Near North/University,40.01259,-83.00164000000001,Private room,60,362,1
+1217678,Clintonville,40.03828,-83.01838000000001,Private room,75,351,1
+1286887,Near South,39.946999999999996,-82.99074,Entire home/apt,199,330,3
+1321192,Near South,39.95353,-82.96725,Entire home/apt,235,363,1
+1336145,Clintonville,40.03689,-83.0183,Private room,75,351,1
+1520102,Near North/University,40.01259,-83.00164000000001,Shared room,32,356,1
+1534493,Near South,39.95194,-82.96636,Private room,49,7,1
+1534602,Near South,39.95231,-82.96705,Private room,49,7,1
+1763836,Near North/University,40.017959999999995,-83.00267,Entire home/apt,52,171,180
+1900779,Near North/University,39.98473,-83.01268,Entire home/apt,157,279,2
+2031035,Near South,39.95192,-82.96644,Entire home/apt,112,0,1
+2134901,Near North/University,39.987429999999996,-83.01669,Entire home/apt,180,270,2
+2172026,Near North/University,39.9867,-83.01120999999999,Entire home/apt,140,330,2
+2196955,West Olentangy,40.023559999999996,-83.03218000000001,Private room,38,55,30
+2227278,Near South,39.940979999999996,-82.98737,Entire home/apt,250,323,4
+2262958,Near North/University,39.98702,-83.01136,Entire home/apt,160,331,2
+2284335,Clintonville,40.028290000000005,-83.02188000000001,Entire home/apt,69,313,1
+2349920,Near North/University,39.98617,-83.00371,Entire home/apt,225,252,2
+2642205,Eastland/Brice,39.92098,-82.82189,Private room,50,365,1
+3193181,South Linden,40.0087,-82.97471999999999,Entire home/apt,70,154,1
+3217988,Near North/University,39.97652,-82.99983,Entire home/apt,325,0,2
+3570253,Franklinton,39.95358,-83.02922,Private room,45,0,1
+3731977,Rocky Fork-Blacklick,40.09093,-82.88549,Private room,50,111,28
+3750603,Near East,39.95362,-82.96791,Private room,29,7,1
+3940646,Near East,39.9659,-82.97556999999999,Entire home/apt,65,67,1
+3975468,South Linden,40.008990000000004,-82.97534,Private room,45,180,1
+4679761,Near North/University,40.012570000000004,-83.00159000000001,Private room,70,362,1
+5091530,Near North/University,39.97524,-83.00408,Entire home/apt,89,176,2
+5297763,Near North/University,39.98879,-83.00255,Entire home/apt,140,342,1
+5372431,Northeast,40.01027,-82.92709,Private room,35,12,2
+5533834,Near North/University,39.98296,-82.99871,Entire home/apt,295,361,1
+5580209,Near East,39.97063,-82.95925,Private room,73,210,6
+5770106,Near North/University,39.97847,-83.00887,Entire home/apt,120,365,30
+5820556,Near North/University,39.98992,-83.00426999999999,Entire home/apt,87,325,2
+5854666,Eastmoor/Walnut Ridge,39.96927,-82.92156,Private room,75,365,2
+5945411,Rocky Fork-Blacklick,40.08939,-82.8854,Private room,50,0,28
+6214751,Near East,39.9661,-82.96512,Entire home/apt,99,0,1
+6289292,Near South,39.951229999999995,-82.96691,Shared room,20,0,1
+6391158,Rocky Fork-Blacklick,40.06225,-82.85429,Private room,42,363,1
+6416756,Rocky Fork-Blacklick,40.06193,-82.85436,Private room,58,363,1
+6448501,Near South,39.93983,-82.99632,Entire home/apt,95,148,2
+6476122,Near North/University,39.98472,-83.00636,Entire home/apt,195,347,2
+6527620,Near North/University,39.98842,-83.00743,Entire home/apt,69,0,2
+6805322,South Linden,40.00711,-82.97379000000001,Shared room,30,90,1
+6883920,Hayden Run,40.06689,-83.11678,Entire home/apt,178,333,30
+6924472,Near North/University,39.992,-83.01084,Private room,23,322,1
+7021423,Near South,39.94993,-82.98231,Entire home/apt,220,134,30
+7061726,Near North/University,39.98695,-83.00125,Entire home/apt,140,362,1
+7564891,Northland,40.06467,-82.98839,Private room,25,353,30
+7617016,Northland,40.06467,-82.98839,Private room,35,362,30
+7637541,Northland,40.064659999999996,-82.98839,Private room,25,331,30
+7663120,Near North/University,39.98511,-83.00202,Entire home/apt,200,0,1
+7771588,Near North/University,40.019040000000004,-83.00171999999999,Entire home/apt,85,207,3
+7909479,Downtown,39.96581,-82.99891,Entire home/apt,100,365,30
+8492057,Clintonville,40.06819,-83.02479,Private room,150,332,1
+8507141,Northland,40.0615,-82.98872,Private room,25,178,30
+8507146,Northland,40.06467,-82.98839,Private room,25,242,30
+8578379,Near East,39.96145,-82.97216,Private room,29,335,1
+8662090,Near East,39.966609999999996,-82.96441,Entire home/apt,65,48,2
+8688424,Northwest,40.06366,-83.09885,Private room,64,363,2
+8702043,Near North/University,39.98382,-83.01635,Entire home/apt,300,363,1
+8715345,Near North/University,39.98832,-83.00027,Entire home/apt,66,0,1
+8798720,Near North/University,39.98507,-83.00626,Entire home/apt,1000,329,30
+9164504,Near North/University,39.98285,-83.01561,Entire home/apt,59,360,1
+9169196,Near North/University,39.98908,-83.00898000000001,Entire home/apt,190,5,2
+9213984,Far Northwest,40.10672,-83.07529,Entire home/apt,160,347,2
+9403080,Northland,40.060790000000004,-82.92073,Entire home/apt,110,336,1
+9561460,Near East,39.96028,-82.95052,Private room,47,148,1
+9616366,Northeast,40.009209999999996,-82.92745,Private room,35,0,2
+9725156,North Linden,40.03632,-82.9885,Private room,45,1,1
+9903695,Near North/University,39.97977,-83.00284,Entire home/apt,150,365,2
+10016466,Near North/University,39.981840000000005,-83.02069,Entire home/apt,100,59,2
+10057188,Near South,39.94565,-82.98558,Entire home/apt,400,123,30
+10383297,Far East,40.00027,-82.78248,Private room,38,336,1
+11044568,Hilltop,39.95091,-83.079,Entire home/apt,165,337,2
+11047105,Near East,39.96938,-82.97235,Entire home/apt,99,55,2
+11142752,Northland,40.09852,-82.96423,Private room,50,0,1
+11147821,Near South,39.944390000000006,-82.98586999999999,Entire home/apt,155,0,2
+11533820,Near North/University,39.98598,-83.01118000000001,Entire home/apt,115,0,1
+11572549,Northland,40.10028,-82.96453000000001,Private room,45,0,1
+11673338,West Scioto,39.987109999999994,-83.06753,Private room,60,330,1
+11921949,West Olentangy,40.02452,-83.03390999999999,Private room,38,93,30
+11970251,Near North/University,39.98343,-83.00455,Private room,46,0,1
+12143810,Northwest,40.05428,-83.04824,Private room,40,54,30
+12182010,Near South,39.94298,-82.99072,Entire home/apt,220,229,2
+12185273,Clintonville,40.04923,-83.02529,Entire home/apt,150,0,1
+12402287,Near North/University,39.984809999999996,-83.00869,Private room,150,0,1
+12631194,Near North/University,39.98829,-83.0022,Entire home/apt,135,360,1
+12684949,Rocky Fork-Blacklick,40.07825,-82.86543,Private room,45,269,1
+12737365,Hayden Run,40.0599,-83.11814,Private room,42,169,1
+12751583,Near East,39.96356,-82.97595,Entire home/apt,250,4,1
+12755075,Near South,39.929959999999994,-82.99157,Entire home/apt,84,0,2
+12807651,Near North/University,40.018879999999996,-83.00052,Entire home/apt,60,237,5
+12933962,Near North/University,39.98302,-83.0143,Entire home/apt,129,0,2
+13045810,Northland,40.100559999999994,-82.9729,Private room,44,269,1
+13089173,Near East,39.96864,-82.96408000000001,Private room,25,88,5
+13095135,Clintonville,40.02819,-83.02247,Entire home/apt,76,54,1
+13112313,Northland,40.07823,-82.95589,Private room,40,0,1
+13116142,Near North/University,39.98446,-82.99833000000001,Entire home/apt,120,0,2
+13138571,Northland,40.078140000000005,-82.95584000000001,Private room,46,162,1
+13222574,West Olentangy,40.05258,-83.04828,Private room,40,0,1
+13223833,Far West,40.00983,-83.14662,Private room,29,348,3
+13293966,Near North/University,39.98301,-83.01357,Private room,56,0,5
+13410261,Near North/University,40.010670000000005,-82.99698000000001,Private room,45,357,1
+13446477,Near North/University,40.00843,-82.99905,Private room,33,365,1
+13478417,Near East,39.96767,-82.96461,Private room,27,145,5
+13559973,West Olentangy,40.0341,-83.03782,Private room,40,0,1
+13635802,Near North/University,39.98271,-83.01474,Entire home/apt,85,0,1
+13672030,West Olentangy,40.04,-83.03186,Entire home/apt,96,61,2
+13742680,Near North/University,40.0112,-82.99816,Private room,30,233,1
+13761608,Northland,40.102990000000005,-82.97988000000001,Private room,35,63,2
+13994248,Clintonville,40.020509999999994,-82.99811,Entire home/apt,195,347,2
+13996414,South Linden,40.00606,-82.97296,Entire home/apt,70,0,1
+14042295,Near North/University,39.98474,-83.00262,Entire home/apt,85,165,1
+14150707,Clintonville,40.0352,-83.02346,Private room,55,0,2
+14245905,Near East,39.97132,-82.95033000000001,Entire home/apt,150,1,29
+14356430,Near East,39.976259999999996,-82.94794,Private room,49,48,3
+14570060,Franklinton,39.96094,-83.04108000000001,Entire home/apt,90,0,4
+14573940,Near North/University,40.00482,-82.99799999999999,Private room,75,339,30
+14595365,Near North/University,40.00482,-82.99799999999999,Private room,75,334,30
+14637285,Near North/University,40.00843,-82.99905,Private room,28,362,1
+14637360,Near North/University,40.00843,-82.99905,Private room,39,363,1
+14773242,Northland,40.07496,-82.99771,Entire home/apt,50,0,1
+14786187,Near South,39.95087,-82.99417,Entire home/apt,235,208,2
+14799649,Near North/University,40.004870000000004,-82.99818,Private room,60,32,30
+14901086,Northland,40.10194,-82.98040999999999,Private room,33,0,2
+14912693,Near South,39.95252,-82.98788,Entire home/apt,79,340,1
+14912750,Near South,39.9505,-82.98723000000001,Entire home/apt,95,348,2
+14928551,Near North/University,40.006820000000005,-82.99746,Entire home/apt,200,351,1
+14949691,Near North/University,39.98222,-82.99614,Private room,68,358,1
+15005616,Near North/University,39.9967,-82.99835999999999,Entire home/apt,90,34,1
+15008883,Near North/University,39.9791,-83.00102,Entire home/apt,299,343,1
+15017759,Near East,39.96967,-82.96115999999999,Entire home/apt,145,217,2
+15028474,North Linden,40.017990000000005,-82.99314,Entire home/apt,95,364,1
+15165624,Near North/University,39.98795,-83.00639,Entire home/apt,95,0,2
+15209057,Near North/University,40.00942,-82.99792,Entire home/apt,90,342,2
+15269867,Near North/University,39.978970000000004,-83.0116,Private room,52,274,2
+15334827,Clintonville,40.0644,-83.02618000000001,Entire home/apt,75,149,2
+15339866,Near South,39.94976,-82.9869,Entire home/apt,119,0,2
+15393760,Far North,40.11742,-82.97686,Private room,60,273,3
+15478932,Near South,39.93405,-82.99041,Entire home/apt,79,356,1
+15500362,Near East,39.97293,-82.9587,Private room,49,348,1
+15509274,Hilltop,39.95112,-83.07885999999999,Entire home/apt,300,338,2
+15552200,Near North/University,39.98684,-83.0078,Entire home/apt,87,339,6
+15578985,Clintonville,40.065020000000004,-83.01496,Private room,35,0,1
+15764634,Clintonville,40.0644,-83.02618000000001,Entire home/apt,35,149,2
+15883347,Clintonville,40.03563,-83.01700000000001,Entire home/apt,96,123,2
+15929897,Near North/University,39.98884,-83.01048,Entire home/apt,60,139,2
+15966488,Downtown,39.95633,-82.99387,Entire home/apt,89,55,1
+15988515,Hayden Run,40.06778,-83.17347,Private room,60,115,1
+16041611,Rickenbacker,39.866440000000004,-82.99125,Private room,275,362,1
+16154072,Near East,39.95512,-82.96956999999999,Entire home/apt,152,364,30
+16161694,Near North/University,39.988820000000004,-83.00771999999999,Entire home/apt,52,0,3
+16269819,Clintonville,40.02214,-83.00480999999999,Entire home/apt,140,0,2
+16299456,Near North/University,39.9835,-83.01221,Private room,75,117,2
+16323611,Near South,39.94572,-82.9823,Entire home/apt,69,0,1
+16441563,South Linden,39.98977,-82.94894000000001,Entire home/apt,65,318,1
+16465310,Near North/University,39.98431,-83.00326,Entire home/apt,125,138,3
+16490028,Near North/University,39.97793,-83.005,Entire home/apt,90,0,2
+16553536,South Linden,40.00715,-82.97514,Entire home/apt,83,180,1
+16556859,Near North/University,39.98697,-82.99988,Entire home/apt,125,0,2
+16754197,Near North/University,39.988459999999996,-83.0073,Entire home/apt,64,348,1
+16974049,Near North/University,39.98236,-83.0052,Entire home/apt,125,25,7
+17071735,Near North/University,39.977920000000005,-83.00915,Entire home/apt,125,153,2
+17107263,Near North/University,39.9845,-83.00017,Private room,56,0,1
+17118112,Near South,39.946979999999996,-82.98593000000001,Private room,70,83,1
+17265759,Near North/University,39.97737,-83.00653,Entire home/apt,190,145,2
+17297033,Eastmoor/Walnut Ridge,39.97737,-82.91394,Entire home/apt,80,56,14
+17365804,Near North/University,39.988859999999995,-83.00048000000001,Entire home/apt,125,357,1
+17432098,Far North,40.1202,-83.01482,Entire home/apt,92,128,2
+17455574,Near South,39.943659999999994,-82.99258,Entire home/apt,125,0,1
+17583844,Hayden Run,40.06167,-83.1774,Private room,45,0,2
+17681523,Far Northwest,40.10761,-83.0712,Entire home/apt,90,342,2
+17791756,Near North/University,39.97834,-83.0,Entire home/apt,350,329,1
+18131334,Far South,39.90863,-82.92855,Shared room,270,83,1
+18145176,Near East,39.962559999999996,-82.97203,Entire home/apt,139,0,1
+18173844,Near South,39.94249,-82.99802,Private room,60,80,30
+18222598,Near South,39.94448,-82.99831,Entire home/apt,95,329,1
+18488858,Near North/University,39.98917,-83.00155,Private room,45,0,1
+18535724,Near North/University,40.011140000000005,-83.00971,Private room,34,245,3
+18577026,Near North/University,39.99018,-83.00739,Entire home/apt,125,109,2
+18630080,Near South,39.95109,-82.99214,Entire home/apt,89,0,2
+18631993,Near North/University,39.982929999999996,-83.00524,Entire home/apt,96,329,7
+18735741,Near North/University,39.9767,-83.01044,Private room,89,168,1
+18754945,West Olentangy,39.99115,-83.03757,Entire home/apt,120,120,2
+18768075,Eastmoor/Walnut Ridge,39.93761,-82.91469000000001,Entire home/apt,95,314,2
+18789244,Far South,39.88756,-82.92803,Entire home/apt,94,245,2
+18842852,Near North/University,39.9755,-83.00236,Entire home/apt,82,336,1
+18892102,Near North/University,39.97573,-83.00135999999999,Entire home/apt,100,0,30
+18893274,Near East,39.960679999999996,-82.98104000000001,Entire home/apt,159,163,1
+18930516,Near North/University,39.978,-83.00950999999999,Entire home/apt,89,350,1
+19052130,Clintonville,40.03722,-83.01718000000001,Private room,50,17,1
+19071068,Near North/University,39.97968,-82.99964,Private room,130,196,1
+19134827,Near South,39.932390000000005,-82.99158,Private room,95,0,1
+19134865,South Linden,40.00242,-82.9807,Private room,220,365,5
+19138378,Near North/University,40.01037,-83.0047,Private room,59,0,1
+19182076,Near South,39.94123,-82.99741999999999,Entire home/apt,150,357,2
+19183032,Near North/University,40.012570000000004,-83.00159000000001,Private room,70,356,1
+19183954,Near North/University,40.012570000000004,-83.00159000000001,Private room,113,362,1
+19246435,Near North/University,40.01332,-83.01321999999999,Entire home/apt,150,0,2
+19328258,Near North/University,40.01293,-82.99954,Private room,45,222,1
+19348897,Near East,39.96901,-82.97241,Entire home/apt,78,71,1
+19362686,Near South,39.94108,-82.99347,Entire home/apt,150,0,2
+19365515,Near East,39.96496,-82.97713,Entire home/apt,85,0,1
+19384240,Hayden Run,40.055690000000006,-83.12836,Entire home/apt,400,0,1
+19413241,Near North/University,39.98542,-83.00584,Entire home/apt,399,0,1
+19438854,West Scioto,39.98964,-83.08783000000001,Private room,33,0,1
+19468469,Near North/University,40.00954,-82.9981,Entire home/apt,85,144,2
+19469926,Near North/University,39.979440000000004,-83.00123,Entire home/apt,450,220,1
+19585189,Near North/University,39.98935,-83.01155,Private room,48,0,30
+19619901,Near North/University,40.00696,-83.00001999999999,Private room,41,0,1
+19656685,Near North/University,40.01019,-82.99673,Private room,35,0,1
+19679998,Near South,39.94303,-82.98455,Entire home/apt,32,176,7
+19695611,Near North/University,40.016220000000004,-83.00808,Entire home/apt,135,0,1
+19700416,Northland,40.10153,-82.98167,Private room,33,9,2
+19751630,Westland,39.9375,-83.16085,Entire home/apt,60,0,1
+19781392,Near South,39.9451,-82.98873,Entire home/apt,10000,236,1
+19811151,Clintonville,40.022659999999995,-83.01827,Entire home/apt,95,153,2
+19813596,West Scioto,39.99635,-83.07845,Private room,95,89,1
+19840029,Near North/University,39.97467,-83.00347,Entire home/apt,145,142,2
+19859814,Downtown,39.95756,-82.99389000000001,Entire home/apt,89,62,1
+19862861,Near South,39.946259999999995,-82.97984,Entire home/apt,65,165,30
+19923750,Near East,39.97472,-82.94815,Private room,55,108,3
+19928533,North Linden,40.020590000000006,-82.99347,Entire home/apt,99,365,1
+19961055,Near North/University,40.0134,-83.01016,Entire home/apt,200,284,2
+20015830,Near East,39.97612,-82.94821,Private room,49,68,5
+20053350,Near East,39.96849,-82.95475,Entire home/apt,52,354,1
+20065692,Near East,39.96086,-82.95526,Private room,42,0,1
+20132677,Near South,39.92819,-82.98546999999999,Entire home/apt,146,156,1
+20147810,Near North/University,39.976290000000006,-83.00366,Private room,54,0,1
+20170350,Near North/University,39.98653,-83.01006,Entire home/apt,10000,241,1
+20170921,Near North/University,39.98328,-83.01109,Entire home/apt,10000,228,1
+20276424,Hayden Run,40.06145,-83.17551,Entire home/apt,120,11,1
+20394599,Far Northwest,40.10783,-83.07133,Private room,40,343,30
+20401683,Near South,39.94644,-82.99714,Entire home/apt,120,0,1
+20451291,Far Northwest,40.10901,-83.07185,Private room,30,343,30
+20456401,Far North,40.136109999999995,-82.97108,Entire home/apt,88,104,2
+20469877,Near North/University,40.00489,-82.99761,Entire home/apt,125,353,1
+20553452,Eastmoor/Walnut Ridge,39.93294,-82.92126,Private room,55,90,3
+20586246,Near North/University,39.99305,-82.99577,Entire home/apt,55,0,1
+20674936,Hayden Run,40.06306,-83.17618,Private room,55,272,1
+20694473,Near North/University,39.979820000000004,-82.99895,Entire home/apt,95,174,1
+20754302,Near South,39.94722,-82.99356999999999,Entire home/apt,80,343,1
+20793472,Near South,39.94378,-82.99132,Entire home/apt,99,277,1
+20858721,Near North/University,40.01657,-83.00129,Entire home/apt,80,339,3
+20862582,Near North/University,39.98067,-83.00236,Entire home/apt,100,0,1
+20871689,Near North/University,39.98072,-83.01231,Entire home/apt,199,316,3
+20932530,Near North/University,39.978629999999995,-83.0029,Entire home/apt,88,4,2
+21028916,West Olentangy,40.01978,-83.04618,Entire home/apt,145,159,2
+21095781,Near North/University,39.9833,-83.00829,Entire home/apt,10000,244,1
+21121147,Near North/University,39.99042,-83.00546999999999,Entire home/apt,80,45,2
+21142497,Near North/University,39.97572,-83.00398,Entire home/apt,99,0,1
+21151548,Near North/University,40.00826,-82.9976,Entire home/apt,63,0,2
+21186596,Near North/University,39.980709999999995,-83.00321,Entire home/apt,250,176,1
+21190257,Far North,40.1352,-83.01968000000001,Entire home/apt,95,0,1
+21210728,Near South,39.9333,-82.98961,Entire home/apt,100,0,2
+21229004,Near North/University,39.988440000000004,-83.0173,Entire home/apt,75,334,3
+21313490,Near North/University,39.99095,-83.00694,Entire home/apt,45,89,2
+21320030,Far Northwest,40.11646,-83.08856,Entire home/apt,55,133,2
+21323149,Near North/University,40.009859999999996,-82.99741999999999,Entire home/apt,80,347,2
+21406034,Near North/University,40.01455,-83.00349,Entire home/apt,100,90,1
+21473597,Near North/University,39.98324,-82.9994,Entire home/apt,99,0,1
+21475354,Near South,39.93002,-82.99528000000001,Private room,85,180,30
+21477953,Northland,40.07479,-82.97100999999999,Private room,35,115,1
+21526768,Near North/University,39.98182,-83.01465,Entire home/apt,335,324,1
+21590943,Near South,39.94843,-82.98603,Entire home/apt,110,56,1
+21603745,Far South,39.88508,-82.98897,Private room,38,43,14
+21625739,Franklinton,39.9549,-83.03197,Entire home/apt,60,54,2
+21641604,Rocky Fork-Blacklick,40.05853,-82.88076,Private room,55,53,1
+21679140,Southeast,39.90475,-82.80563000000001,Entire home/apt,75,73,2
+21711084,Near South,39.946020000000004,-82.96758,Entire home/apt,70,72,30
+21712505,Downtown,39.9583,-82.99373,Entire home/apt,89,79,1
+21722770,Far South,39.895590000000006,-82.97406,Entire home/apt,125,338,3
+21763444,Near North/University,39.97678,-83.01586,Entire home/apt,149,0,1
+21804335,Far East,40.0048,-82.77831,Private room,70,365,2
+21850214,Northland,40.090540000000004,-82.93106999999999,Private room,55,0,2
+21864282,Near North/University,39.991040000000005,-83.0115,Private room,25,80,1
+21866847,Near South,39.94733,-82.98439,Private room,42,0,30
+21922183,Northland,40.09615,-82.95019,Private room,29,359,7
+22016352,Near North/University,39.98961,-82.99663000000001,Entire home/apt,99,212,1
+22049058,Near North/University,39.98108,-83.00742,Entire home/apt,180,0,2
+22060949,Near North/University,39.98212,-82.99892,Entire home/apt,145,78,2
+22084228,Northland,40.095290000000006,-82.9491,Private room,35,365,6
+22085400,Northland,40.09539,-82.95079,Private room,30,365,5
+22105240,Near North/University,39.9816,-83.00926,Entire home/apt,102,56,1
+22120473,Near East,39.97553,-82.94933,Private room,45,72,3
+22140048,Clintonville,40.0382,-83.01826,Entire home/apt,49,0,1
+22152555,Near North/University,39.99236,-82.99928,Entire home/apt,89,151,1
+22191797,Near East,39.962109999999996,-82.97677,Entire home/apt,120,76,1
+22264196,Near North/University,39.98659,-83.0,Entire home/apt,495,67,2
+22289718,West Olentangy,39.99327,-83.045,Entire home/apt,36,0,30
+22290424,Near East,39.9639,-82.96338,Private room,40,0,1
+22421892,Downtown,39.96662,-83.00352,Entire home/apt,149,180,29
+22460901,Near North/University,39.987159999999996,-83.01210999999999,Entire home/apt,100,0,1
+22481727,South Linden,39.9804,-82.99292,Entire home/apt,119,338,3
+22482487,Franklinton,39.95771,-83.02693000000001,Entire home/apt,106,90,1
+22615569,Clintonville,40.02727,-83.01846,Private room,75,25,1
+22644806,Near North/University,40.01036,-83.00819,Private room,35,304,3
+22646137,Eastmoor/Walnut Ridge,39.93919,-82.91211,Entire home/apt,139,347,2
+22701184,Clintonville,40.07387,-83.00861,Entire home/apt,48,90,1
+22703654,Far North,40.12124,-82.97888,Entire home/apt,178,352,2
+22734451,Near South,39.94142,-82.99695,Entire home/apt,135,215,2
+22829374,West Olentangy,39.98744,-83.03616,Entire home/apt,85,100,2
+22845293,Near North/University,39.97553,-83.00918,Private room,45,362,31
+22848639,Near North/University,39.98465,-83.01546,Entire home/apt,300,340,1
+22922640,Near North/University,39.99037,-83.0073,Entire home/apt,119,34,2
+22958789,Near North/University,39.98151,-83.01839,Entire home/apt,99,131,1
+23004939,Clintonville,40.031420000000004,-83.0104,Entire home/apt,100,340,2
+23005234,Near North/University,39.98238,-82.99922,Entire home/apt,90,362,4
+23089568,Franklinton,39.95612,-83.02804,Entire home/apt,42,170,1
+23102259,Downtown,39.95705,-82.99538000000001,Entire home/apt,119,365,360
+23145906,Near North/University,39.982409999999994,-83.00010999999999,Entire home/apt,150,208,2
+23238240,Franklinton,39.95592,-83.02616,Entire home/apt,104,80,1
+23256796,Clintonville,40.03991,-83.01912,Entire home/apt,175,0,2
+23290856,Near North/University,39.99328,-83.01325,Shared room,50,0,1
+23325292,Near North/University,39.98337,-83.00609,Entire home/apt,85,325,7
+23371418,Near East,39.955259999999996,-82.97619,Entire home/apt,140,327,1
+23379800,Near North/University,39.98316,-83.00200000000001,Entire home/apt,57,56,2
+23399699,Far West,39.9953,-83.16041,Private room,40,0,2
+23411204,Rocky Fork-Blacklick,40.07739,-82.89166999999999,Entire home/apt,76,0,30
+23430634,Near North/University,39.98213,-83.01058,Entire home/apt,10000,242,1
+23469529,Near North/University,39.99184,-83.01032,Entire home/apt,75,146,2
+23487195,Westland,39.91686,-83.12386,Entire home/apt,89,0,2
+23521285,Near North/University,40.01364,-83.00208,Entire home/apt,44,241,30
+23582919,Near South,39.94744,-82.99904000000001,Entire home/apt,197,119,2
+23591091,Rocky Fork-Blacklick,40.08954,-82.87584,Entire home/apt,150,86,1
+23631933,Near North/University,39.98649,-83.00166,Entire home/apt,350,90,1
+23723456,Near South,39.94166,-82.99905,Entire home/apt,218,168,2
+23729423,Near South,39.94003,-82.99096999999999,Entire home/apt,200,130,2
+23730582,Near South,39.94984,-82.97417,Entire home/apt,375,0,2
+23744428,Hilltop,39.92658,-83.10876999999999,Entire home/apt,69,0,2
+23809589,Near North/University,40.01232,-83.00263000000001,Entire home/apt,53,352,1
+23822283,Near East,39.96008,-82.97667,Entire home/apt,85,75,1
+23948008,Northeast,39.98502,-82.91609,Entire home/apt,111,339,1
+24036884,Hilltop,39.95824,-83.08641999999999,Private room,68,153,2
+24039394,Eastmoor/Walnut Ridge,39.942170000000004,-82.91404,Entire home/apt,85,60,2
+24065603,Near North/University,39.98409,-83.01493,Entire home/apt,225,351,1
+24156011,Near North/University,39.974990000000005,-83.00399,Entire home/apt,120,81,2
+24244786,South Linden,39.982279999999996,-82.98734,Entire home/apt,44,348,1
+24259053,Far East,39.99602,-82.78081,Private room,27,208,1
+24306117,Near North/University,39.98955,-82.99619,Entire home/apt,99,212,1
+24310258,West Olentangy,39.99781,-83.07808,Private room,165,87,1
+24359312,Near North/University,40.0123,-82.99925999999999,Entire home/apt,47,351,1
+24412333,Clintonville,40.02095,-83.0061,Entire home/apt,145,0,1
+24449539,Near North/University,39.98668,-83.00831,Entire home/apt,99,0,2
+24453814,Far West,40.00993,-83.14038000000001,Entire home/apt,88,0,2
+24467145,Near South,39.94347,-82.99132,Entire home/apt,300,114,2
+24486298,Westland,39.96765,-83.16807,Entire home/apt,47,0,2
+24599205,Near North/University,40.01252,-83.00146,Shared room,17,140,30
+24642110,Downtown,39.9641,-82.99786,Entire home/apt,125,178,2
+24648483,Clintonville,40.040690000000005,-83.01371999999999,Entire home/apt,10,137,2
+24678009,Near East,39.9675,-82.9665,Entire home/apt,250,152,2
+24695635,Near North/University,39.98095,-83.00325,Entire home/apt,106,106,1
+24750382,Near South,39.93979,-82.98942,Entire home/apt,139,0,1
+24852614,Near North/University,39.976009999999995,-83.00095,Entire home/apt,199,0,2
+24920520,Near South,39.94514,-82.98821,Entire home/apt,350,332,1
+24943318,West Olentangy,39.98643,-83.03469,Entire home/apt,75,1,1
+24969919,Near South,39.95217,-82.98781,Entire home/apt,125,161,1
+25016827,Northeast,40.02884,-82.90932,Private room,60,179,30
+25033320,North Linden,40.04465,-82.99255,Entire home/apt,100,273,1
+25139905,Northwest,40.06896,-83.03950999999999,Entire home/apt,200,0,2
+25140897,Far East,40.00261,-82.77221999999999,Private room,49,0,1
+25158193,West Olentangy,40.025290000000005,-83.03313,Private room,20,0,1
+25189800,Near North/University,40.01187,-82.99998000000001,Shared room,14,169,30
+25190216,Near North/University,40.01347,-83.00144,Shared room,17,180,30
+25190428,Near North/University,40.01318,-83.00164000000001,Private room,21,121,30
+25190576,Near North/University,40.011790000000005,-82.99995,Shared room,17,180,30
+25319292,Downtown,39.957159999999995,-82.99645,Entire home/apt,299,52,2
+25420636,Downtown,39.96705,-83.00057,Entire home/apt,99,324,29
+25422868,Near South,39.94912,-82.95963,Entire home/apt,150,360,1
+25513131,Near North/University,39.98147,-83.01839,Entire home/apt,98,24,1
+25583941,Near North/University,39.97542,-83.0023,Entire home/apt,150,28,2
+25690294,Near North/University,39.98339,-82.99807,Entire home/apt,110,0,2
+25771375,Downtown,39.96161,-82.98344,Entire home/apt,75,231,2
+25800647,Northland,40.09348,-82.95983000000001,Private room,45,52,1
+25801573,Near North/University,39.9891,-83.00861,Entire home/apt,119,8,2
+25806441,Downtown,39.962309999999995,-82.98421,Entire home/apt,120,87,1
+25858734,Near North/University,39.9823,-83.00838,Entire home/apt,115,134,1
+25888047,Near East,39.96748,-82.97208,Entire home/apt,60,4,2
+25888781,Near North/University,39.97716,-83.00310999999999,Entire home/apt,125,42,1
+25917984,Near North/University,39.98858,-83.01174,Entire home/apt,70,146,2
+26129203,Far Northwest,40.11683,-83.08819,Entire home/apt,55,84,2
+26159808,Near South,39.94823,-83.00209,Hotel room,185,0,1
+26182703,Near North/University,40.00597,-83.00793,Private room,44,176,1
+26196862,Downtown,39.96157,-82.98654,Entire home/apt,80,0,2
+26282146,Near East,39.964690000000004,-82.97142,Entire home/apt,59,0,3
+26321993,Near North/University,39.98316,-83.00078,Private room,89,0,1
+26368947,Near North/University,39.989340000000006,-83.01307,Private room,65,208,1
+26411959,Rocky Fork-Blacklick,40.05662,-82.86046,Hotel room,295,0,1
+26422010,Rocky Fork-Blacklick,40.066309999999994,-82.846,Entire home/apt,250,0,1
+26426223,Northeast,39.9852,-82.91668,Entire home/apt,62,334,1
+26428080,Near North/University,39.989329999999995,-83.01297,Private room,50,208,1
+26449096,Hayden Run,40.06003,-83.1664,Hotel room,225,0,1
+26513764,Near North/University,39.99334,-83.00028,Entire home/apt,51,0,1
+26520321,Hayden Run,40.06308,-83.17103,Entire home/apt,140,0,1
+26523261,Downtown,39.95722,-83.00054,Entire home/apt,165,0,1
+26558043,Rocky Fork-Blacklick,40.09404,-82.83216,Entire home/apt,299,0,1
+26656322,Greenlawn/Frank Road,39.90911,-83.06725,Private room,49,0,30
+26717456,North Linden,40.01515,-82.98516,Entire home/apt,125,334,1
+26717475,Eastland/Brice,39.91245,-82.90272,Private room,78,75,1
+26746817,Downtown,39.96525,-82.9924,Entire home/apt,89,61,30
+26752902,Downtown,39.95538,-82.99504,Entire home/apt,92,158,2
+26778179,Downtown,39.95708,-83.00189,Entire home/apt,165,0,2
+26781359,Near East,39.96841,-82.97546,Entire home/apt,10000,235,1
+26799369,Rocky Fork-Blacklick,40.09381,-82.83233,Entire home/apt,180,0,1
+26866919,Near North/University,39.98885,-83.00444,Entire home/apt,110,165,2
+26886570,Near North/University,39.98534,-83.00875,Private room,52,0,1
+26921437,Near North/University,39.985409999999995,-83.00972,Shared room,37,0,1
+26992600,Near East,39.95608,-82.97719000000001,Entire home/apt,105,0,30
+27068144,West Olentangy,40.02146,-83.03448,Private room,32,359,1
+27083885,West Olentangy,40.02146,-83.03448,Private room,33,363,1
+27083994,West Olentangy,40.02146,-83.03448,Private room,32,352,1
+27084298,West Olentangy,40.02146,-83.03448,Private room,35,347,1
+27223749,Northland,40.06645,-82.98988,Entire home/apt,300,330,3
+27229734,Eastmoor/Walnut Ridge,39.94961,-82.88354,Entire home/apt,66,354,1
+27234926,Downtown,39.96415,-82.99802,Entire home/apt,119,156,2
+27252097,West Olentangy,39.98761,-83.04212,Entire home/apt,100,177,2
+27287259,Far North,40.13615,-82.98711999999999,Entire home/apt,80,0,2
+27336057,Near North/University,39.97466,-83.00324,Entire home/apt,89,169,2
+27337115,Near North/University,39.97467,-83.00347,Entire home/apt,90,61,1
+27341208,Near South,39.952090000000005,-82.98821,Entire home/apt,98,150,1
+27370485,Northeast,39.990390000000005,-82.93098,Entire home/apt,90,345,1
+27404813,Near East,39.9655,-82.96555,Entire home/apt,89,358,1
+27410610,Rocky Fork-Blacklick,40.08859,-82.83738000000001,Entire home/apt,115,137,2
+27413732,Near North/University,39.980920000000005,-83.0122,Entire home/apt,149,4,2
+27437147,Clintonville,40.028209999999994,-83.01465999999999,Entire home/apt,110,0,2
+27487168,Far East,40.00119,-82.77172,Private room,36,0,1
+27524416,Near East,39.963770000000004,-82.9557,Private room,115,356,1
+27528037,Northeast,40.03106,-82.91232,Entire home/apt,75,0,2
+27528194,Near North/University,39.97958,-83.00140999999999,Entire home/apt,110,47,1
+27566950,Near North/University,39.986940000000004,-83.01111,Entire home/apt,200,86,2
+27578709,Far North,40.15712,-82.99058000000001,Private room,79,180,1
+27582713,Near East,39.96505,-82.96673,Entire home/apt,117,351,1
+27605655,Near South,39.94732,-82.96616,Entire home/apt,65,32,30
+27609278,Rocky Fork-Blacklick,40.06025,-82.88241,Entire home/apt,150,89,1
+27610848,Near South,39.9458,-82.99175,Entire home/apt,108,0,1
+27653184,North Linden,40.019909999999996,-82.99257,Private room,35,265,1
+27656689,Eastland/Brice,39.92427,-82.82167,Entire home/apt,60,0,4
+27703562,Near East,39.96203,-82.95658,Entire home/apt,100,261,1
+27706607,Near North/University,39.983259999999994,-83.00152,Entire home/apt,208,41,1
+27720723,Near East,39.961940000000006,-82.95554,Private room,115,358,1
+27758520,Downtown,39.96335,-82.98523,Entire home/apt,193,43,1
+27786833,Near South,39.94562,-82.99091,Entire home/apt,75,298,1
+27806768,Near North/University,39.98442,-83.00304,Private room,50,74,1
+27831822,Near North/University,39.985620000000004,-83.0048,Entire home/apt,100,160,1
+27851315,Near East,39.960190000000004,-82.96992,Private room,45,71,2
+27854528,Far East,39.98768,-82.81026,Entire home/apt,67,361,1
+27907197,Far West,40.00983,-83.14671,Private room,30,220,3
+27927319,Near North/University,39.98594,-83.01078000000001,Entire home/apt,199,359,1
+27931932,Downtown,39.96267,-82.98413000000001,Entire home/apt,220,41,1
+27949826,Rocky Fork-Blacklick,40.05934,-82.84924000000001,Entire home/apt,155,0,2
+27961439,Near North/University,40.00843,-82.99905,Private room,48,364,1
+28007717,Near North/University,39.97994,-83.00438,Entire home/apt,89,180,30
+28008219,Near North/University,39.98924,-83.00728000000001,Entire home/apt,119,145,2
+28044574,Near East,39.97126,-82.97691,Entire home/apt,85,289,2
+28051664,West Scioto,39.99152,-83.07453000000001,Private room,38,0,1
+28130969,Northland,40.07042,-82.98385999999999,Private room,21,266,1
+28198124,Near East,39.964659999999995,-82.96712,Entire home/apt,79,338,1
+28255531,Near East,39.9649,-82.96722,Entire home/apt,93,356,1
+28255648,Near East,39.96345,-82.96563,Entire home/apt,91,357,1
+28256046,Near East,39.9653,-82.96670999999999,Entire home/apt,79,0,1
+28256075,Near East,39.9633,-82.96604,Entire home/apt,89,361,1
+28310651,Near North/University,39.98173,-83.00412,Entire home/apt,119,166,1
+28315186,Near North/University,39.99815,-82.99801,Entire home/apt,80,59,1
+28353911,Clintonville,40.05425,-83.01634,Entire home/apt,80,45,1
+28401098,Near North/University,40.01364,-83.00208,Entire home/apt,45,291,30
+28441274,Near East,39.95916,-82.97100999999999,Entire home/apt,46,357,1
+28458764,Near North/University,40.018609999999995,-83.00128000000001,Entire home/apt,225,351,2
+28506061,Near East,39.96031,-82.95052,Private room,50,116,1
+28515685,Northwest,40.07035,-83.06031,Entire home/apt,55,339,1
+28540036,Franklinton,39.955909999999996,-83.0305,Entire home/apt,60,54,2
+28544932,Clintonville,40.05899,-83.00780999999999,Entire home/apt,90,307,1
+28563372,Near North/University,39.97857,-82.99934,Entire home/apt,130,68,2
+28577094,Downtown,39.95447,-82.99956,Entire home/apt,195,268,1
+28635622,Downtown,39.95978,-82.99452,Entire home/apt,1177,338,1
+28635623,Downtown,39.958290000000005,-82.995,Entire home/apt,1177,338,1
+28635624,Downtown,39.95888,-82.99302,Entire home/apt,1177,338,1
+28640445,West Olentangy,39.989509999999996,-83.04089,Entire home/apt,75,132,2
+28664553,Downtown,39.959990000000005,-82.99279,Entire home/apt,999,359,2
+28664607,Downtown,39.96043,-82.99354,Entire home/apt,999,364,2
+28664619,Downtown,39.95902,-82.99358000000001,Entire home/apt,999,364,2
+28664653,Downtown,39.95875,-82.99329,Entire home/apt,999,362,2
+28664660,Downtown,39.96045,-82.99303,Entire home/apt,999,364,2
+28664663,Downtown,39.959759999999996,-82.99452,Entire home/apt,999,364,2
+28664665,Downtown,39.958529999999996,-82.99413,Entire home/apt,999,364,2
+28665722,Downtown,39.9601,-82.99353,Entire home/apt,999,359,2
+28665736,Downtown,39.95865,-82.99476999999999,Entire home/apt,999,361,2
+28665748,Downtown,39.9585,-82.99455999999999,Entire home/apt,999,358,2
+28686218,Near North/University,39.98012,-82.9995,Entire home/apt,300,336,30
+28780205,Downtown,39.95731,-82.99738,Entire home/apt,999,359,2
+28780690,Downtown,39.95748,-82.99878000000001,Entire home/apt,999,360,2
+28780696,Downtown,39.95888,-82.99695,Entire home/apt,999,364,2
+28780700,Downtown,39.957879999999996,-82.99837,Entire home/apt,999,360,2
+28780708,Downtown,39.95712,-82.9966,Entire home/apt,999,360,2
+28780713,Downtown,39.95901,-82.99829,Entire home/apt,999,364,2
+28780714,Downtown,39.956959999999995,-82.99705,Entire home/apt,999,360,2
+28780720,Downtown,39.95883,-82.9968,Entire home/apt,999,364,2
+28780725,Downtown,39.95878,-82.99868000000001,Entire home/apt,999,364,2
+28780731,Downtown,39.95925,-82.99874,Entire home/apt,999,364,2
+28780746,Downtown,39.95843,-82.99833000000001,Entire home/apt,999,364,2
+28780750,Downtown,39.95708,-82.99752,Entire home/apt,999,364,2
+28780756,Downtown,39.957770000000004,-82.99746,Entire home/apt,999,364,2
+28780758,Downtown,39.95769,-82.99875,Entire home/apt,999,364,2
+28782138,Downtown,39.95861,-82.99821999999999,Entire home/apt,999,353,2
+28782143,Downtown,39.95903,-82.99852,Entire home/apt,999,362,2
+28782149,Downtown,39.95909,-82.99846,Entire home/apt,999,364,2
+28782154,Downtown,39.95767,-82.99804,Entire home/apt,999,362,2
+28782158,Downtown,39.95742,-82.99863,Entire home/apt,999,342,2
+28840502,Near North/University,39.98422,-82.9985,Entire home/apt,40,173,1
+28842514,Rocky Fork-Blacklick,40.0991,-82.83185999999999,Entire home/apt,180,0,1
+28843161,Near North/University,40.013009999999994,-83.00158,Entire home/apt,100,90,1
+28933758,Near East,39.96575,-82.96563,Entire home/apt,70,56,2
+28960931,Near North/University,39.98042,-83.00834,Entire home/apt,125,224,2
+28982280,Near North/University,39.985409999999995,-82.99918000000001,Entire home/apt,46,356,1
+28987104,Near South,39.951370000000004,-82.96438,Private room,48,0,1
+29010315,Near North/University,39.9853,-82.99839,Entire home/apt,135,81,1
+29030170,Near North/University,39.9823,-83.00707,Private room,99,179,2
+29059682,Clintonville,40.03143,-83.02213,Entire home/apt,159,319,1
+29060807,North Linden,40.02991,-82.99406,Private room,31,146,1
+29127692,Near East,39.96265,-82.95506999999999,Entire home/apt,65,0,2
+29133248,Near North/University,40.01645,-83.00146,Entire home/apt,75,329,3
+29202832,Near East,39.95838,-82.94957,Entire home/apt,150,0,3
+29213687,Near North/University,39.98944,-83.00779,Entire home/apt,139,142,2
+29214188,Rocky Fork-Blacklick,40.09932,-82.84275,Private room,49,155,30
+29214984,North Linden,40.05728,-82.98259,Private room,38,0,1
+29361858,Near East,39.96601,-82.97577,Private room,100,365,1
+29420068,Greenlawn/Frank Road,39.902809999999995,-83.05855,Entire home/apt,95,66,2
+29458011,Near North/University,40.0138,-83.00898000000001,Private room,56,0,1
+29534561,Near South,39.94133,-82.99121,Entire home/apt,10000,233,1
+29542999,Near East,39.96479,-82.9668,Entire home/apt,1250,336,1
+29631319,Near South,39.947829999999996,-82.99627,Entire home/apt,225,280,2
+29683843,Near North/University,39.97467,-83.00329,Entire home/apt,89,172,2
+29683993,Near South,39.95091,-82.99356999999999,Entire home/apt,125,0,2
+29713406,South Linden,39.9931,-82.95129,Entire home/apt,80,180,3
+29751442,Near East,39.97142,-82.95484,Entire home/apt,68,0,1
+29752166,Clintonville,40.06455,-83.01283000000001,Entire home/apt,150,354,1
+29754058,Northeast,39.98513,-82.91679,Entire home/apt,80,302,1
+29782181,Near South,39.947340000000004,-82.98516,Entire home/apt,70,0,1
+29793047,Clintonville,40.04006,-83.00147,Private room,75,4,30
+29801073,Near North/University,40.010020000000004,-83.0027,Entire home/apt,179,154,2
+29802444,Eastmoor/Walnut Ridge,39.938179999999996,-82.90159,Entire home/apt,144,27,2
+29803691,Near North/University,39.98814,-83.01531,Entire home/apt,225,178,2
+29811364,Near North/University,40.00574,-82.99972,Entire home/apt,299,268,1
+29829290,Near East,39.96455,-82.96553,Entire home/apt,99,352,1
+29869829,Near North/University,40.0168,-83.0077,Entire home/apt,80,0,1
+29897961,Near North/University,39.98059,-83.00298000000001,Entire home/apt,79,115,1
+29900406,Near North/University,39.97854,-83.00968,Entire home/apt,113,176,1
+29903155,Near South,39.946,-82.98536,Entire home/apt,100,0,1
+29903386,Near South,39.94505,-82.99773,Entire home/apt,10000,225,1
+29904484,Eastmoor/Walnut Ridge,39.97016,-82.9232,Entire home/apt,195,170,3
+29906924,Near South,39.95077,-82.96816,Entire home/apt,125,226,2
+29907600,Near South,39.94931,-82.96668000000001,Private room,29,156,2
+29925040,Near North/University,39.97988,-83.00375,Entire home/apt,87,246,3
+29941638,Near North/University,39.97718,-83.00202,Private room,134,350,1
+29942752,West Olentangy,39.98973,-83.05119,Entire home/apt,500,0,1
+29952683,Clintonville,40.0233,-83.01071999999999,Entire home/apt,100,88,1
+30013525,Northland,40.07658,-82.97054,Private room,30,115,1
+30015912,Franklinton,39.95807,-83.02888,Entire home/apt,59,365,1
+30039692,Near North/University,39.9935,-83.00676999999999,Entire home/apt,150,12,1
+30054877,South Linden,40.009009999999996,-82.99543,Private room,40,90,30
+30062626,South Linden,40.00274,-82.95826,Entire home/apt,59,77,1
+30087099,Near East,39.96182,-82.95425,Entire home/apt,10000,271,1
+30094221,Near East,39.963159999999995,-82.95347,Entire home/apt,10000,245,1
+30111129,Franklinton,39.9558,-83.01265,Entire home/apt,60,0,2
+30122014,Near North/University,40.01364,-83.00208,Entire home/apt,85,59,30
+30125049,Far Northwest,40.11821,-83.0631,Entire home/apt,125,0,2
+30127881,Near North/University,39.98383,-82.99638,Entire home/apt,77,84,2
+30158802,Near South,39.95075,-82.99551,Entire home/apt,10000,140,1
+30175980,Near South,39.94339,-82.96879,Private room,59,84,1
+30180309,Near South,39.94471,-82.96856,Private room,79,88,1
+30181589,Near South,39.94404,-82.96785,Private room,79,81,1
+30203881,Near South,39.94481,-82.96857,Private room,59,88,1
+30225456,Near South,39.947990000000004,-82.98625,Entire home/apt,65,76,1
+30310415,Near North/University,39.979659999999996,-82.99996999999999,Entire home/apt,410,332,1
+30338017,Near North/University,39.98643,-83.01043,Entire home/apt,350,347,1
+30375298,Near East,39.96152,-82.95827,Entire home/apt,44,82,1
+30442078,Northeast,40.00793,-82.91821999999999,Private room,25,26,1
+30447003,Near North/University,40.01506,-83.00989,Entire home/apt,750,272,2
+30509139,Near North/University,39.98375,-82.9993,Entire home/apt,175,0,2
+30676426,Near South,39.9495,-82.9671,Private room,45,149,1
+30760809,Northland,40.1028,-82.98059,Private room,33,29,2
+30773187,Clintonville,40.03951,-83.00064,Entire home/apt,56,0,1
+30786619,Clintonville,40.060590000000005,-83.00525999999999,Entire home/apt,105,0,2
+30786971,Near South,39.95005,-82.97323,Entire home/apt,65,139,1
+30882789,Eastmoor/Walnut Ridge,39.95756,-82.92211,Entire home/apt,52,0,3
+30886543,Northeast,40.00854,-82.91975,Private room,25,339,1
+30938722,Near East,39.9636,-82.97896999999999,Entire home/apt,175,173,2
+31001774,Near North/University,39.97919,-83.00689,Entire home/apt,53,8,1
+31037100,Northeast,40.009190000000004,-82.91833000000001,Private room,50,26,1
+31042220,Franklinton,39.95426,-83.0325,Private room,30,18,3
+31042631,Franklinton,39.95471,-83.03116,Private room,30,18,2
+31058112,Near South,39.94939,-82.96628,Private room,40,0,1
+31089688,Downtown,39.964240000000004,-82.99808,Entire home/apt,119,78,2
+31119927,Clintonville,40.036970000000004,-83.02526999999999,Private room,85,0,1
+31145994,Downtown,39.96679,-82.99979,Entire home/apt,129,270,29
+31190423,Near North/University,39.98018,-83.01556,Entire home/apt,1000,0,2
+31281722,Near North/University,39.984609999999996,-83.01565,Entire home/apt,175,0,1
+31285176,Near North/University,39.98342,-82.99668,Entire home/apt,162,84,2
+31339875,Near East,39.96694,-82.96588,Entire home/apt,220,345,1
+31358656,Near North/University,39.98215,-83.01583000000001,Entire home/apt,1000,217,2
+31380058,Near North/University,39.9754,-83.01076,Entire home/apt,109,117,2
+31388249,Near North/University,39.985640000000004,-83.00142,Entire home/apt,96,0,1
+31404618,Near South,39.94604,-82.99712,Entire home/apt,135,89,2
+31468592,Far West,39.97956,-83.15733,Private room,45,330,30
+31594506,Near North/University,40.01766,-83.0135,Entire home/apt,55,324,1
+31620385,Near South,39.938959999999994,-82.9912,Entire home/apt,125,0,1
+31626479,Near North/University,40.017540000000004,-83.01547,Entire home/apt,100,150,1
+31665980,Downtown,39.971940000000004,-83.00886,Entire home/apt,100,0,7
+31692866,Far Northwest,40.1082,-83.0704,Private room,45,0,1
+31711106,Near North/University,39.99064,-83.00104,Private room,60,283,30
+31763052,Near North/University,39.974920000000004,-83.00961,Private room,90,231,1
+31801294,Northland,40.06128,-82.92585,Entire home/apt,140,324,1
+31805332,Franklinton,39.95792,-83.02518,Entire home/apt,75,354,1
+31828230,Near North/University,40.004220000000004,-82.99975,Entire home/apt,379,259,1
+31836589,Eastmoor/Walnut Ridge,39.9707,-82.91575999999999,Entire home/apt,150,261,2
+31836777,Near South,39.94624,-82.99658000000001,Entire home/apt,10000,183,1
+31858701,Northwest,40.072959999999995,-83.0678,Entire home/apt,189,334,2
+31900211,Hilltop,39.94804,-83.08304,Entire home/apt,79,75,3
+31900971,West Olentangy,39.986290000000004,-83.03575,Entire home/apt,75,0,1
+31949217,South Linden,39.98277,-82.98295999999999,Entire home/apt,40,172,1
+31958704,Near South,39.94791,-82.9782,Entire home/apt,65,342,2
+31960228,Near South,39.93712,-82.99539,Entire home/apt,350,86,1
+32007772,Near South,39.94375,-82.98881999999999,Private room,65,23,2
+32015969,Near North/University,39.984970000000004,-83.00010999999999,Entire home/apt,95,169,1
+32035594,Near South,39.94644,-82.98894,Entire home/apt,199,0,2
+32041307,Near North/University,39.984809999999996,-83.00012,Entire home/apt,115,0,1
+32061778,Near North/University,39.993590000000005,-82.99834,Entire home/apt,175,0,1
+32065961,Downtown,39.96414,-82.99804,Entire home/apt,119,121,2
+32086535,Clintonville,40.04698,-83.00614,Private room,60,115,2
+32087787,West Scioto,39.98304,-83.09051,Entire home/apt,90,0,1
+32102098,Northeast,40.02879,-82.93182,Private room,50,365,30
+32121651,Near East,39.96859,-82.97270999999999,Entire home/apt,125,0,30
+32165616,Near North/University,40.0111,-83.00286,Entire home/apt,91,365,1
+32184501,Rocky Fork-Blacklick,40.11165,-82.83032,Private room,36,330,30
+32219190,Near North/University,39.97653,-83.00506,Entire home/apt,41,78,1
+32224329,Near East,39.968059999999994,-82.96763,Entire home/apt,70,85,1
+32268423,Clintonville,40.04694,-83.00726,Private room,50,116,2
+32288769,Clintonville,40.045559999999995,-83.00625,Private room,48,115,2
+32338404,Near North/University,39.981970000000004,-83.0131,Entire home/apt,80,319,2
+32340363,Near North/University,39.981759999999994,-82.99880999999999,Entire home/apt,209,17,2
+32342578,Near North/University,39.9806,-83.00271,Entire home/apt,119,14,2
+32364064,Near South,39.9363,-82.98905,Entire home/apt,185,126,1
+32404751,Hilltop,39.94977,-83.08348000000001,Private room,25,358,3
+32405124,Hilltop,39.94809,-83.08455,Private room,25,350,7
+32405324,Hilltop,39.94918,-83.08493,Private room,25,84,7
+32406632,Near South,39.94627,-82.98623,Entire home/apt,135,8,2
+32465268,Near South,39.93783,-82.98715,Entire home/apt,119,105,2
+32501432,North Linden,40.03159,-82.9945,Private room,38,115,1
+32567433,Near North/University,40.01444,-83.0012,Entire home/apt,85,29,1
+32635192,South Linden,39.99372,-82.98877,Entire home/apt,90,139,2
+32639226,West Olentangy,39.986,-83.04646,Entire home/apt,300,11,1
+32649607,Northwest,40.05434,-83.04758000000001,Entire home/apt,129,160,2
+32663703,Rocky Fork-Blacklick,40.111059999999995,-82.8286,Private room,45,330,30
+32665641,Near North/University,39.986940000000004,-83.01111,Entire home/apt,350,84,2
+32713577,Near East,39.96325,-82.98082,Entire home/apt,250,0,1
+32726870,Near North/University,39.979729999999996,-82.99688,Entire home/apt,275,0,1
+32785636,North Linden,40.05622,-82.97434,Private room,35,55,1
+32814973,Near East,39.9619,-82.97593,Entire home/apt,120,62,1
+32849111,Near North/University,39.97814,-83.0045,Entire home/apt,50,47,1
+32875473,Hayden Run,40.0692,-83.15019000000001,Private room,100,0,1
+32899963,Near North/University,39.98563,-83.00435999999999,Entire home/apt,200,78,2
+32913214,Near North/University,40.00074,-82.99927,Entire home/apt,10000,224,1
+33005808,Near North/University,40.0088,-82.9978,Entire home/apt,56,0,4
+33015611,Near North/University,40.01637,-83.00497,Entire home/apt,158,0,1
+33079859,Downtown,39.97167,-83.00511,Entire home/apt,139,141,1
+33196934,Near North/University,40.01559,-83.00249000000001,Entire home/apt,134,62,1
+33201250,Near East,39.96157,-82.98241999999999,Private room,60,0,1
+33239137,Near East,39.96308,-82.98235,Private room,80,0,1
+33290325,Northwest,40.07071,-83.07651,Entire home/apt,125,223,2
+33389633,Near North/University,39.97397,-83.00966,Entire home/apt,200,83,1
+33447254,Near South,39.92864,-82.98676,Private room,40,365,30
+33464902,West Olentangy,39.9857,-83.05044000000001,Entire home/apt,94,0,3
+33552892,Near South,39.94389,-82.96766,Private room,59,60,1
+33570553,West Scioto,39.98985,-83.08795,Private room,43,0,1
+33586284,Near South,39.93718,-82.99503,Entire home/apt,250,89,1
+33616537,Near North/University,39.98614,-83.01312,Entire home/apt,249,0,30
+33642961,Near North/University,40.01853,-83.00091,Entire home/apt,25,258,30
+33678501,Near North/University,40.01635,-83.00459000000001,Private room,30,167,1
+33688809,Near South,39.93824,-82.9958,Entire home/apt,123,328,1
+33748254,Clintonville,40.06335,-83.0201,Entire home/apt,125,326,2
+33774649,Near South,39.944109999999995,-82.96751,Private room,99,83,1
+33774658,Near South,39.94417,-82.96709,Private room,79,90,1
+33774662,Near South,39.9443,-82.96712,Private room,75,84,1
+33796907,South Linden,40.00074,-82.99162,Entire home/apt,89,365,1
+33824303,Near North/University,39.97397,-83.00966,Entire home/apt,350,82,1
+33867274,Downtown,39.95702,-82.99929,Entire home/apt,94,318,1
+33900902,Near South,39.94634,-82.97245,Private room,35,0,1
+33908109,Northeast,39.98453,-82.93549,Entire home/apt,119,359,2
+33909952,Eastmoor/Walnut Ridge,39.94324,-82.93226,Entire home/apt,100,175,1
+33911049,Downtown,39.95701,-83.00076999999999,Entire home/apt,85,0,2
+33928381,Downtown,39.95702,-82.99929,Entire home/apt,95,313,1
+33932697,Northwest,40.062090000000005,-83.05469000000001,Entire home/apt,200,353,2
+33940179,Downtown,39.95702,-82.99929,Entire home/apt,95,295,1
+33944900,Downtown,39.95695,-82.9993,Entire home/apt,95,0,1
+33957259,Near East,39.96055,-82.96554,Entire home/apt,157,194,2
+33960281,Near South,39.943690000000004,-82.96719,Private room,59,54,1
+33965446,Downtown,39.95576,-82.99611999999999,Entire home/apt,100,165,2
+33970569,North Linden,40.019079999999995,-82.99107,Entire home/apt,69,265,1
+34016636,Downtown,39.95791,-82.99995,Entire home/apt,96,305,1
+34021765,Downtown,39.95791,-82.99995,Entire home/apt,90,315,1
+34022670,Downtown,39.95791,-82.99995,Entire home/apt,90,304,1
+34022918,Downtown,39.95791,-82.99995,Entire home/apt,90,304,1
+34023088,Downtown,39.95791,-82.99995,Entire home/apt,90,307,1
+34053329,Near South,39.94954,-82.97291,Entire home/apt,350,172,2
+34055994,Near North/University,39.99398,-82.99641,Entire home/apt,140,346,1
+34063381,Near East,39.95786,-82.96799999999999,Entire home/apt,42,352,1
+34063855,Near North/University,39.97956,-83.00211,Entire home/apt,149,14,2
+34078800,Near North/University,39.98344,-83.006,Entire home/apt,85,166,2
+34115571,Near North/University,39.98406,-83.00756,Entire home/apt,10000,247,1
+34180725,Near South,39.93416,-82.99,Private room,50,139,1
+34233565,Downtown,39.95791,-82.99995,Entire home/apt,87,310,1
+34242944,Downtown,39.95791,-82.99995,Entire home/apt,87,309,1
+34243446,Downtown,39.95791,-82.99995,Entire home/apt,119,259,1
+34244184,Downtown,39.95791,-82.99995,Entire home/apt,119,259,1
+34246413,Downtown,39.96252,-82.98416,Entire home/apt,500,35,1
+34281336,Near North/University,39.98404,-83.01565,Entire home/apt,295,27,2
+34286051,Downtown,39.95791,-82.99995,Entire home/apt,87,315,1
+34316647,South Linden,40.01157,-82.99608,Private room,25,267,30
+34328775,Near South,39.94468,-82.98724,Entire home/apt,120,76,2
+34338841,Northland,40.06545,-82.98866,Private room,25,55,30
+34349508,Northland,40.06446,-82.98919000000001,Entire home/apt,150,0,2
+34397638,Near North/University,39.988479999999996,-83.00476,Entire home/apt,140,0,1
+34442208,Northland,40.101209999999995,-82.96718,Entire home/apt,50,0,1
+34445753,Near East,39.96131,-82.97187,Private room,45,341,1
+34469946,Near South,39.94095,-82.96936,Entire home/apt,180,357,2
+34641867,Near North/University,40.01177,-82.9997,Entire home/apt,28,252,30
+34647802,Near North/University,40.0017,-82.99936,Entire home/apt,180,0,7
+34685923,Near North/University,39.985240000000005,-83.01714,Entire home/apt,652,335,2
+34691154,Eastmoor/Walnut Ridge,39.965540000000004,-82.91377,Private room,40,330,5
+34725750,Near North/University,39.98319,-82.99887,Entire home/apt,110,242,1
+34726131,Eastmoor/Walnut Ridge,39.964859999999994,-82.91515,Private room,45,164,5
+34727515,Eastmoor/Walnut Ridge,39.96501,-82.91484,Private room,35,330,5
+34729209,Eastmoor/Walnut Ridge,39.9657,-82.91320999999999,Private room,40,235,5
+34729472,Eastmoor/Walnut Ridge,39.96488,-82.91466,Private room,40,148,5
+34729857,Eastmoor/Walnut Ridge,39.96545,-82.91533000000001,Private room,40,330,5
+34746860,Near North/University,40.01576,-83.00081999999999,Entire home/apt,100,109,1
+34757319,Near North/University,40.01332,-83.00175,Shared room,17,180,30
+34773845,Near North/University,40.01357,-83.00091,Shared room,17,169,30
+34780550,Franklinton,39.95622,-83.01095,Entire home/apt,92,260,1
+34781032,Franklinton,39.95622,-83.01095,Entire home/apt,92,260,1
+34813226,Near North/University,39.97876,-82.99984,Entire home/apt,50,365,1
+34966217,Franklinton,39.960770000000004,-83.01358,Entire home/apt,84,327,2
+34967484,Franklinton,39.960770000000004,-83.01358,Entire home/apt,92,353,2
+34977589,Rocky Fork-Blacklick,40.08965,-82.8894,Private room,39,114,1
+34979462,Hayden Run,40.06397,-83.17321,Private room,75,0,1
+34979672,Downtown,39.95821,-82.98944,Private room,45,269,30
+35114591,Near North/University,39.98271,-83.00086,Entire home/apt,119,151,2
+35147026,Near North/University,39.9851,-83.00778000000001,Entire home/apt,95,90,2
+35150488,Near North/University,40.00651,-82.99793000000001,Private room,50,90,30
+35223461,Near North/University,39.99568,-82.9984,Entire home/apt,45,81,2
+35235545,Franklinton,39.960770000000004,-83.01358,Entire home/apt,92,324,2
+35286556,Near North/University,39.978,-83.00314,Entire home/apt,65,47,1
+35286633,Clintonville,40.02243,-83.00149,Entire home/apt,58,1,1
+35311078,Near South,39.9511,-82.98912,Entire home/apt,184,0,1
+35311902,Near East,39.965270000000004,-82.96271999999999,Entire home/apt,90,296,2
+35351958,Far North,40.13743,-83.00114,Entire home/apt,65,0,1
+35423647,Near South,39.94095,-82.96875,Entire home/apt,180,178,1
+35468701,Near North/University,39.97971,-83.00334000000001,Private room,75,208,1
+35546117,Northland,40.06733,-82.9461,Entire home/apt,150,323,1
+35564833,Near North/University,39.986309999999996,-83.00538,Entire home/apt,90,113,2
+35568513,Near North/University,39.9888,-83.00514,Entire home/apt,85,0,2
+35633573,Near North/University,39.98624,-83.00506,Entire home/apt,10000,247,1
+35634056,Northland,40.07078,-82.97054,Entire home/apt,200,2,2
+35634272,Near North/University,39.98628,-83.00421999999999,Entire home/apt,10000,226,1
+35687139,West Olentangy,39.98567,-83.0345,Entire home/apt,75,327,2
+35716859,Near East,39.964220000000005,-82.97839,Entire home/apt,99,13,2
+35718762,Downtown,39.95702,-82.99929,Entire home/apt,86,315,1
+35745943,Near North/University,39.9964,-83.00021,Entire home/apt,69,22,1
+35802261,Near North/University,39.97865,-83.00445,Entire home/apt,87,81,1
+35842291,Near North/University,39.987140000000004,-83.01119,Entire home/apt,350,89,2
+35872570,Near South,39.93633,-82.98299,Entire home/apt,90,74,4
+35916240,Near North/University,39.98178,-83.01514,Entire home/apt,400,196,2
+35960532,Eastmoor/Walnut Ridge,39.93358,-82.90986,Shared room,35,365,30
+36068655,Near South,39.95114,-82.99481,Entire home/apt,295,306,2
+36103872,Clintonville,40.022659999999995,-83.01165,Entire home/apt,150,122,2
+36103990,Near South,39.93773,-82.99162,Entire home/apt,200,6,1
+36201077,Downtown,39.96428,-82.99778,Entire home/apt,119,159,2
+36204248,Near North/University,39.97665,-83.00353,Entire home/apt,55,52,1
+36237730,Near North/University,39.98599,-82.99818,Entire home/apt,99,76,1
+36254952,Clintonville,40.027590000000004,-83.02231,Entire home/apt,89,313,1
+36302698,North Linden,40.0259,-82.94288,Entire home/apt,285,280,1
+36339710,Rocky Fork-Blacklick,40.05495,-82.84658,Entire home/apt,99,0,30
+36346074,Near North/University,39.97467,-83.00347,Entire home/apt,149,354,1
+36380535,Near North/University,39.9838,-83.00644,Entire home/apt,120,153,2
+36409437,Near North/University,40.01307,-83.00183,Entire home/apt,59,33,2
+36452866,Near North/University,39.98304,-83.01089,Entire home/apt,121,0,7
+36483168,Near East,39.96771,-82.96755,Entire home/apt,75,109,1
+36527731,Near East,39.95912,-82.96505,Entire home/apt,350,75,1
+36547696,Downtown,39.96428,-82.99996999999999,Entire home/apt,119,90,2
+36548744,Northeast,39.98604,-82.93413000000001,Entire home/apt,89,355,2
+36596947,Northland,40.06548,-82.98172,Private room,32,351,3
+36623510,Eastmoor/Walnut Ridge,39.94727,-82.93406,Entire home/apt,60,0,29
+36626866,Northeast,40.04808,-82.91471999999999,Entire home/apt,129,302,2
+36646064,Near East,39.96275,-82.97702,Entire home/apt,80,0,2
+36676996,Near North/University,39.987970000000004,-83.00411,Entire home/apt,70,0,2
+36700443,Near South,39.94808,-82.98770999999999,Entire home/apt,550,47,1
+36728950,Downtown,39.96428,-82.99778,Entire home/apt,60,333,1
+36758619,Near South,39.94808,-82.98770999999999,Entire home/apt,500,24,1
+36759470,Near South,39.94808,-82.98770999999999,Entire home/apt,500,42,1
+36760268,Near South,39.94808,-82.98770999999999,Entire home/apt,500,52,1
+36761523,Near South,39.9483,-82.98846,Entire home/apt,500,1,1
+36761915,Near South,39.94808,-82.98770999999999,Entire home/apt,500,64,1
+36768875,Near North/University,39.99215,-82.99868000000001,Entire home/apt,1000,187,1
+36811312,Near South,39.94577,-82.99225,Entire home/apt,100,87,2
+36845520,Clintonville,40.02223,-83.00097,Entire home/apt,99,0,1
+36883219,Near North/University,39.992090000000005,-82.99991,Entire home/apt,1000,154,1
+36906538,Near North/University,39.97397,-83.00966,Entire home/apt,350,90,1
+36918778,South Linden,39.98292,-82.98865,Entire home/apt,48,180,1
+36939524,Near North/University,39.97397,-83.00966,Entire home/apt,350,90,1
+36945757,Northland,40.066109999999995,-82.98172,Private room,27,145,2
+37053393,Near North/University,39.97762,-82.99849,Entire home/apt,135,169,1
+37053655,Near North/University,39.97762,-82.99849,Entire home/apt,175,164,1
+37053853,Near North/University,39.97762,-82.99849,Entire home/apt,150,168,1
+37055336,Near North/University,39.98838,-83.00407,Entire home/apt,90,0,3
+37055729,Downtown,39.96428,-82.99778,Entire home/apt,295,55,2
+37122918,Eastmoor/Walnut Ridge,39.98043,-82.91999,Entire home/apt,44,158,1
+37145068,Near North/University,40.01207,-83.00159000000001,Entire home/apt,325,270,2
+37153899,Franklinton,39.95257,-83.02271,Entire home/apt,46,362,1
+37154893,Near North/University,39.98554,-82.99920999999999,Entire home/apt,75,142,1
+37155054,Near North/University,39.98502,-82.99915,Entire home/apt,99,163,1
+37159760,Near North/University,39.995740000000005,-82.99689000000001,Entire home/apt,400,73,2
+37183257,Near North/University,39.98319,-83.00887,Entire home/apt,225,0,2
+37288417,Far Northwest,40.131809999999994,-83.08851999999999,Private room,45,83,1
+37315904,Near North/University,39.981770000000004,-83.00169,Entire home/apt,119,17,2
+37317846,Hilltop,39.93356,-83.06044,Private room,55,55,1
+37319402,North Linden,40.020179999999996,-82.97251999999999,Private room,50,41,2
+37347972,Clintonville,40.02198,-83.01019000000001,Private room,21,259,30
+37357516,Clintonville,40.04552,-83.01171,Entire home/apt,1000,248,2
+37394149,Near South,39.95069,-82.98801999999999,Entire home/apt,100,143,1
+37430502,South Linden,39.99395,-82.98964000000001,Entire home/apt,125,153,2
+37430865,Downtown,39.9634,-82.99809,Entire home/apt,119,79,2
+37515181,Clintonville,40.02071,-83.0102,Shared room,19,334,30
+37515810,Clintonville,40.02135,-83.00975,Shared room,19,352,30
+37534191,Northland,40.087590000000006,-82.93274,Private room,42,330,1
+37597051,Near South,39.95133,-82.96159,Entire home/apt,59,363,1
+37628793,Near North/University,39.9917,-83.00299,Private room,34,0,1
+37723221,Near North/University,39.98321,-83.00158,Entire home/apt,500,43,1
+37784306,Near North/University,39.99375,-83.00759000000001,Entire home/apt,200,50,5
+37824674,Near South,39.949729999999995,-82.97359,Entire home/apt,400,0,2
+37832934,Near East,39.9628,-82.98,Entire home/apt,65,46,5
+37833167,Near East,39.963359999999994,-82.97983,Entire home/apt,69,145,5
+37837293,Near North/University,39.9937,-83.0059,Entire home/apt,150,70,5
+37857760,Near North/University,39.98348,-83.00754,Entire home/apt,42,59,1
+37874238,Near North/University,39.9941,-83.00759000000001,Entire home/apt,150,1,2
+37874408,Near North/University,39.99447,-83.00729,Entire home/apt,150,0,2
+37882902,West Olentangy,39.99497,-83.03652,Entire home/apt,85,23,2
+37928558,Downtown,39.97126,-83.00338,Entire home/apt,129,90,2
+37963744,Near North/University,39.998059999999995,-83.0057,Entire home/apt,35,44,1
+37965217,Near North/University,40.013329999999996,-83.00050999999999,Entire home/apt,299,359,2
+37965261,Near North/University,40.011520000000004,-83.00035,Entire home/apt,299,345,2
+37973968,Downtown,39.96239,-82.98399,Entire home/apt,124,8,1
+37983932,Near North/University,39.98503,-83.01632,Entire home/apt,125,112,1
+37985676,Near North/University,39.99775,-83.00349,Entire home/apt,36,0,1
+37985908,Near North/University,39.99633,-83.00484,Entire home/apt,36,48,1
+37987421,Near North/University,39.99664,-83.0055,Entire home/apt,35,35,1
+37987427,Near North/University,39.99799,-83.00394,Entire home/apt,36,46,1
+37996353,Downtown,39.96428,-82.99778,Entire home/apt,129,55,2
+38000925,Near North/University,39.99487,-82.99625,Entire home/apt,300,69,2
+38047463,Northland,40.0857,-82.93211,Entire home/apt,160,0,3
+38071523,Near North/University,40.01323,-83.00072,Entire home/apt,995,345,2
+38072205,Downtown,39.96428,-82.99778,Entire home/apt,175,0,2
+38072678,Downtown,39.96428,-82.99778,Entire home/apt,179,44,2
+38073577,Near North/University,40.01128,-83.00086999999999,Private room,35,74,1
+38090517,South Linden,39.98253,-82.94887,Entire home/apt,89,325,1
+38099681,Near South,39.933240000000005,-82.98974,Private room,55,70,1
+38104535,Near North/University,40.013000000000005,-83.00071,Private room,35,82,1
+38104611,Near North/University,40.01161,-83.00056,Private room,35,83,1
+38104632,Near North/University,40.013259999999995,-83.00203,Private room,35,81,1
+38104661,Near North/University,40.01324,-83.00078,Private room,35,82,1
+38105561,Clintonville,40.030770000000004,-83.0009,Entire home/apt,400,121,2
+38105884,Near North/University,40.01178,-83.00145,Private room,35,84,1
+38105885,Near North/University,40.01336,-83.00222,Private room,35,89,1
+38105887,Near North/University,40.01191,-83.00192,Private room,35,84,1
+38105890,Near North/University,40.011390000000006,-83.00215,Private room,35,87,1
+38105891,Near North/University,40.01292,-83.00183,Private room,35,89,1
+38126005,Near East,39.966840000000005,-82.97480999999999,Entire home/apt,129,72,1
+38152655,Near North/University,39.98243,-83.00723,Entire home/apt,119,318,2
+38164775,Near North/University,40.01509,-82.99883,Entire home/apt,300,6,2
+38176454,Franklinton,39.95722,-83.02796,Entire home/apt,54,353,1
+38212647,Far East,39.95087,-82.83102,Entire home/apt,49,0,1
+38214337,Near North/University,39.99158,-83.00161,Private room,25,88,30
+38237675,Far Northwest,40.13353,-83.07751,Entire home/apt,75,4,2
+38296494,West Olentangy,40.043820000000004,-83.04626999999999,Entire home/apt,550,0,1
+38321250,Northland,40.087509999999995,-82.93059000000001,Private room,43,331,1
+38352416,Near North/University,39.9864,-83.00303000000001,Entire home/apt,65,119,2
+38359601,Near North/University,39.98871,-83.01581,Entire home/apt,55,27,1
+38399312,Near South,39.95064,-82.99996,Entire home/apt,119,150,30
+38412628,Near North/University,40.01317,-83.00233,Entire home/apt,325,269,2
+38412870,Near North/University,40.01218,-83.00242,Entire home/apt,325,270,2
+38413815,Near North/University,39.99015,-83.00867,Entire home/apt,385,267,2
+38425702,Near North/University,40.01193,-83.0015,Entire home/apt,2000,0,2
+38427905,Near South,39.94175,-82.99637,Entire home/apt,119,74,2
+38430557,Clintonville,40.0321,-83.02078,Private room,60,73,1
+38431938,Near East,39.9621,-82.96485,Entire home/apt,149,7,2
+38437430,Near North/University,39.97467,-83.00347,Entire home/apt,95,87,2
+38462075,Clintonville,40.07079,-83.00498,Entire home/apt,178,240,2
+38493520,Near South,39.95142,-82.99759,Entire home/apt,350,80,2
+38493789,Near North/University,40.013090000000005,-83.00174,Entire home/apt,245,267,2
+38520172,Near North/University,39.98205,-83.00057,Entire home/apt,219,17,2
+38646422,Northwest,40.077870000000004,-83.09911,Private room,45,346,30
+38648313,Northwest,40.07861,-83.09756999999999,Private room,32,236,29
+38669455,Near South,39.93557,-82.98518,Entire home/apt,70,0,1
+38675404,Northwest,40.07082,-83.03876,Entire home/apt,65,49,1
+38703615,Near South,39.935340000000004,-82.98401,Private room,50,0,30
+38716765,Near South,39.93387,-82.9848,Private room,50,0,1
+38717413,Near South,39.93445,-82.98527,Private room,50,0,1
+38726766,Near East,39.962379999999996,-82.97124000000001,Entire home/apt,185,50,2
+38746734,Near East,39.959540000000004,-82.95255999999999,Entire home/apt,96,211,1
+38747099,Franklinton,39.95345,-83.02789,Private room,35,0,1
+38776521,Near North/University,39.98661,-83.0025,Entire home/apt,275,1,2
+38782309,Near East,39.97129,-82.98098,Entire home/apt,96,42,2
+38796920,Near North/University,39.98661,-83.0025,Entire home/apt,275,1,2
+38821628,Near North/University,39.98661,-83.0025,Entire home/apt,350,0,2
+38821966,Near North/University,39.98661,-83.0025,Entire home/apt,140,0,2
+38842861,Near North/University,39.98661,-83.0025,Entire home/apt,350,0,2
+38843289,Near East,39.9631,-82.97998,Entire home/apt,70,0,1
+38844148,Franklinton,39.95283,-83.02772,Entire home/apt,120,30,1
+38852543,Far North,40.133520000000004,-82.99389000000001,Entire home/apt,83,348,3
+38864631,Near North/University,39.9859,-83.00525,Entire home/apt,10000,234,1
+38868238,Westland,39.95397,-83.14699,Entire home/apt,141,232,1
+38897514,Near North/University,39.98502,-83.01283000000001,Entire home/apt,265,340,2
+38898749,Near North/University,39.985009999999996,-83.01290999999999,Private room,160,235,2
+38900158,Near North/University,40.01589,-82.99938,Entire home/apt,199,50,1
+38900550,Near North/University,39.98537,-83.01172,Private room,120,261,2
+38902964,Near North/University,40.00812,-82.99973,Private room,300,361,1
+38903253,Near North/University,40.00972,-83.00111,Private room,500,88,1
+38927499,Near North/University,39.98519,-83.0089,Entire home/apt,200,158,2
+38927976,Near South,39.941,-82.98785,Entire home/apt,100,294,1
+38959712,Northwest,40.05677,-83.04786999999999,Entire home/apt,75,123,5
+38959936,Near East,39.96198,-82.95584000000001,Entire home/apt,80,248,1
+39003869,Near South,39.94885,-82.99361,Entire home/apt,99,274,1
+39038474,South Linden,40.00503,-82.97973,Private room,50,54,1
+39058184,Near South,39.93897,-82.9745,Entire home/apt,88,59,1
+39063726,Near North/University,39.99712,-82.99849,Entire home/apt,400,80,2
+39088000,Near North/University,39.97769,-83.00269,Entire home/apt,175,0,1
+39134097,Eastmoor/Walnut Ridge,39.97169,-82.91592,Entire home/apt,75,249,1
+39136197,Near North/University,40.00809,-83.0014,Private room,200,87,1
+39165879,Downtown,39.95969,-82.99869,Entire home/apt,83,179,2
+39185417,South Linden,40.009159999999994,-82.97053000000001,Entire home/apt,82,75,2
+39198166,Far Northwest,40.11006,-83.05655,Entire home/apt,180,154,1
+39220302,Near South,39.94641,-82.98449000000001,Entire home/apt,150,162,1
+39247546,Near South,39.94603,-82.97414,Entire home/apt,61,0,1
+39315443,Near North/University,39.98102,-83.00405,Entire home/apt,115,162,3
+39318277,Near North/University,40.01334,-83.00032,Entire home/apt,25,317,30
+39337373,Near East,39.96294,-82.95636999999999,Entire home/apt,82,0,6
+39338442,Near North/University,40.014540000000004,-83.00771,Entire home/apt,175,234,1
+39341198,Near South,39.9508,-82.98917,Entire home/apt,65,293,1
+39341606,Near South,39.93345,-82.98702,Entire home/apt,97,150,2
+39368448,Near North/University,39.9838,-83.01064000000001,Entire home/apt,350,82,1
+39369196,Northeast,39.98977,-82.92966,Entire home/apt,75,337,1
+39411886,Near South,39.94442,-82.97228,Entire home/apt,75,315,30
+39416332,Near North/University,39.980709999999995,-83.00326,Entire home/apt,95,160,1
+39461713,Near East,39.95987,-82.95622,Entire home/apt,88,0,2
+39486712,Near North/University,40.00824,-83.00115,Private room,200,88,1
+39504856,Northeast,40.040409999999994,-82.92742,Entire home/apt,75,305,1
+39508087,Near North/University,39.98505,-83.00348000000001,Entire home/apt,199,57,2
+39509969,Near South,39.938159999999996,-82.9735,Entire home/apt,79,151,1
+39548469,Near North/University,39.99071,-82.99721,Entire home/apt,499,50,1
+39575559,Near North/University,39.983290000000004,-83.00305999999999,Entire home/apt,75,59,1
+39590575,Near North/University,39.99498,-82.99766,Entire home/apt,70,68,2
+39612208,Far South,39.915259999999996,-82.96117,Private room,40,0,2
+39612232,Near South,39.948440000000005,-82.98818,Entire home/apt,45,54,1
+39614346,Near East,39.957240000000006,-82.97006999999999,Entire home/apt,45,365,1
+39621898,Northland,40.09807,-82.96784,Entire home/apt,94,309,2
+39629621,Near South,39.95006,-82.99219000000001,Entire home/apt,129,12,2
+39631512,Near South,39.94865,-82.99128,Entire home/apt,139,12,2
+39636602,Near East,39.9684,-82.96406,Entire home/apt,64,362,1
+39646646,Greenlawn/Frank Road,39.903290000000005,-83.05208,Shared room,80,88,1
+39646842,Near East,39.96983,-82.96545,Entire home/apt,61,349,3
+39647280,Near East,39.968,-82.96514,Entire home/apt,160,74,1
+39648072,Clintonville,40.0221,-83.00115,Entire home/apt,80,109,2
+39654163,Near North/University,40.01162,-83.00232,Private room,32,50,2
+39668530,Clintonville,40.02602,-83.02016,Private room,23,296,30
+39702211,Near East,39.95746,-82.95835,Entire home/apt,53,365,1
+39723474,West Olentangy,39.98602,-83.0464,Entire home/apt,300,13,1
+39725188,Near North/University,39.98373,-83.01064000000001,Entire home/apt,350,83,1
+39732080,Eastmoor/Walnut Ridge,39.95969,-82.92361,Entire home/apt,159,168,2
+39776708,Near North/University,39.98608,-83.00447,Entire home/apt,50,31,1
+39777007,Near North/University,39.99068,-83.0092,Private room,43,31,2
+39778119,Near North/University,39.99003,-83.00779,Private room,40,32,2
+39778894,Near North/University,39.99195,-83.01002,Private room,42,31,2
+39779208,Near North/University,39.99018,-83.00819,Private room,40,31,2
+39779380,Near North/University,40.01205,-83.00223000000001,Private room,30,5,2
+39779670,Near North/University,39.99175,-83.00858000000001,Private room,40,25,2
+39779822,Near North/University,39.99133,-83.00953,Private room,40,29,2
+39821244,Near North/University,40.0121,-83.00372,Private room,32,0,2
+39821930,Near North/University,40.01222,-83.00196,Private room,32,5,2
+39822059,Near North/University,40.01356,-83.00350999999999,Private room,32,5,2
+39838825,Near North/University,40.01084,-83.00231,Private room,32,5,2
+39839244,Near North/University,39.97876,-83.01516,Entire home/apt,50,0,2
+39839382,Near North/University,40.01178,-83.00225,Private room,32,5,2
+39839629,Near North/University,40.01251,-83.00003000000001,Private room,32,5,2
+39839950,Near North/University,40.0124,-83.00237,Private room,32,5,2
+39840334,Near North/University,40.0119,-83.0022,Private room,32,5,2
+39840600,Near North/University,40.01103,-83.00045,Private room,32,5,2
+39841127,Near North/University,40.01283,-83.00123,Private room,32,68,2
+39843561,Near North/University,40.01298,-83.00228,Private room,32,73,2
+39843839,Near North/University,40.01233,-83.00118,Private room,32,6,2
+39844129,Near North/University,40.012840000000004,-83.00158,Private room,32,72,2
+39855489,Near South,39.92948,-82.99284,Entire home/apt,65,122,2
+39855614,Near East,39.961090000000006,-82.96599,Entire home/apt,46,362,1
+39868194,North Linden,40.01681,-82.99212,Entire home/apt,50,25,1
+39870500,Franklinton,39.952690000000004,-83.02226999999999,Entire home/apt,42,333,1
+39870975,Near North/University,40.01533,-82.99678,Entire home/apt,55,1,2
+39896574,Near North/University,40.01296,-83.00305999999999,Private room,32,5,2
+39897048,Near North/University,40.0118,-83.0029,Private room,32,4,2
+39897489,Near North/University,40.01213,-83.00214,Private room,32,2,2
+39898964,Near North/University,40.01285,-83.00286,Private room,32,5,2
+39899877,Near North/University,40.011509999999994,-83.00251999999999,Private room,32,5,2
+39900056,Near North/University,40.012879999999996,-83.00322,Private room,32,2,2
+39941214,South Linden,39.98278,-82.99087,Entire home/apt,179,90,1
+39951330,Near North/University,39.99583,-82.99656999999999,Entire home/apt,10000,247,1
+39985553,Near North/University,39.98786,-83.01262,Entire home/apt,159,9,2
+39987064,Near South,39.94792,-82.98178,Entire home/apt,76,8,1
+39987112,Near South,39.95216,-82.98605,Entire home/apt,120,123,2
+39987327,Near South,39.94623,-82.98040999999999,Entire home/apt,76,65,1
+40022814,West Olentangy,39.99738,-83.07845,Private room,95,364,1
+40029093,Near South,39.94594,-82.95971,Entire home/apt,115,0,1
+40037672,Downtown,39.96519,-82.99701,Entire home/apt,119,90,2
+40040287,Near South,39.948679999999996,-82.99271,Entire home/apt,300,341,2
+40055003,Near North/University,39.977,-82.99837,Entire home/apt,78,72,1
+40055213,West Scioto,39.99608,-83.07811,Private room,165,89,1
+40056968,West Olentangy,39.996340000000004,-83.07628000000001,Private room,70,364,1
+40086866,Northland,40.08656,-82.9309,Private room,41,330,1
+40102232,Near North/University,40.01797,-83.0134,Entire home/apt,130,0,1
+40140975,Clintonville,40.037859999999995,-83.01817,Entire home/apt,90,348,2
+40158608,Near South,39.95093,-83.00076,Entire home/apt,111,0,1
+40162695,Near North/University,39.99488,-82.99613000000001,Entire home/apt,200,69,2
+40174638,Near North/University,39.9859,-83.01103,Entire home/apt,178,0,1
+40175552,Near North/University,39.99258,-82.99963000000001,Entire home/apt,86,49,1
+40177458,Near North/University,39.981559999999995,-83.00346,Entire home/apt,129,0,2
+40193971,Near South,39.93527,-82.99441,Entire home/apt,199,145,2
+40204872,Near North/University,40.001490000000004,-82.99911999999999,Entire home/apt,85,0,2
+40207848,Near North/University,39.99054,-83.0001,Private room,55,211,30
+40213146,Northwest,40.05664,-83.04656,Entire home/apt,70,145,5
+40213541,Northwest,40.056490000000004,-83.04637,Entire home/apt,70,128,1
+40214457,Northwest,40.05457,-83.04865,Entire home/apt,75,53,5
+40222664,Northwest,40.05503,-83.04445,Entire home/apt,65,121,5
+40232246,Near North/University,40.01698,-83.00409,Entire home/apt,78,1,1
+40237026,Near North/University,39.9813,-83.00820999999999,Entire home/apt,411,98,2
+40239707,Downtown,39.95923,-82.99987,Entire home/apt,65,328,1
+40260123,Near North/University,39.9836,-83.00495,Entire home/apt,72,326,7
+40275467,Near North/University,39.99518,-82.99728,Entire home/apt,110,75,2
+40303607,Near South,39.948640000000005,-82.99425,Entire home/apt,150,23,2
+40309696,Downtown,39.958220000000004,-82.99978,Entire home/apt,85,342,1
+40310837,Near North/University,40.01206,-83.0023,Entire home/apt,375,95,2
+40347682,Near North/University,40.01266,-83.00053,Entire home/apt,375,125,2
+40347805,Near North/University,40.01675,-83.00021,Entire home/apt,125,240,2
+40351412,Near South,39.94882,-82.97321,Entire home/apt,77,0,7
+40366843,Near South,39.94867,-82.98595,Entire home/apt,110,350,10
+40370326,Near North/University,39.98553,-83.00545,Entire home/apt,224,337,1
+40379387,Hilltop,39.95215,-83.07786,Private room,90,25,30
+40397893,Near North/University,40.0167,-82.99963000000001,Entire home/apt,125,149,2
+40430589,Near North/University,39.99556,-82.99685,Entire home/apt,140,80,2
+40430828,Near North/University,39.996629999999996,-82.99589,Entire home/apt,100,83,2
+40468759,Near South,39.950379999999996,-82.97259,Entire home/apt,109,165,7
+40491301,Near East,39.96748,-82.97161,Entire home/apt,99,267,2
+40492079,Near South,39.94171,-82.99578000000001,Private room,52,0,1
+40511925,Near North/University,39.98372,-83.01588000000001,Entire home/apt,200,0,1
+40531348,Near North/University,39.98209,-83.00362,Entire home/apt,80,173,1
+40539620,Near North/University,40.010659999999994,-83.00213000000001,Private room,32,4,2
+40539832,Near North/University,40.01092,-83.0027,Private room,32,5,2
+40540643,Near North/University,40.010870000000004,-83.00249000000001,Private room,32,1,2
+40540868,Near North/University,40.011520000000004,-83.00378,Entire home/apt,356,259,2
+40541211,Near North/University,40.01072,-83.00247,Private room,32,5,2
+40541560,Near North/University,40.012209999999996,-83.00165,Private room,32,2,2
+40541733,Near North/University,40.01277,-83.0005,Private room,32,5,2
+40542676,Near North/University,40.0136,-83.00375,Private room,35,8,1
+40542929,Near North/University,40.012159999999994,-83.00319,Private room,34,10,1
+40543114,Near North/University,40.012209999999996,-83.00303000000001,Private room,36,10,1
+40543325,Near North/University,40.011359999999996,-83.00341999999999,Private room,36,12,1
+40543544,Near North/University,40.012190000000004,-83.00344,Private room,40,12,1
+40565293,Near South,39.93254,-82.95538,Private room,41,67,2
+40565895,Near North/University,40.01206,-82.99994000000001,Private room,36,5,2
+40567061,Near North/University,40.01272,-83.00081999999999,Private room,36,2,2
+40567308,Near South,39.9307,-82.95604,Private room,37,82,2
+40567974,Clintonville,40.06449,-83.01244,Entire home/apt,150,72,1
+40568031,Clintonville,40.0634,-83.01479,Entire home/apt,200,357,1
+40596828,Near North/University,39.99285,-82.99818,Entire home/apt,95,0,1
+40612168,Near South,39.94178,-82.98509,Entire home/apt,350,82,2
+40624177,Near South,39.950720000000004,-82.9724,Private room,60,115,7
+40676784,Near South,39.95091,-82.97368,Entire home/apt,350,16,2
+40707099,Near South,39.93849,-82.979,Entire home/apt,91,357,1
+40731685,Near North/University,39.97395,-83.00418,Entire home/apt,115,162,2
+40735482,Near North/University,39.99088,-83.00961,Entire home/apt,113,38,1
+40756696,Near North/University,39.98375,-82.99643,Entire home/apt,90,160,1
+40757384,Downtown,39.959309999999995,-83.00018,Entire home/apt,66,318,1
+40784096,Near North/University,39.975,-83.0094,Entire home/apt,97,318,1
+40801047,Near East,39.96679,-82.97103,Entire home/apt,70,147,1
+40803264,Near East,39.96028,-82.96475,Entire home/apt,145,339,2
+40823386,Northeast,40.0319,-82.91566,Entire home/apt,130,250,2
+40863088,West Olentangy,39.986309999999996,-83.0416,Entire home/apt,49,60,1
+40870149,North Linden,40.03008,-82.96098,Entire home/apt,100,177,1
+40871398,Franklinton,39.95641,-83.01178,Entire home/apt,119,257,30
+40892112,Franklinton,39.95235,-83.02329,Entire home/apt,126,359,1
+40895108,Northeast,39.9868,-82.92993,Entire home/apt,54,253,1
+40919077,West Olentangy,39.986,-83.04646,Entire home/apt,350,11,1
+40937834,Near North/University,39.97811,-83.00348000000001,Entire home/apt,39,54,1
+40952014,Downtown,39.95986,-83.00019,Entire home/apt,150,162,4
+40962656,Near North/University,39.98057,-83.0034,Entire home/apt,81,146,1
+40985962,Franklinton,39.94963,-83.03084,Entire home/apt,79,115,1
+41078672,Downtown,39.97356,-83.00312,Private room,79,0,1
+41086280,Near North/University,39.98232,-83.01007,Entire home/apt,160,312,2
+41090934,Near North/University,39.9957,-82.99685,Entire home/apt,140,0,2
+41104241,Near South,39.94593,-82.99579,Entire home/apt,175,0,2
+41169112,Near East,39.9608,-82.97397,Entire home/apt,49,79,2
+41174235,Near North/University,39.983290000000004,-83.01848000000001,Entire home/apt,200,0,2
+41185893,Northland,40.09594,-82.96021999999999,Entire home/apt,125,352,1
+41191492,Near South,39.932959999999994,-82.99497,Entire home/apt,90,114,1
+41195989,Downtown,39.95983,-82.99896,Entire home/apt,100,344,3
+41208199,Near South,39.946490000000004,-82.99653,Entire home/apt,350,280,2
+41211391,Franklinton,39.95512,-83.01213,Entire home/apt,323,235,30
+41233409,Franklinton,39.9571,-83.01185,Entire home/apt,149,201,30
+41240881,Near South,39.9508,-82.97436,Private room,35,36,1
+41282112,Franklinton,39.95397,-83.02131999999999,Private room,43,81,2
+41293517,Far North,40.13451,-82.99333,Entire home/apt,105,351,2
+41332528,Near South,39.94919,-82.97391,Private room,55,115,1
+41349611,Downtown,39.9567,-82.99981,Entire home/apt,80,273,30
+41374722,Near North/University,39.99154,-83.009,Entire home/apt,151,135,1
+41376220,Near North/University,39.99139,-83.01051,Entire home/apt,138,139,1
+41381589,Near North/University,39.98992,-83.01142,Entire home/apt,149,139,1
+41381759,Franklinton,39.956920000000004,-83.02761,Entire home/apt,65,90,2
+41382662,Near North/University,39.98985,-83.00978,Entire home/apt,129,139,2
+41383330,Near North/University,39.99116,-83.00978,Entire home/apt,129,139,1
+41383964,Near North/University,39.99163,-83.01175,Entire home/apt,149,139,1
+41400755,North Linden,40.015209999999996,-82.95153,Entire home/apt,125,174,1
+41427887,Clintonville,40.01997,-83.00215,Entire home/apt,99,177,2
+41431669,Downtown,39.96428,-82.99802,Entire home/apt,175,71,2
+41434538,Near North/University,39.97467,-83.00347,Entire home/apt,95,90,2
+41449697,Franklinton,39.95047,-83.02866,Entire home/apt,78,260,1
+41496463,Franklinton,39.9552,-83.02131,Private room,43,73,2
+41508067,Near South,39.95221,-82.99844,Entire home/apt,68,0,1
+41510465,Franklinton,39.95642,-83.01169,Entire home/apt,145,126,30
+41519584,Franklinton,39.9532,-83.02075,Entire home/apt,175,105,2
+41532635,Northland,40.087990000000005,-82.9841,Private room,7000,90,1
+41533014,Far Northwest,40.11637,-83.08742,Entire home/apt,79,120,2
+41534110,Northland,40.087509999999995,-82.9836,Private room,7000,90,1
+41535653,Franklinton,39.95558,-83.01243000000001,Entire home/apt,145,249,30
+41551281,Far North,40.1371,-82.98732,Entire home/apt,100,0,1
+41555933,Near East,39.97016,-82.9668,Entire home/apt,75,351,1
+41598713,Franklinton,39.95559,-83.01111999999999,Entire home/apt,145,252,30
+41618718,Near North/University,39.97789,-83.00714,Entire home/apt,195,115,2
+41630251,Near South,39.94936,-82.97998,Entire home/apt,125,12,1
+41641773,Near North/University,39.98452,-83.00288,Entire home/apt,450,79,3
+41643526,Near South,39.943909999999995,-82.98815,Entire home/apt,100,171,2
+41722004,Near South,39.949659999999994,-82.95934,Entire home/apt,90,242,1
+41737160,Franklinton,39.95404,-83.02205,Entire home/apt,175,137,2
+41764456,Near North/University,40.00785,-83.01554,Entire home/apt,175,139,1
+41791927,Clintonville,40.03295,-83.02244,Entire home/apt,171,0,1
+41792930,Franklinton,39.9547,-83.02212,Entire home/apt,275,0,2
+41816791,Franklinton,39.9574,-83.02620999999999,Entire home/apt,109,355,1
+41835219,Near North/University,39.98131,-83.00806999999999,Entire home/apt,115,283,2
+41836651,Near North/University,40.013740000000006,-83.00142,Entire home/apt,57,58,1
+41837591,Near North/University,39.97909,-83.00317,Entire home/apt,65,0,2
+41862446,Near North/University,40.01775,-83.01,Entire home/apt,164,90,1
+41911372,Northland,40.06572,-82.98142,Private room,26,209,2
+41929944,Near South,39.94198,-82.98808000000001,Entire home/apt,149,0,2
+41931431,Near North/University,39.991609999999994,-83.01059000000001,Entire home/apt,156,139,1
+41933823,Near North/University,40.00642,-83.01692,Entire home/apt,257,139,1
+41934583,Near North/University,40.00697,-83.01557,Entire home/apt,175,139,1
+41949521,Near East,39.955729999999996,-82.95375,Entire home/apt,45,309,1
+41992005,Near South,39.94632,-82.9987,Entire home/apt,10000,213,1
+41996857,Near North/University,39.98579,-83.00471,Entire home/apt,224,336,1
+42013172,Near North/University,39.99071,-83.01106999999999,Entire home/apt,146,139,2
+42013467,Near North/University,39.97697,-83.00123,Private room,134,332,1
+42014128,Near North/University,39.97607,-83.00249000000001,Private room,134,329,1
+42037915,Near North/University,39.9984,-83.00097,Entire home/apt,116,138,2
+42039036,Near North/University,39.99479,-82.99947,Entire home/apt,251,138,1
+42039443,Near North/University,40.00693,-83.00968,Entire home/apt,119,139,1
+42040616,Near North/University,40.00631,-83.00766999999999,Entire home/apt,153,139,1
+42044110,West Olentangy,39.98653,-83.03368,Entire home/apt,149,139,1
+42045519,Near North/University,39.99067,-83.00848,Entire home/apt,151,137,2
+42050328,Franklinton,39.95388,-83.0264,Entire home/apt,98,0,1
+42050370,Near North/University,40.01397,-82.99756,Private room,60,0,1
+42066563,Near North/University,39.99302,-83.00661,Entire home/apt,157,139,2
+42070656,Near North/University,39.99131,-83.00863000000001,Entire home/apt,149,139,1
+42071543,Near North/University,40.00645,-82.9978,Entire home/apt,109,139,2
+42088674,Near North/University,39.992459999999994,-83.0084,Entire home/apt,163,139,1
+42090430,Near North/University,39.992470000000004,-83.00955,Entire home/apt,142,139,1
+42091105,Near North/University,39.992309999999996,-83.00844000000001,Entire home/apt,171,139,1
+42092647,West Olentangy,39.98873,-83.03454,Entire home/apt,189,365,1
+42093075,Near North/University,39.994409999999995,-83.00846999999999,Entire home/apt,107,139,2
+42093892,Near North/University,39.99501,-83.00652,Entire home/apt,106,139,2
+42094346,Near North/University,39.99435,-83.00653,Entire home/apt,133,139,2
+42095427,Near North/University,39.99277,-83.0084,Entire home/apt,113,139,2
+42095700,West Olentangy,39.98704,-83.0336,Entire home/apt,137,139,1
+42096360,West Olentangy,39.98745,-83.03325,Entire home/apt,163,137,1
+42097477,Near North/University,39.99646,-83.00499,Entire home/apt,149,138,2
+42108602,Near North/University,40.00651,-83.01584,Entire home/apt,175,139,2
+42111855,Near North/University,40.008590000000005,-83.01642,Entire home/apt,175,139,2
+42112370,Near North/University,40.00809,-83.01531999999999,Entire home/apt,175,180,2
+42113100,Near North/University,40.00693,-83.01402,Entire home/apt,198,180,1
+42115997,Near South,39.93994,-82.98184,Entire home/apt,75,23,1
+42120246,Near North/University,39.99841,-83.00114,Entire home/apt,183,139,2
+42133874,West Olentangy,39.98751,-83.03463,Entire home/apt,129,139,2
+42134248,West Olentangy,39.98706,-83.03452,Entire home/apt,128,139,1
+42134901,Near South,39.94475,-82.97673,Private room,79,80,1
+42135896,Near North/University,40.00813,-83.00893,Entire home/apt,265,180,1
+42137031,West Olentangy,39.98843,-83.03429,Entire home/apt,137,139,1
+42139787,Near South,39.94383,-82.97811999999999,Private room,79,64,1
+42140859,Northland,40.0814,-82.96410999999999,Entire home/apt,149,327,2
+42143569,Near South,39.95073,-82.95559,Entire home/apt,99,79,1
+42150767,Near North/University,40.01491,-82.99716,Private room,60,0,1
+42156462,Near South,39.946,-82.97593,Private room,79,63,1
+42157599,Near South,39.94471,-82.97606999999999,Private room,79,87,1
+42162063,Eastmoor/Walnut Ridge,39.9418,-82.91293,Private room,125,90,1
+42181712,Near North/University,40.015370000000004,-82.99838000000001,Private room,60,0,1
+42181800,Near North/University,40.01484,-82.9972,Private room,40,0,1
+42181940,Near North/University,40.014309999999995,-82.99722,Private room,60,0,1
+42203020,Franklinton,39.961490000000005,-83.01405,Entire home/apt,199,67,2
+42203255,Franklinton,39.9602,-83.01436,Entire home/apt,199,89,2
+42203948,Downtown,39.959720000000004,-82.99914,Entire home/apt,600,270,3
+42216821,Near North/University,39.98534,-83.01006,Entire home/apt,149,146,1
+42217735,Near North/University,39.983509999999995,-83.0099,Entire home/apt,350,86,1
+42241574,Near South,39.93309,-82.9955,Entire home/apt,129,115,3
+42244854,West Olentangy,39.988009999999996,-83.03299,Entire home/apt,235,180,1
+42256341,Near North/University,39.9877,-83.00449,Entire home/apt,42,54,1
+42267219,Near North/University,39.99548,-83.00613,Entire home/apt,39,49,1
+42316048,Near South,39.94658,-82.97618,Entire home/apt,129,73,1
+42316492,Near South,39.94562,-82.9765,Entire home/apt,110,83,1
+42337339,Near North/University,39.990629999999996,-82.99821999999999,Entire home/apt,100,294,2
+42337534,Near North/University,40.00784,-83.01029,Entire home/apt,153,180,1
+42337771,Near North/University,39.98946,-82.99938,Entire home/apt,60,346,2
+42347030,Greenlawn/Frank Road,39.909659999999995,-83.06591,Private room,50,180,40
+42349264,Hilltop,39.91291,-83.07831999999999,Private room,36,5,1
+42349639,Hilltop,39.9131,-83.07840999999999,Private room,40,5,1
+42349710,Near North/University,39.98395,-83.01886999999999,Entire home/apt,350,89,2
+42356449,Near North/University,40.00885,-83.0104,Entire home/apt,153,0,1
+42359785,Near North/University,40.00823,-83.00899,Entire home/apt,263,175,1
+42360157,Near East,39.96683,-82.96426,Entire home/apt,10000,212,1
+42361105,Near East,39.966229999999996,-82.96401999999999,Entire home/apt,10000,212,1
+42362053,Near North/University,39.99897,-83.00457,Entire home/apt,62,51,1
+42364123,Near North/University,40.00808,-83.00921,Entire home/apt,264,180,1
+42365175,Franklinton,39.96183,-83.02486999999999,Entire home/apt,130,357,1
+42375942,Franklinton,39.95991,-83.0227,Entire home/apt,130,349,1
+42381001,Near North/University,39.9974,-83.0075,Entire home/apt,34,44,1
+42381075,Near North/University,39.9986,-83.005,Entire home/apt,50,30,1
+42383635,Near North/University,39.998909999999995,-83.00749,Entire home/apt,35,27,1
+42385110,Near North/University,39.997040000000005,-83.00555,Entire home/apt,36,42,1
+42385659,Downtown,39.96332,-82.99888,Entire home/apt,119,90,2
+42386187,Near North/University,39.99778,-83.0047,Entire home/apt,35,20,1
+42386189,Near North/University,39.99653908,-83.00557471,Entire home/apt,62,43,1
+42387640,Near North/University,39.993840000000006,-83.01106999999999,Entire home/apt,35,36,1
+42389362,Near East,39.96249,-82.96833000000001,Entire home/apt,95,13,2
+42450518,Clintonville,40.040459999999996,-83.01272,Entire home/apt,129,348,1
+42473947,Near North/University,39.974340000000005,-83.00456,Entire home/apt,95,90,2
+42508235,Near East,39.96972,-82.95752,Entire home/apt,199,178,2
+42519931,Near South,39.94768,-82.98477,Entire home/apt,100,74,2
+42528461,Near South,39.94676,-82.97176999999999,Entire home/apt,99,353,2
+42533098,Far Northwest,40.1091,-83.07178,Private room,40,343,30
+42560758,Near South,39.93645,-82.9877,Entire home/apt,89,154,2
+42562905,Near East,39.960809999999995,-82.97086999999999,Entire home/apt,10000,224,1
+42563769,Near South,39.94362,-82.9726,Entire home/apt,120,76,1
+42578633,Near South,39.94948,-82.97284,Entire home/apt,300,180,1
+42584546,Near South,39.94767,-82.98491999999999,Entire home/apt,100,82,2
+42590495,Near South,39.93938,-82.97476,Entire home/apt,81,81,30
+42623970,Near South,39.95022,-82.98529,Entire home/apt,108,0,1
+42635466,Near South,39.94313,-82.98873,Entire home/apt,150,125,1
+42635887,Near South,39.94665,-82.96794,Entire home/apt,65,71,30
+42642100,Franklinton,39.956559999999996,-83.02157,Entire home/apt,122,163,1
+42644068,Near East,39.96001,-82.97001,Private room,45,71,1
+42658503,Near North/University,39.97702,-83.0121,Entire home/apt,350,71,2
+42658670,Near North/University,39.9769,-83.01231999999999,Entire home/apt,450,31,2
+42663680,Near South,39.94339,-82.98826,Entire home/apt,1000,243,1
+42664273,North Linden,40.03349,-82.99543,Entire home/apt,152,89,1
+42671472,Near North/University,39.9788,-83.00913,Entire home/apt,115,78,2
+42682889,Near East,39.96648,-82.9749,Entire home/apt,99,365,2
+42693464,Near North/University,40.01798,-83.00116,Entire home/apt,120,142,3
+42711932,Near East,39.96118,-82.95855999999999,Entire home/apt,85,139,2
+42732936,Rocky Fork-Blacklick,40.063,-82.86838,Entire home/apt,84,269,30
+42744152,Near East,39.962140000000005,-82.95491,Entire home/apt,65,125,2
+42750301,Near North/University,40.01226,-82.99774000000001,Entire home/apt,50,157,30
+42752552,Near North/University,40.004490000000004,-83.0,Entire home/apt,200,85,3
+42761947,Near East,39.96764,-82.97593,Entire home/apt,199,133,3
+42789299,Near North/University,40.00529,-82.99704,Entire home/apt,56,59,3
+42790657,Near North/University,39.97976,-83.0055,Entire home/apt,90,83,1
+42795506,Near South,39.94448,-82.96826999999999,Entire home/apt,79,26,2
+42817726,Near South,39.94198,-82.97771999999999,Entire home/apt,99,75,1
+42822010,Near North/University,40.00492,-82.9982,Entire home/apt,60,55,2
+42836744,Near South,39.949259999999995,-82.95433,Entire home/apt,99,67,1
+42837631,Near North/University,39.98106,-83.00495,Entire home/apt,100,82,1
+42838284,Near North/University,39.98151,-83.00506,Entire home/apt,100,1,1
+42838880,Near North/University,39.98442,-83.01288000000001,Entire home/apt,85,84,1
+42881312,Near North/University,39.98314,-83.01235,Entire home/apt,75,84,1
+42882498,Near North/University,39.98285,-83.01116,Entire home/apt,150,0,1
+42882656,Near North/University,39.98405,-83.01100000000001,Entire home/apt,75,83,1
+42887788,South Linden,40.01092,-82.98347,Entire home/apt,137,167,2
+42903970,Westland,39.973259999999996,-83.149,Entire home/apt,189,156,30
+42950537,Near North/University,39.996390000000005,-83.0056,Entire home/apt,57,180,365
+42950663,Near North/University,39.997009999999996,-83.00565,Entire home/apt,90,85,365
+42950962,Near North/University,39.99685,-83.0051,Entire home/apt,90,90,365
+42951566,Near North/University,39.99647,-83.00574,Entire home/apt,57,90,365
+42951592,Near North/University,39.99629,-83.00578,Entire home/apt,68,90,365
+42952814,Near North/University,39.99677,-83.00402,Entire home/apt,48,72,365
+42953046,Near North/University,39.99661,-83.00511,Entire home/apt,42,90,365
+42953245,Near North/University,39.99669,-83.00394,Entire home/apt,42,90,365
+42982360,Near North/University,39.975120000000004,-83.00319,Entire home/apt,88,145,30
+42995908,Near North/University,39.98234,-83.0074,Entire home/apt,62,365,365
+42996556,Near North/University,39.97814,-83.00466999999999,Entire home/apt,50,0,365
+42998339,Near North/University,39.97636,-83.00431,Entire home/apt,46,365,365
+42999250,Near North/University,39.97657,-83.00307,Entire home/apt,46,340,365
+43052075,South Linden,40.0068,-82.97534,Private room,53,154,7
+43077804,Eastmoor/Walnut Ridge,39.959990000000005,-82.90807,Private room,59,85,1
+43078760,Eastmoor/Walnut Ridge,39.960679999999996,-82.90983,Private room,59,88,1
+43094377,West Olentangy,39.988459999999996,-83.03219,Entire home/apt,77,358,30
+43094388,Clintonville,40.06758,-83.01916999999999,Entire home/apt,55,60,30
+43094663,Near East,39.96647,-82.97587,Entire home/apt,99,365,30
+43097123,Eastmoor/Walnut Ridge,39.95575,-82.91748,Entire home/apt,110,81,1
+43098314,Near South,39.928509999999996,-82.98648,Entire home/apt,114,86,1
+43102007,Downtown,39.957159999999995,-82.99436999999999,Entire home/apt,93,359,1
+43103310,Near North/University,39.97473,-83.00261,Entire home/apt,88,180,30
+43105282,Near South,39.93885,-82.97015999999999,Private room,79,89,1
+43105489,Near South,39.93838,-82.97094,Private room,79,89,1
+43105577,Near South,39.940459999999995,-82.97084,Private room,59,78,1
+43109928,Downtown,39.95525,-82.99306999999999,Entire home/apt,93,353,1
+43110099,Downtown,39.955909999999996,-82.99339,Entire home/apt,93,348,1
+43110127,Downtown,39.95523,-82.99381,Entire home/apt,93,361,1
+43111171,Downtown,39.955709999999996,-82.99450999999999,Entire home/apt,93,358,1
+43111195,Downtown,39.95555,-82.99285,Entire home/apt,108,353,1
+43154301,Near North/University,39.98545,-83.00013,Entire home/apt,400,231,2
+43156459,Near North/University,39.98623,-83.00019,Entire home/apt,400,233,2
+43256792,Near East,39.95769,-82.97140999999999,Entire home/apt,10000,152,1
+43276258,Near North/University,40.016709999999996,-83.01101,Entire home/apt,94,365,1
+43292521,Near North/University,40.00418,-83.00278,Entire home/apt,45,31,31
+43325918,Near South,39.95295,-82.98796,Entire home/apt,115,355,1
+43348554,Near South,39.94905,-82.98598,Entire home/apt,65,12,1
+43364480,Near North/University,39.97453,-83.01082,Entire home/apt,89,333,1
+43373018,Near North/University,39.986779999999996,-83.00057,Entire home/apt,154,64,1
+43398968,West Olentangy,39.986909999999995,-83.03686,Entire home/apt,120,362,180
+43409984,Near South,39.94259,-82.98448,Entire home/apt,350,77,2
+43411084,Near North/University,39.98681,-82.99956,Entire home/apt,595,251,1
+43488702,Near North/University,40.00468,-83.00276,Entire home/apt,45,19,31
+43500406,Northeast,40.028690000000005,-82.91806,Entire home/apt,150,330,2
+43554862,Hilltop,39.960770000000004,-83.07092,Entire home/apt,70,186,30
+43663309,West Olentangy,39.99273,-83.03216,Entire home/apt,250,145,2
+43665116,Downtown,39.956309999999995,-83.00063,Entire home/apt,95,354,30
+43665393,Downtown,39.95779,-82.99951999999999,Entire home/apt,95,365,30
+43665726,Downtown,39.95649,-82.99875,Entire home/apt,95,365,30
+43665919,Downtown,39.956070000000004,-82.99919,Entire home/apt,95,365,30
+43666132,Downtown,39.95765,-83.00046999999999,Entire home/apt,95,365,30
+43666306,Downtown,39.95628,-82.99916999999999,Entire home/apt,95,345,30
+43726313,Northland,40.061890000000005,-82.91036,Entire home/apt,61,360,30
+43726315,Northland,40.061890000000005,-82.91036,Entire home/apt,64,360,30
+43726457,Far North,40.120509999999996,-83.0139,Entire home/apt,52,358,30
+43726461,Far North,40.120509999999996,-83.0139,Entire home/apt,53,360,30
+43726737,Near South,39.94683,-82.96616999999999,Entire home/apt,63,65,30
+43726764,Far North,40.13619,-82.96880999999999,Entire home/apt,56,348,30
+43765347,Near South,39.9462,-82.96602,Entire home/apt,63,29,30
+43770743,South Linden,39.98856,-82.94331,Private room,200,179,30
+43804124,Near North/University,39.98377,-82.99946,Entire home/apt,95,259,1
+43806645,Near North/University,39.99627,-83.00350999999999,Entire home/apt,35,70,1
+43814844,Franklinton,39.95458,-83.02073,Entire home/apt,150,0,1
+43831292,Near South,39.95023,-82.98621999999999,Entire home/apt,10000,225,2
+43840767,Near East,39.96974,-82.97468,Entire home/apt,175,221,1
+43847279,South Linden,39.99978,-82.98402,Entire home/apt,65,151,1
+43859466,Near North/University,39.97899,-83.01061999999999,Entire home/apt,122,3,1
+43859686,North Linden,40.0156,-82.9799,Private room,50,55,2
+43872297,Near North/University,39.9827,-83.00761999999999,Entire home/apt,46,71,1
+43897658,Near North/University,39.98108,-82.99935,Entire home/apt,99,249,1
+43899863,North Linden,40.015879999999996,-82.97945,Private room,65,75,2
+43915950,Near North/University,40.00495,-83.00773000000001,Entire home/apt,80,331,30
+43927680,Near North/University,39.983000000000004,-82.99655,Entire home/apt,136,139,2
+44003718,Franklinton,39.956990000000005,-83.01444000000001,Entire home/apt,300,83,1
+44020582,Near East,39.96215,-82.97485,Entire home/apt,115,312,30
+44031016,Near South,39.94566,-82.96876,Entire home/apt,100,46,2
+44096709,Northland,40.08681,-82.98472,Private room,72,364,1
+44104010,Franklinton,39.95752,-83.02722,Entire home/apt,224,65,1
+44117259,Near South,39.94958,-82.98252,Entire home/apt,95,18,1
+44121484,Near South,39.95091,-82.99332,Entire home/apt,200,38,3
+44131200,Near East,39.95861,-82.97197,Entire home/apt,56,357,1
+44132838,Near North/University,40.011590000000005,-83.00199,Entire home/apt,64,352,1
+44133603,Near East,39.95922,-82.95879000000001,Entire home/apt,53,357,1
+44134049,Near North/University,40.01337,-82.99902,Entire home/apt,57,351,1
+44134118,Near North/University,39.98015,-83.00336,Entire home/apt,79,330,3
+44134426,West Scioto,39.98388,-83.11001999999999,Entire home/apt,120,175,1
+44150527,Downtown,39.953509999999994,-82.99566,Entire home/apt,129,50,1
+44155450,Near South,39.95284,-82.99365999999999,Entire home/apt,134,65,1
+44163067,Near South,39.945640000000004,-82.97728000000001,Private room,99,86,1
+44175273,Far North,40.14079,-82.95755,Entire home/apt,179,283,30
+44203532,Near South,39.94397,-82.96948,Private room,99,77,1
+44225671,Downtown,39.96497,-82.99588,Entire home/apt,134,90,30
+44244968,Near East,39.95635,-82.95546,Entire home/apt,157,144,30
+44261057,Near North/University,39.98735,-83.00005999999999,Entire home/apt,875,358,1
+44264043,Near South,39.94795,-82.95004,Private room,99,88,1
+44264784,Near South,39.94827,-82.95093,Private room,99,85,1
+44264788,Near South,39.94791,-82.9501,Private room,99,79,1
+44264791,Near South,39.94764,-82.95149,Private room,99,79,1
+44269300,Northland,40.08582,-82.9842,Private room,69,361,1
+44278138,Near South,39.94679,-82.94999,Private room,99,10,1
+44278942,Near North/University,40.0074,-83.01436,Entire home/apt,125,0,2
+44279709,Near North/University,39.98065,-83.00697,Entire home/apt,96,350,2
+44280184,Near North/University,39.98066,-83.00545,Entire home/apt,99,352,2
+44280460,Near North/University,39.978120000000004,-83.01674,Entire home/apt,79,355,2
+44280716,Near North/University,39.97785,-83.01788,Entire home/apt,88,355,2
+44281235,Near South,39.952940000000005,-82.99410999999999,Entire home/apt,201,177,30
+44315973,West Olentangy,39.98702,-83.03283,Entire home/apt,98,338,5
+44316323,West Olentangy,39.9891,-83.03199000000001,Entire home/apt,98,0,2
+44316703,West Olentangy,39.988490000000006,-83.03275,Entire home/apt,98,353,2
+44316897,Near North/University,39.977920000000005,-83.01738,Entire home/apt,88,349,2
+44317086,Northeast,40.0209,-82.90474,Entire home/apt,77,354,2
+44317230,Northeast,40.01948,-82.90615,Entire home/apt,79,365,2
+44317774,Near South,39.94086,-82.99218,Entire home/apt,99,353,2
+44318169,Near East,39.968109999999996,-82.97643000000001,Entire home/apt,114,331,30
+44318893,West Olentangy,39.98692,-83.0316,Entire home/apt,88,350,2
