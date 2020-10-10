@@ -2,6 +2,7 @@
 
 ## Resource
 Inside Airbnb: http://insideairbnb.com/get-the-data.html
+
 AirDNA: https://www.airdna.co/
 
 ## City
