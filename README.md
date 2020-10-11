@@ -1,11 +1,14 @@
 # Airbnb-Analysis
 
-## Resource
+##Resources
+
 Inside Airbnb: http://insideairbnb.com/get-the-data.html
 
 AirDNA: https://www.airdna.co/
 
-## City
+
+##Cities
+
 San Francisco, California, United States (sf)
 
 New York City, New York, United States (nyc)
@@ -25,4 +28,3 @@ Chicago, Illinois, United States (chi)
 Columbus, Ohio, United States (colo)
 
 Denver, Colorado, United States (den)
-
