@@ -42,10 +42,21 @@ Plotly.d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/mai
 
 	  
 	  var data = [trace1, trace2, trace3, trace4];
+      var layout = {barmode: 'stack'};
+      var img_jpg= d3.select('#jpg-export');
 	  
-	  var layout = {barmode: 'stack'};
-	  
-	  Plotly.newPlot("plot1",data, layout, {showSendToCloud:true})
+      Plotly.newPlot("plot2",data, layout, {showSendToCloud:true})
+      .then(
+        function(gd)
+         {
+          Plotly.toImage(gd,{height:300,width:300})
+             .then(
+                 function(url)
+             {
+                 img_jpg.attr("src", url); 
+             }
+             )
+        });
 	
 	
 }); 
