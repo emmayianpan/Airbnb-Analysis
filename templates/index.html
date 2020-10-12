@@ -1,69 +1,76 @@
+<!--format for every html started from here-->
 <!doctype html>
 <html lang="en-us">
+
+  <!--Link-->
   <head>
+    <title>Airbnb Analysis</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <title>Airbnb</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
     <!-- Custom styles for this template -->
     <link href="../static/css/style.css" rel="stylesheet">
   </head>
 
   <body>
-    <nav>
-    <div class="collapse bg-dark" id="navbarHeader">
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+      <!-- Brand -->
+      <object data="../image/airbnb-icon.svg" type="image/svg+xml" class="navbar-brand"></object>
+    
+      <!-- Links -->
+      <ul class="navbar-nav">
+        <!--Home-->
+        <li class="nav-item">
+          <a class="nav-link" href="#">Home</a>
+        </li>
+        <!--Map-->
+        <li class="nav-item">
+          <a class="nav-link" href="#">Map</a>
+        </li>
+        <!--Analytics-->
+        <li class="nav-item">
+          <a class="nav-link" href="#">Analytics</a>
+        </li>
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+            City
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">San Francisco</a>
+            <a class="dropdown-item" href="#">New York</a>
+            <a class="dropdown-item" href="#">Los Angeles</a>
+          </div>
+        </li>
+        <!--About-->
         <div class="container">
-            <div class="row">
-    
-              <!--About-->
-              <div class="col-sm-8 col-md-7 py-4">
-                <h4 class="text-white">About</h4>
-                <p class="text-muted">(add more!) The project is to analyze Airbnb market supply and pricing for 10 cities
-                  in the US.</p>
-              </div>
-    
-              <!--Resources-->
-              <div class="col-sm-4 offset-md-1 py-4">
-                <h4 class="text-white">Resources</h4>
-                <ul class="list-unstyled">
-                  <li><a href="http://insideairbnb.com/get-the-data.html" class="text-white">Inside Airbnb</a></li>
-                </ul>
-              </div>
-    
-              <!--References-->
-              <div class="col-sm-4 offset-md-1 py-4">
-                <h4 class="text-white">References</h4>
-                <ul class="list-unstyled">
-                  <li><a href="https://www.airdna.co/" class="text-white">AirDNA</a></li>
-                </ul>
-              </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="navbar navbar-dark bg-dark shadow-sm">
-        <div class="container d-flex justify-content-between">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        </div>
-    </div>
+          <a href="#demo" class="btn btn-primary" data-toggle="collapse">About</a>
+          <div id="demo" class="collapse">
+            (edit, change text color to white!) The Airbnb Analysis Project....
+          </div>
+        </div>           
+      </ul>
     </nav>
 
+<!--format for every html ended from here-->    
+
+    <!--Jumbotron-->
     <header class="jumbotron">
-        <img src="../image/airbnb.jpg" alt="Airbnb">
     </header>
 
+    <!--Home page thumbnail-->
     <div class="album py-5 bg-light">
         <div class="container">
-
         <div class="row">
+
+            <!--Map thumbnail-->
             <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-                <div id="plot1" class="thumbnail"></div>
+                <div id="map" class="thumbnail"></div>
                 <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">(edit) Map</p>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -73,11 +80,12 @@
             </div>
             </div>
 
+            <!--Analytics thumbnail-->
             <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-                <div id="plot2" class="thumbnail"></div>
+                <div id="analytics" class="thumbnail"></div>
                 <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">(edit) Analytics</p>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -86,11 +94,13 @@
                 </div>
             </div>
             </div>
+
+            <!--City thumbnail-->
             <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-                <div id="plot3" class="thumbnail"></div>
+                <div id="city" class="thumbnail"></div>
                 <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"> (edit) City</p>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -98,28 +108,32 @@
                 </div>
                 </div>
             </div>
-            </div>
-            
+            </div>            
         </div>
         </div>
     </div>
 
+<!--format for every html started from here-->
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
       <a href="#">Back to top</a>
     </p>
-    <p>© Copyright Coding Bootcamp 2020</p>
+    <p>© Copyright Rutgers Data Science Bootcamp 2020</p>
   </div>
 </footer>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="../static/js/plot1.js"></script>
-    <script src="../static/js/plot2.js"></script>
-    <script src="../static/js/plot3.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+  <script src="../static/js/map.js"></script>
+  <script src="../static/js/analytics.js"></script>
+  <script src="../static/js/city.js"></script>
 
-</body>
+  </body>
 </html>
+<!--format for every html started from here-->

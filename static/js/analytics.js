@@ -45,18 +45,17 @@ Plotly.d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/mai
       var layout = {barmode: 'stack'};
       var img_jpg= d3.select('#jpg-export');
 	  
-      Plotly.newPlot("plot2",data, layout, {showSendToCloud:true})
-      .then(
-        function(gd)
-         {
-          Plotly.toImage(gd,{height:300,width:300})
-             .then(
-                 function(url)
-             {
-                 img_jpg.attr("src", url); 
-             }
-             )
-        });
-	
+      Plotly.newPlot("analytics",data, layout, {showSendToCloud:true})
+    //   .then(
+    //     function(gd)
+    //      {
+    //       Plotly.toImage(gd,{height:300,width:300})
+    //          .then(
+    //              function(url)
+    //          {
+    //              img_jpg.attr("src", url); 
+    //          }
+    //          )
+    //     });
 	
 }); 
