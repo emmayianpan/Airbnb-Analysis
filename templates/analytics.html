@@ -50,7 +50,7 @@
             City
           </a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">San Francisco</a>
+            <a class="dropdown-item" href="sf.html">San Francisco</a>
             <a class="dropdown-item" href="#">New York</a>
             <a class="dropdown-item" href="#">Los Angeles</a>
           </div>
@@ -75,57 +75,67 @@
       </ul>
     </nav>
 
-<!--format for every html ended from here--> 
-
-<!--dropdown-->
-<!-- <div class="container">
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h7>City:</h7>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+<!--format for every html ended from here-->    
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-md-6">
+            <div id="plot1"></div>
+            </div>
+            <div class="col-md-6">
+            <h3 class="display-5 text-dark">Total Units by Room Type</h3>
+            <p></p>
+            <p></p>
+            <p></p>
+            </div>
         </div>
-      </div>
-    </div>
-</div> -->
 
-<!--Display map here-->
-<div id="map"></div>
-    
+        <div class="row">
+            <div class="col-md-6">
+            <div id="plot2"></div>
+            </div>
+            <div class="col-md-6">
+            <h3 class="display-5 text-dark">Price</h3>
+            <p></p>
+            <p></p>
+            <p></p>
+            </div>
+        </div>
+    </div>
+
 <!--format for every html started from here-->
 <footer class="text-muted">
-  <div class="container">
-    <p class="float-right">
-      <a href="#">Back to top</a>
-    </p>
-    <p>© Copyright Rutgers Data Science Bootcamp 2020</p>
-  </div>
-</footer>
-
-  <!--Script-->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <div class="container">
+      <p class="float-right">
+        <a href="#">Back to top</a>
+      </p>
+      <p>© Copyright Rutgers Data Science Bootcamp 2020</p>
+    </div>
+  </footer>
   
-  <!--Leaflet JS-->
-  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
-  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
-  crossorigin=""></script>
+<!--Script-->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-  <!--d3 JS-->
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <!--Marker Cluster JS-->
-  <script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+<!--Leaflet JS-->
+<script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+crossorigin=""></script>
 
-  <!--Our JS-->
-  <script type="text/javascript" src="../static/js/map.js"></script>
-  <script type="text/javascript" src="../static/js/analytics.js"></script>
-  <script type="text/javascript" src="../static/js/city.js"></script>
-  <script type="text/javascript" src="../static/js/config.js"></script>
+<!--d3 JS-->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<!--Marker Cluster JS-->
+<script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
 
-  </body>
+<!--Our JS-->
+<script type="text/javascript" src="../static/js/map.js"></script>
+<script type="text/javascript" src="../static/js/analytics.js"></script>
+<script type="text/javascript" src="../static/js/city.js"></script>
+<script type="text/javascript" src="../static/js/config.js"></script>
+
+</body>
 </html>
 <!--format for every html started from here-->
