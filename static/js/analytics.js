@@ -40,22 +40,10 @@ Plotly.d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/mai
 		type: 'bar'
 	  };	  
 
-	  
 	  var data = [trace1, trace2, trace3, trace4];
       var layout = {barmode: 'stack'};
-      var img_jpg= d3.select('#jpg-export');
+      //var img_jpg= d3.select('#jpg-export');
 	  
-      Plotly.newPlot("analytics",data, layout, {showSendToCloud:true})
-    //   .then(
-    //     function(gd)
-    //      {
-    //       Plotly.toImage(gd,{height:300,width:300})
-    //          .then(
-    //              function(url)
-    //          {
-    //              img_jpg.attr("src", url); 
-    //          }
-    //          )
-    //     });
+      Plotly.newPlot("plot1",data, layout, {showSendToCloud:true})
 	
 }); 

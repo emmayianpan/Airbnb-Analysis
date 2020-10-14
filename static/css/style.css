@@ -7,7 +7,6 @@
   user-select: none;
 }
 
-
 .thumbnail{
   width: 300px;
   height: 300px;
@@ -46,11 +45,23 @@
   max-width: 40rem;
 }
 
-footer {
+.footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
 
-footer p {
+.footer p {
   margin-bottom: .25rem;
 }
+
+.body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
