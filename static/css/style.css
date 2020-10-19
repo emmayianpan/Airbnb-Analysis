@@ -59,9 +59,19 @@
   margin: 0;
 }
 
-#map,
+#map-sf,
 body,
 html {
   height: 100%;
 }
 
+/*style for analytics.html 'plot' */
+#wrapper {
+  height: 300px;
+}
+
+/*style for each city html 'h1' */
+h1{
+  line-height: 100px;
+  text-align: center;
+}

@@ -1,49 +1,97 @@
-Plotly.d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/main/static/data/summary.csv", 
-	function(data){ 
-	console.log(data)
+//reference: https://www.chartjs.org/docs/latest/
 
-	var city = [], entire_home_apt = [], hotel_room = [], private_room = [], shared_room = [];
-	for (var i = 0; i < data.length; i++) {
-	  row = data[i];
-	  city.push( row['city'] );
-	  entire_home_apt.push( row['entire_home_apt'] );
-	  hotel_room.push(row['hotel_room']); 
-	  private_room.push(row['private_room']); 
-	  shared_room.push(row['shared_room']); 
-	}; 
+function makeChart(data) {
+	//define variables and push data from each column 
+	//use + to convert strings to numbers 
+	var city = data.map(function (d) {
+		return d.city;
+	});
+	var price = data.map(function (d) {
+		return +d.average_price;
+	});
+	var entireHomeApt = data.map(function (d) {
+		return +d.entire_home_apt;
+	});
+	var hotelRoom = data.map(function (d) {
+		return +d.hotel_room;
+	});
+	var privateRoom = data.map(function (d) {
+		return +d.private_room;
+	});
+	var sharedRoom = data.map(function (d) {
+		return +d.shared_room;
+	});
 
-	var trace1 = {
-		x: city,
-		y: entire_home_apt,
-		name: 'Entire Home/Apt',
-		type: 'bar'
-	  };
-	  
-	  var trace2 = {
-		x: city,
-		y: hotel_room,
-		name: 'Hotel Room',
-		type: 'bar'
-	  };
+	//make plot 'Average Price by City'
+	var plot1 = new Chart('plot2', {
+		type: "horizontalBar",
+		options: {
+			maintainAspectRatio: false,
+			legend: {
+				display: false
+			}
+		},
+		data: {
+			labels: city,
+			datasets: [
+				{
+					backgroundColor: "#80aaff",
+					data: price
+				}
+			]
+		}, 
+		options: {
+			title: {
+				display: true,
+				text: "Average Price by City"
+			}
+		} 
+	});
 
-	  var trace3 = {
-		x: city,
-		y: private_room,
-		name: 'Private Room',
-		type: 'bar'
-	  };	  
+	//make plot 'Total Units by Room Type'
+	var plot2 = new Chart('plot1', {
+		type: 'bar',
+		data: {
+			labels: city,
+			datasets: [
+				{
+					label: 'Entire Home/Apt',
+					data: entireHomeApt,
+					backgroundColor: '#80ffaa',
+				},
+				{
+					label: 'Hotel Room',
+					data: hotelRoom,
+					backgroundColor: '#ff4d4d',
+				},
+				{
+					label: 'Private Room',
+					data: privateRoom,
+					backgroundColor: '#bf80ff',
+				},
+				{
+					label: 'Shared Room',
+					data: sharedRoom,
+					backgroundColor: '#3366ff',
+				}
+			]
+		},
+		options: {
+			title: {
+				display: true,
+				text: "Total Units by Room Type"
+			}, 
+			scales: {
+				xAxes: [{ stacked: true }],
+				yAxes: [{ stacked: true }]
+			}
+		}
+	});
+}
 
-	  var trace4 = {
-		x: city,
-		y: shared_room,
-		name: 'Shared Room',
-		type: 'bar'
-	  };	  
+// Request data using D3
+d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/main/static/data/summary.csv")
+	.then(makeChart);
 
-	  var data = [trace1, trace2, trace3, trace4];
-      var layout = {barmode: 'stack'};
-      //var img_jpg= d3.select('#jpg-export');
-	  
-      Plotly.newPlot("plot1",data, layout, {showSendToCloud:true})
-	
-}); 
+//Color Picker: https://www.w3schools.com/colors/colors_picker.asp
+
