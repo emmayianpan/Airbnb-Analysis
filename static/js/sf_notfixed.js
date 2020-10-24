@@ -45,6 +45,7 @@ function makeMap() {
 }
 makeMap();
 
+//D3
 function makeResponsive() {
     var svgWidth = 600;
     var svgHeight = 400;
@@ -75,17 +76,18 @@ function makeResponsive() {
             d.price = +d.price;
         });
 
-        var xBandScale = d3.scaleBand()
-            .domain(cityData.map(d => d.neighbourhood))
+        var xBandScale = d3.scaleLinear()
+            .domain(cityData.map(d => d.price))
             .range([0, chartWidth])
+           
+
+        var yLinearScale = d3.scaleBand()
+            .domain([0, d3.max(cityData, d => d.neighbourhood)])
+            .range([chartHeight, 0])
             .padding(0.2);
 
-        var yLinearScale = d3.scaleLinear()
-            .domain([0, d3.max(cityData, d => d.price)])
-            .range([chartHeight, 0]);
-
         var bottomAxis = d3.axisBottom(xBandScale);
-        var leftAxis = d3.axisLeft(yLinearScale).ticks(10);
+        var leftAxis = d3.axisLeft(yLinearScale);
 
         chartGroup.append("g")
             .call(leftAxis);
@@ -95,9 +97,9 @@ function makeResponsive() {
             .call(bottomAxis)
             .selectAll("text")
             .attr("y", 0)
-            .attr("x", 15)
-            .attr("dy", ".35em")
-            .attr("transform", "rotate(115)")
+            .attr("x", 7)
+            .attr("dy", "1em")
+            .attr("transform", "rotate(90)")
             .style("text-anchor", "start");
 
         var barGroup = chartGroup.selectAll(".bar")
@@ -105,10 +107,12 @@ function makeResponsive() {
             .enter()
             .append("rect")
             .attr("class", "bar")
-            .attr("x", d => xBandScale(d.neighbourhood))
-            .attr("y", d => yLinearScale(d.price))
-            .attr("width", xBandScale.bandwidth())
-            .attr("height", d => chartHeight - yLinearScale(d.price));
+            .attr("x", d => xBandScale(d.price))
+            .attr("y", d => yLinearScale(d.neighbourhood))
+            //.attr("width", xBandScale.bandwidth())
+            .attr("width", d => chartHeight - xBandScale(d.price))
+            //.attr("height", d => chartHeight - yLinearScale(d.price));
+            .attr("height", yLinearScale.bandwidth());
         
         //Tooltip
         // Step 1: Initialize Tooltip

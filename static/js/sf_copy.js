@@ -45,6 +45,7 @@ function makeMap() {
 }
 makeMap();
 
+//D3
 function makeResponsive() {
     var svgWidth = 600;
     var svgHeight = 400;
@@ -95,9 +96,9 @@ function makeResponsive() {
             .call(bottomAxis)
             .selectAll("text")
             .attr("y", 0)
-            .attr("x", 15)
+            .attr("x", 7)
             .attr("dy", ".35em")
-            .attr("transform", "rotate(115)")
+            .attr("transform", "rotate(90)")
             .style("text-anchor", "start");
 
         var barGroup = chartGroup.selectAll(".bar")
