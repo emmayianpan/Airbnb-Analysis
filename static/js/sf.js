@@ -1,11 +1,10 @@
-//Map
+//Map (Leaflet)
 function makeMap() {
     var myMap = L.map("map-sf", {
         center: [37.7749, -122.4194],
         zoom: 13
     });
 
-    // Adding tile layer to the map
     L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
         attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
         tileSize: 512,
@@ -17,19 +16,12 @@ function makeMap() {
 
     d3.csv("../static/data/City/San_Francisco.csv").then(function (response) {
         console.log(response)
-        // Create a new marker cluster group
         var markers = L.markerClusterGroup();
 
-        // Loop through data
         for (var i = 0; i < response.length; i++) {
-
-            // Set the data location property to a variable
             var location = response[i];
 
-            // Check for location property
             if (location) {
-
-                // Add a new marker to the cluster group and bind a pop-up
                 markers.addLayer(L.marker([location.latitude, location.longitude])
                     .bindPopup(`<b>Room Type:</b> ${response[i].room_type}<br>
           <b>Price:</b> $${response[i].price}<br>
@@ -37,15 +29,13 @@ function makeMap() {
             }
 
         }
-
-        // Add our marker cluster layer to the map
         myMap.addLayer(markers);
 
     });
 }
-makeMap();
 
-function makeResponsive() {
+//Bar Chart (D3)
+function makeBar() {
     var svgWidth = 600;
     var svgHeight = 400;
 
@@ -95,9 +85,9 @@ function makeResponsive() {
             .call(bottomAxis)
             .selectAll("text")
             .attr("y", 0)
-            .attr("x", 15)
+            .attr("x", 7)
             .attr("dy", ".35em")
-            .attr("transform", "rotate(115)")
+            .attr("transform", "rotate(90)")
             .style("text-anchor", "start");
 
         var barGroup = chartGroup.selectAll(".bar")
@@ -109,30 +99,59 @@ function makeResponsive() {
             .attr("y", d => yLinearScale(d.price))
             .attr("width", xBandScale.bandwidth())
             .attr("height", d => chartHeight - yLinearScale(d.price));
-        
+       
         //Tooltip
-        // Step 1: Initialize Tooltip
         var toolTip = d3.tip()
             .attr("class", "tooltip")
             .offset([80, -60])
             .html(function (d) {
                 return (`<strong>${d.neighbourhood}<strong><hr>$${d.price}`);
-            });
-
-        // Step 2: Create the tooltip in chartGroup.
+            }); 
+            
         chartGroup.call(toolTip);
 
-        // Step 3: Create "mouseover" event listener to display tooltip
         barGroup.on("mouseover", function (d) {
             toolTip.show(d, this);
         })
-            // Step 4: Create "mouseout" event listener to hide tooltip
             .on("mouseout", function (d) {
                 toolTip.hide(d);
-            });
+            });  
 
     }).catch(function (error) {
         console.log(error);
     });
 }
-makeResponsive();
+
+//BoxPlot (Plotly)
+function makeBoxplot() {
+d3.csv("../static/data/Top5_Neighbourhood/San_Francisco_Top5.csv").then(function (boxData) {
+    console.log(boxData);
+
+    var neighbourhood = boxData.map(function (d) {
+        return d.neighbourhood;
+    });
+
+    var price = boxData.map(function (d) {
+        return d.price;
+    });
+
+    var trace1 = {
+        x: neighbourhood,
+        y: price,
+        type: "box",
+        name: "neighbourhood",
+      };
+      
+      var data = [trace1];
+      var layout = {
+        title: "<b><i>Top 5 Expensive Neighbourhood<i></b>",
+        yaxis: { title: "Price" }
+      };
+      
+      Plotly.newPlot("boxplot-sf", data, layout);
+}); 
+}
+
+makeBoxplot(); 
+makeBar();
+makeMap();
