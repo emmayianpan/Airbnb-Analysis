@@ -5,7 +5,7 @@
 <!--Link-->
 
 <head>
-  <title>Home</title>
+  <title>San Francisco</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -32,7 +32,7 @@
   <!--Navbar-->
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <!--Airbnb Icon-->
-    <img src="https://cdn.iconscout.com/icon/free/png-256/airbnb-1-282216.png" height="50" width="50"
+    <img src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png" height="100" width="100"
       class="navbar-brand">
 
     <!--Menu-->
@@ -81,28 +81,48 @@
   </nav>
   <!--format for every html ended from here-->
 
+  <!--City Intro from Wiki and Data Analysis-->
   <div class="container"></div>
-  <h1><b><i>San Francisco</i></b></h1>
-  <p align="center">San Francisco, officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California.</p>
+  <h1><b>San Francisco</b></h1>
+  <p align="center">San Francisco is the cultural, commercial, and financial center of Northern California.
+    San Francisco is the 16th most populous city in the United States and
+    the 12th-largest metropolitan statistical area in the United States by population, with 4.7 million people,
+    and the fourth-largest by economic output, with GDP of $549 billion in 2018.
+  </p>
+  <br>
+
+  <!--Top-Rated Tourist Attractions from Planet Ware-->
+  <h4 align="center"><b><i>Top-Rated Tourist Attractions</i></b></h4>
+  <ul class="center">
+    <li>Golden Gate Bridge</li>
+    <li>Alcatraz Island</li>
+    <li>Fisherman's Wharf</li>
+    <li>Ride the Cable Cars</li>
+    <li>Golden Gate Park</li>
+  </ul>
+
+  <!--Display BoxPlot-->
   <div class="row">
     <div class="col-md-6">
       <canvas id="boxplot-sf"></canvas>
     </div>
-    <!-- <div class="col-md-6">
-      <div id="map"></div>
-    </div> -->
+    <div class="col-md-6">
+      <div id="bar-sf"></div>
+    </div>
   </div>
-  <h3 align="center"><b>Map</b></h3>
+  
+  <h4 align="center"><b><i>Map</i></b></h4>
+  <!--Display Map-->
   <div id="map-sf"></div>
   <br />
-  <div align="center">
+
+  <!-- <div align="center">
     <button type="button" name="load_data" id="load_data" class="btn btn-info">
       See if your budget meets where you want to stay!</button>
   </div>
   <br />
-  <div id="neighbor-sf" width=100>
-  </div>
-  </div>
+  <!--Display Table-->
+  <div id="neighbor-sf" width=100></div> -->
 
   <!--format for every html started from here-->
   <footer class="text-muted">
@@ -136,13 +156,14 @@
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
 
   <!--Chart JS-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
 
   <!--Marker Cluster JS-->
   <script type="text/javascript"
-    src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script> 
+    src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
 
   <!--Our JS-->
   <script type="text/javascript" src="../static/js/analytics.js"></script>

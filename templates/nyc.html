@@ -1,0 +1,189 @@
+<!--format for every html started from here-->
+<!doctype html>
+<html lang="en-us">
+
+<!--Link-->
+
+<head>
+    <title>Home</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+    <!--Leaflet CSS-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+        integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+        crossorigin="" />
+
+    <!--Marker Cluster CSS-->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+
+    <!--Our CSS-->
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+</head>
+
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <!--Airbnb Icon-->
+        <img src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png" height="100" width="100"
+            class="navbar-brand">
+
+        <!--Menu-->
+        <ul class="navbar-nav">
+            <!--Home-->
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <!--Analytics-->
+            <li class="nav-item">
+                <a class="nav-link" href="/analytics">Analytics</a>
+            </li>
+            <!--Dropdown-->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    City
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="/atx">Austin, Texas</a>
+                    <a class="dropdown-item" href="/bos">Boston, Massachusetts</a>
+                    <a class="dropdown-item" href="/chi">Chicago, Illinois</a>
+                    <a class="dropdown-item" href="/colo">Columbus, Ohio</a>
+                    <a class="dropdown-item" href="/den">Denver, Colorado</a>
+                    <a class="dropdown-item" href="/jc">Jersey City, New Jersey</a>
+                    <a class="dropdown-item" href="/la">Los Angeles, California</a>
+                    <a class="dropdown-item" href="/nsh">Nashville, Tennessee</a>
+                    <a class="dropdown-item" href="/nyc">New York City, New York</a>
+                    <a class="dropdown-item" href="/sf">San Francisco, California</a>
+                </div>
+            </li>
+
+            <!--About and Resources-->
+            <div class="container">
+                <a href="#demo" class="btn btn-primary" data-toggle="collapse">About</a>
+                <div id="demo" class="collapse">
+                    <p style="color: white;">
+                        (add more!) The project is to analyze Airbnb market supply and pricing for 10 cities</p>
+                </div>
+                <a href="#demo" class="btn btn-primary" data-toggle="collapse">Resources</a>
+                <div id="demo" class="collapse">
+                    <li><a href="http://insideairbnb.com/get-the-data.html" class="text-white">Inside Airbnb</a></li>
+                </div>
+            </div>
+
+        </ul>
+    </nav>
+    <!--format for every html ended from here-->
+
+    <!--City Intro from Wiki and Data Analysis-->
+    <div class="container"></div>
+    <h1><b>New York City</b></h1>
+    <p align="center">New York City (NYC) is the most populous city in the United States.
+        With an estimated 2019 population of 8,336,817, New York City is also the most densely populated major city in
+        the United States.
+        The city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban
+        landmass.
+        New York City has been described as the cultural, financial, and media capital of the world, significantly
+        influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and
+        sports.
+        Home to the headquarters of the United Nations, New York is an important center for international diplomacy.
+    </p>
+    <br>
+
+    <!--Top-Rated Tourist Attractions from Planet Ware-->
+    <h4 align="center"><b><i>Top-Rated Tourist Attractions</i></b></h4>
+    <ul class="center">
+        <li>Statue of Liberty</li>
+        <li>Central Park</li>
+        <li>Rockefeller Center & Top of the Rock Observation Deck</li>
+        <li>Metropolitan Museum of Art</i>
+        <li>Broadway and the Theater District</li>
+    </ul>
+
+    <!--Display BoxPlot-->
+    <div class="row">
+        <div class="col-md-6">
+            <canvas id="boxplot-nyc"></canvas>
+        </div>
+        <!-- <div class="col-md-6">
+      <div id="map"></div>
+    </div> -->
+    </div>
+
+    <h4 align="center"><b><i>Map</i></b></h4>
+    <!--Display Map-->
+    <div id="map-nyc"></div>
+    <br />
+
+    <div align="center">
+        <button type="button" name="load_data" id="load_data" class="btn btn-info">
+            See if your budget meets where you want to stay!</button>
+    </div>
+    <br />
+    <!--Display Table-->
+    <div id="neighbor-nyc" width=100></div>
+
+    <!--format for every html started from here-->
+    <footer class="text-muted">
+        <div class="container">
+            <p class="float-right">
+                <a href="#">Back to top</a>
+            </p>
+            <p>© Copyright Rutgers Data Science Bootcamp 2020</p>
+        </div>
+    </footer>
+
+    <!--Script-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!--Bootstrap-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!--Ajax-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!--Leaflet JS-->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+        integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+        crossorigin=""></script>
+
+    <!--d3 JS-->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+
+    <!--Chart JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+
+    <!--Marker Cluster JS-->
+    <script type="text/javascript"
+        src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+
+    <!--Our JS-->
+    <script type="text/javascript" src="../static/js/analytics.js"></script>
+    <script type="text/javascript" src="../static/js/config.js"></script>
+    <script type="text/javascript" src="../static/js/sf.js"></script>
+    <script type="text/javascript" src="../static/js/nyc.js"></script>
+    <script type="text/javascript" src="../static/js/la.js"></script>
+    <script type="text/javascript" src="../static/js/jc.js"></script>
+    <script type="text/javascript" src="../static/js/atx.js"></script>
+    <script type="text/javascript" src="../static/js/bos.js"></script>
+    <script type="text/javascript" src="../static/js/nsh.js"></script>
+    <script type="text/javascript" src="../static/js/chi.js"></script>
+    <script type="text/javascript" src="../static/js/colo.js"></script>
+    <script type="text/javascript" src="../static/js/den.js"></script>
+
+</body>
+
+</html>
+<!--format for every html started from here-->
