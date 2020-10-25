@@ -1,8 +1,8 @@
 //Map (Leaflet)
 function makeMap() {
-    var myMap = L.map("map-chi", {
-        center: [41.8781, -87.6298],
-        zoom: 12
+    var myMap = L.map("map-bc", {
+        center: [26.1901, -80.3659],
+        zoom: 11
     });
 
     L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -14,7 +14,7 @@ function makeMap() {
         accessToken: API_KEY
     }).addTo(myMap);
 
-    d3.csv("../static/data/City/Chicago.csv").then(function (response) {
+    d3.csv("../static/data/City/Broward_County.csv").then(function (response) {
         console.log(response)
         var markers = L.markerClusterGroup();
 
@@ -49,7 +49,7 @@ function makeBar() {
     var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
     var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
 
-    var svg = d3.select("#bar-chi")
+    var svg = d3.select("#bar-bc")
         .append("svg")
         .attr("height", svgHeight)
         .attr("width", svgWidth); 
@@ -57,7 +57,7 @@ function makeBar() {
     var chartGroup = svg.append("g")
         .attr("transform", `translate(${chartMargin.left}, ${chartMargin.top})`);
 
-    d3.csv("../static/data/Neighbourhood/Chicago_Neighbourhood.csv").then(function (cityData) {
+    d3.csv("../static/data/Neighbourhood/Broward_County_Neighbourhood.csv").then(function (cityData) {
 
         console.log(cityData);
 
@@ -125,7 +125,7 @@ function makeBar() {
 
 //BoxPlot (Plotly)
 function makeBoxplot() {
-d3.csv("../static/data/Top5_Neighbourhood/Chicago_Top5.csv").then(function (boxData) {
+d3.csv("../static/data/Top5_Neighbourhood/Broward_County_Top5.csv").then(function (boxData) {
     console.log(boxData);
 
     var neighbourhood = boxData.map(function (d) {
@@ -149,7 +149,7 @@ d3.csv("../static/data/Top5_Neighbourhood/Chicago_Top5.csv").then(function (boxD
         yaxis: { title: "Price" }
       };
       
-      Plotly.newPlot("boxplot-chi", data, layout);
+      Plotly.newPlot("boxplot-bc", data, layout);
 }); 
 }
 

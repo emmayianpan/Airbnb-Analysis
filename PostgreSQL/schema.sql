@@ -31,7 +31,7 @@ CREATE TABLE la (
 	shared_room INT
 ); 
 
-CREATE TABLE jc (
+CREATE TABLE hi (
 	city TEXT,
 	average_price DECIMAL(10,2),
 	total_units INT,
@@ -42,13 +42,12 @@ CREATE TABLE jc (
 	shared_room INT
 ); 
 
-CREATE TABLE atx (
+CREATE TABLE cam (
 	city TEXT,
 	average_price DECIMAL(10,2),
 	total_units INT,
 	total_supply INT,
 	entire_home_apt INT,
-	hotel_room INT,
 	private_room INT,
 	shared_room INT
 ); 
@@ -64,7 +63,7 @@ CREATE TABLE bos (
 	shared_room INT
 ); 
 
-CREATE TABLE nsh (
+CREATE TABLE bc (
 	city TEXT,
 	average_price DECIMAL(10,2),
 	total_units INT,
@@ -107,4 +106,3 @@ CREATE TABLE den (
 	private_room INT,
 	shared_room INT
 ); 
-

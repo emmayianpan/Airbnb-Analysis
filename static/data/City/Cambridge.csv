@@ -1,0 +1,1030 @@
+id,neighbourhood,latitude,longitude,room_type,price,availability_365,minimum_nights
+8521,West Cambridge,42.38329,-71.13616999999999,Entire home/apt,150,307,3
+11169,North Cambridge,42.394690000000004,-71.13223,Private room,105,364,2
+11945,North Cambridge,42.39454,-71.13431,Private room,75,0,3
+19581,The Port,42.362759999999994,-71.09765,Private room,185,0,4
+22006,Neighborhood Nine,42.3867,-71.12387,Private room,110,125,2
+24063,West Cambridge,42.376059999999995,-71.14041,Private room,110,357,2
+26531,Riverside,42.3719,-71.11569,Entire home/apt,200,365,4
+27498,The Port,42.36381,-71.09754000000001,Private room,250,365,5
+79762,The Port,42.3695,-71.09921,Entire home/apt,225,1,3
+106474,The Port,42.3627,-71.09645,Private room,260,1,5
+108898,West Cambridge,42.38377,-71.13543,Entire home/apt,130,324,2
+219471,Cambridgeport,42.361090000000004,-71.10425,Entire home/apt,144,365,10
+231115,Mid-Cambridge,42.367709999999995,-71.1058,Entire home/apt,225,105,30
+280304,Riverside,42.37036,-71.11496,Entire home/apt,194,18,3
+321847,The Port,42.36549,-71.098,Entire home/apt,300,3,2
+326170,Agassiz,42.38247,-71.11403,Entire home/apt,110,0,1
+405144,Mid-Cambridge,42.37125,-71.11105,Entire home/apt,180,364,31
+405548,West Cambridge,42.38258,-71.1371,Entire home/apt,150,0,2
+445407,Wellington-Harrington,42.37363,-71.08909,Entire home/apt,350,1,2
+459074,Cambridgeport,42.36291,-71.10435,Entire home/apt,100,0,2
+464471,Wellington-Harrington,42.37317,-71.09743,Entire home/apt,175,266,91
+742574,Cambridgeport,42.36486,-71.10328,Entire home/apt,150,146,30
+798213,North Cambridge,42.40168,-71.13512,Private room,65,172,1
+810461,The Port,42.370470000000005,-71.09781,Private room,98,15,2
+860634,Agassiz,42.38391,-71.11449,Private room,70,0,1
+910408,Mid-Cambridge,42.37039,-71.10645,Entire home/apt,100,363,300
+1054635,Mid-Cambridge,42.37254,-71.1126,Entire home/apt,125,309,91
+1067104,North Cambridge,42.39177,-71.13116,Private room,79,365,145
+1097262,Cambridgeport,42.35629,-71.11095,Private room,70,0,30
+1130655,Agassiz,42.38454,-71.1156,Private room,125,365,91
+1140201,Cambridgeport,42.36112,-71.1066,Private room,70,365,30
+1141088,Wellington-Harrington,42.37117,-71.09685,Entire home/apt,179,0,2
+1143701,North Cambridge,42.38884,-71.12048,Private room,125,365,91
+1154298,North Cambridge,42.400209999999994,-71.13643,Private room,65,340,1
+1193875,The Port,42.364329999999995,-71.09911,Private room,33,2,1
+1215512,Strawberry Hill,42.378240000000005,-71.14915,Entire home/apt,160,362,91
+1216161,Mid-Cambridge,42.3762,-71.10919,Entire home/apt,135,101,91
+1225831,The Port,42.36458,-71.09845,Entire home/apt,155,254,3
+1276962,The Port,42.3678,-71.10175,Entire home/apt,200,276,3
+1307195,Cambridgeport,42.36392,-71.10191,Entire home/apt,469,22,2
+1315920,Wellington-Harrington,42.369859999999996,-71.09583,Entire home/apt,698,364,1
+1330779,Neighborhood Nine,42.38905,-71.12425,Entire home/apt,200,365,7
+1341022,The Port,42.36821,-71.09436,Entire home/apt,134,274,91
+1404377,East Cambridge,42.36743,-71.08458,Private room,140,250,2
+1406416,East Cambridge,42.37143,-71.07881,Private room,140,265,2
+1502981,Neighborhood Nine,42.38538,-71.11995999999999,Private room,95,0,3
+1609674,Neighborhood Nine,42.37599,-71.11792,Entire home/apt,375,364,91
+1619471,Mid-Cambridge,42.37384,-71.10719,Private room,140,170,2
+1619859,Neighborhood Nine,42.38848,-71.12592,Entire home/apt,120,1,91
+1632003,Mid-Cambridge,42.37209,-71.10328,Private room,170,171,2
+1644730,Riverside,42.37025,-71.1147,Entire home/apt,240,6,4
+1711476,Mid-Cambridge,42.37485,-71.10563,Entire home/apt,90,250,32
+1799157,Strawberry Hill,42.37617,-71.1544,Private room,79,120,32
+1840256,Area 2/MIT,42.36183,-71.0846,Entire home/apt,259,234,29
+1855969,East Cambridge,42.36342,-71.08281,Entire home/apt,272,211,29
+1881771,Cambridgeport,42.35564,-71.11298000000001,Entire home/apt,225,292,3
+1892854,Mid-Cambridge,42.37315,-71.11268000000001,Entire home/apt,330,0,91
+1893287,The Port,42.365629999999996,-71.10043,Entire home/apt,160,76,2
+1935343,Cambridgeport,42.35698,-71.10859,Entire home/apt,145,356,2
+1984737,West Cambridge,42.381159999999994,-71.13325999999999,Entire home/apt,425,335,2
+2030680,Strawberry Hill,42.37852,-71.15249,Private room,125,365,1
+2038283,Mid-Cambridge,42.372170000000004,-71.11453,Entire home/apt,110,171,3
+2092181,Wellington-Harrington,42.37278,-71.09002,Entire home/apt,85,0,1
+2098613,Cambridgeport,42.35518,-71.10914,Private room,75,1,2
+2176599,East Cambridge,42.36322,-71.08456,Entire home/apt,259,235,29
+2223447,Mid-Cambridge,42.37109,-71.11066,Entire home/apt,95,294,91
+2244415,Mid-Cambridge,42.372479999999996,-71.11488,Entire home/apt,329,180,2
+2290052,Wellington-Harrington,42.37145,-71.09575,Private room,120,180,3
+2359793,North Cambridge,42.40182,-71.13523,Private room,60,172,1
+2451591,Cambridgeport,42.361509999999996,-71.1048,Private room,129,362,5
+2467252,Neighborhood Nine,42.38155,-71.12886,Private room,125,0,2
+2538983,Cambridgeport,42.357040000000005,-71.10909000000001,Entire home/apt,350,0,1
+2580942,The Port,42.3695,-71.09921,Entire home/apt,250,311,3
+2642323,Cambridge Highlands,42.38817,-71.14601,Entire home/apt,250,0,7
+2692752,Cambridgeport,42.364309999999996,-71.1029,Private room,95,0,2
+2875646,Wellington-Harrington,42.37259,-71.08941,Entire home/apt,115,0,1
+2879039,Area 2/MIT,42.361979999999996,-71.08436999999999,Entire home/apt,220,196,29
+2914111,Cambridgeport,42.36397,-71.10712,Private room,107,310,2
+3021937,Cambridgeport,42.3569,-71.10948,Private room,86,101,14
+3050185,Strawberry Hill,42.375690000000006,-71.15101999999999,Entire home/apt,245,34,330
+3100411,Mid-Cambridge,42.371140000000004,-71.11273,Entire home/apt,429,52,2
+3168152,Cambridgeport,42.358979999999995,-71.11312,Private room,130,365,1
+3200813,Neighborhood Nine,42.38929,-71.12683,Entire home/apt,225,365,200
+3209676,Neighborhood Nine,42.38835,-71.1276,Entire home/apt,147,0,95
+3234995,West Cambridge,42.37764,-71.12601,Entire home/apt,300,180,2
+3247833,Wellington-Harrington,42.36981,-71.09263,Entire home/apt,225,328,2
+3316734,Neighborhood Nine,42.38957,-71.12755,Private room,57,365,91
+3334098,East Cambridge,42.36902,-71.0857,Entire home/apt,265,263,3
+3340412,Strawberry Hill,42.37462,-71.15023000000001,Entire home/apt,150,108,3
+3352446,Strawberry Hill,42.37778,-71.14997,Entire home/apt,209,241,2
+3375100,West Cambridge,42.382740000000005,-71.13631,Private room,94,324,91
+3434822,North Cambridge,42.39403,-71.13094,Private room,79,365,90
+3474824,Cambridgeport,42.35903,-71.10812,Entire home/apt,144,0,2
+3475883,Strawberry Hill,42.37514,-71.15054,Private room,65,199,3
+3519954,Strawberry Hill,42.37558,-71.15201,Private room,65,273,3
+3538589,Agassiz,42.38263,-71.11439,Entire home/apt,160,218,3
+3554581,Neighborhood Nine,42.38975,-71.12746,Private room,55,365,91
+3578005,Mid-Cambridge,42.375029999999995,-71.10491,Entire home/apt,250,0,1
+3610778,East Cambridge,42.36903,-71.08794,Private room,160,72,30
+3649162,Cambridgeport,42.36357,-71.10297,Entire home/apt,250,17,5
+3652550,Neighborhood Nine,42.387679999999996,-71.1248,Entire home/apt,185,205,3
+3678159,Riverside,42.36779,-71.11222,Private room,99,59,1
+3684345,East Cambridge,42.36338,-71.08365,Entire home/apt,272,211,29
+3740822,East Cambridge,42.363659999999996,-71.08329,Entire home/apt,337,212,29
+3767665,Mid-Cambridge,42.37106,-71.10772,Entire home/apt,80,0,31
+3774900,Cambridgeport,42.36079,-71.11365,Entire home/apt,100,264,2
+3796979,Neighborhood Nine,42.38673,-71.12364000000001,Entire home/apt,165,335,3
+3820596,Neighborhood Nine,42.388220000000004,-71.12687,Private room,70,365,210
+3885435,Wellington-Harrington,42.37359,-71.09549,Private room,82,174,3
+3894437,Neighborhood Nine,42.38856,-71.12594,Entire home/apt,122,0,50
+3945567,North Cambridge,42.395109999999995,-71.13134000000001,Entire home/apt,140,6,2
+3966829,The Port,42.366929999999996,-71.09921,Entire home/apt,84,90,91
+4112094,West Cambridge,42.37869,-71.14482,Entire home/apt,120,0,1
+4116478,Cambridgeport,42.36312,-71.10284,Entire home/apt,350,304,2
+4168303,The Port,42.369,-71.09653,Private room,105,273,45
+4209359,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,99,105,30
+4216908,North Cambridge,42.389540000000004,-71.11806,Entire home/apt,275,0,1
+4235636,Strawberry Hill,42.377109999999995,-71.15168,Private room,125,365,1
+4275093,Agassiz,42.385290000000005,-71.11793,Entire home/apt,279,0,2
+4276802,The Port,42.36889,-71.09664000000001,Private room,75,0,90
+4338244,East Cambridge,42.36442,-71.08211,Entire home/apt,278,1,29
+4363059,West Cambridge,42.38157,-71.13658000000001,Private room,84,107,91
+4437529,East Cambridge,42.363659999999996,-71.08329,Entire home/apt,337,212,29
+4437789,East Cambridge,42.364779999999996,-71.08216999999999,Entire home/apt,220,196,29
+4455298,The Port,42.368520000000004,-71.09723000000001,Entire home/apt,340,140,90
+4489577,East Cambridge,42.36388,-71.08309,Entire home/apt,220,196,29
+4534572,West Cambridge,42.37874,-71.14226,Entire home/apt,500,2,2
+4554102,Wellington-Harrington,42.373979999999996,-71.09049,Private room,60,0,5
+4736800,Mid-Cambridge,42.37066,-71.10431,Entire home/apt,145,269,2
+4738463,The Port,42.36913,-71.09772,Private room,85,116,45
+4751209,West Cambridge,42.3815,-71.13807,Entire home/apt,155,179,91
+4753390,The Port,42.3686,-71.09652,Entire home/apt,170,163,90
+4759313,Strawberry Hill,42.37826,-71.15505999999999,Entire home/apt,179,294,91
+4763977,East Cambridge,42.36974,-71.08709,Entire home/apt,129,80,5
+4813475,Wellington-Harrington,42.3726,-71.09085999999999,Entire home/apt,150,0,1
+4824130,West Cambridge,42.375240000000005,-71.14744,Shared room,70,0,91
+4841421,Cambridgeport,42.35792,-71.11119000000001,Entire home/apt,250,26,3
+4921626,Strawberry Hill,42.37934,-71.15508,Private room,170,294,91
+4932029,North Cambridge,42.39705,-71.13305,Entire home/apt,165,0,1
+4954584,The Port,42.36931,-71.09781,Entire home/apt,275,18,45
+4956321,Agassiz,42.38412,-71.11484,Entire home/apt,145,214,4
+4958294,Neighborhood Nine,42.3798,-71.12124,Entire home/apt,179,365,91
+4989834,The Port,42.367459999999994,-71.10109,Private room,75,0,30
+5051452,Mid-Cambridge,42.37215,-71.10525,Entire home/apt,108,364,91
+5159117,The Port,42.36521,-71.09806,Private room,64,0,4
+5248305,Wellington-Harrington,42.37214,-71.09834000000001,Entire home/apt,225,0,91
+5251036,Mid-Cambridge,42.37137,-71.10126,Entire home/apt,135,18,1
+5304655,Mid-Cambridge,42.37195,-71.11391,Entire home/apt,299,87,3
+5320198,West Cambridge,42.37469,-71.12513,Private room,90,365,6
+5336803,Neighborhood Nine,42.38552,-71.13733,Private room,300,88,91
+5365197,Mid-Cambridge,42.373940000000005,-71.10188000000001,Private room,100,172,91
+5626174,Mid-Cambridge,42.36963,-71.10271,Entire home/apt,225,353,1
+5666988,West Cambridge,42.37453,-71.13276,Entire home/apt,410,231,7
+5680028,West Cambridge,42.3787,-71.14435,Entire home/apt,200,46,30
+5705842,The Port,42.36724,-71.0985,Entire home/apt,287,147,90
+5791244,West Cambridge,42.383759999999995,-71.13549,Entire home/apt,184,173,2
+5811422,The Port,42.368990000000004,-71.09849,Entire home/apt,70,365,32
+5844818,East Cambridge,42.37222,-71.08094,Private room,60,89,2
+5857136,Neighborhood Nine,42.38358,-71.13028,Entire home/apt,195,308,2
+5870441,East Cambridge,42.363690000000005,-71.08396,Entire home/apt,199,359,91
+6012510,Mid-Cambridge,42.37123,-71.11049,Entire home/apt,150,0,91
+6013381,East Cambridge,42.36258,-71.08211999999999,Entire home/apt,189,338,91
+6056095,Neighborhood Nine,42.3821,-71.12458000000001,Private room,200,0,91
+6106691,West Cambridge,42.38289,-71.13313000000001,Entire home/apt,265,328,1
+6185544,North Cambridge,42.39633,-71.13642,Entire home/apt,250,167,1
+6185571,North Cambridge,42.39604,-71.13515,Private room,69,163,3
+6363476,Agassiz,42.38411,-71.11523000000001,Entire home/apt,274,0,3
+6374780,North Cambridge,42.39523,-71.12897,Entire home/apt,150,283,120
+6385215,Neighborhood Nine,42.3831,-71.12946,Entire home/apt,133,243,30
+6397721,East Cambridge,42.36462,-71.08318,Entire home/apt,278,212,29
+6404336,Wellington-Harrington,42.37169,-71.09617,Private room,80,0,2
+6432362,Cambridgeport,42.357,-71.10758,Entire home/apt,310,294,91
+6434394,The Port,42.368140000000004,-71.0989,Entire home/apt,249,244,1
+6473781,Cambridgeport,42.36033,-71.10475,Entire home/apt,550,106,3
+6540808,Cambridgeport,42.364,-71.10416,Private room,125,0,91
+6556420,Cambridge Highlands,42.39178,-71.15616999999999,Private room,94,0,2
+6599485,Neighborhood Nine,42.38382,-71.13276,Private room,45,4,1
+6635782,Agassiz,42.38058,-71.11711,Entire home/apt,275,315,5
+6660580,Mid-Cambridge,42.373020000000004,-71.10300000000001,Private room,88,73,1
+6662157,North Cambridge,42.39247,-71.132,Entire home/apt,395,363,2
+6702823,Mid-Cambridge,42.368840000000006,-71.10341,Private room,85,0,1
+6759024,East Cambridge,42.36299,-71.08355999999999,Entire home/apt,259,364,91
+6761641,West Cambridge,42.378859999999996,-71.12564,Entire home/apt,300,358,91
+6847242,Neighborhood Nine,42.38324,-71.12210999999999,Private room,90,0,2
+6947733,Neighborhood Nine,42.38299,-71.12278,Private room,90,134,2
+6949378,East Cambridge,42.36469,-71.08274,Entire home/apt,179,0,91
+7007117,North Cambridge,42.39634,-71.13683,Private room,60,0,1
+7031423,Wellington-Harrington,42.37332,-71.09792,Private room,65,168,5
+7080737,Riverside,42.37161,-71.11577,Private room,149,89,2
+7094503,Mid-Cambridge,42.37262,-71.10469,Private room,84,80,1
+7197629,Wellington-Harrington,42.37328,-71.09618,Private room,50,0,1
+7339046,Mid-Cambridge,42.36807,-71.10786999999999,Entire home/apt,120,29,28
+7369764,Wellington-Harrington,42.37293,-71.09581999999999,Private room,75,139,5
+7401198,Cambridgeport,42.35821,-71.10592,Private room,110,100,2
+7415807,North Cambridge,42.39418,-71.13269,Entire home/apt,495,23,5
+7522561,Neighborhood Nine,42.387840000000004,-71.14018,Entire home/apt,265,179,90
+7573492,Neighborhood Nine,42.38387,-71.13316,Private room,66,6,1
+7615984,Riverside,42.37014,-71.11444,Private room,125,0,2
+7729257,Mid-Cambridge,42.37453,-71.10589,Entire home/apt,120,270,32
+7741229,East Cambridge,42.37211,-71.0806,Entire home/apt,140,0,91
+7843046,North Cambridge,42.394090000000006,-71.13035,Private room,129,360,1
+7872594,Mid-Cambridge,42.375370000000004,-71.10695,Entire home/apt,125,50,100
+7881324,Mid-Cambridge,42.37344,-71.10484,Entire home/apt,200,165,90
+7883909,Mid-Cambridge,42.37515,-71.10507,Entire home/apt,155,1,95
+7884541,Mid-Cambridge,42.37481,-71.10694000000001,Entire home/apt,115,225,90
+7886699,Mid-Cambridge,42.37338,-71.10689,Entire home/apt,175,171,90
+8025717,Riverside,42.37193,-71.11855,Private room,130,365,1
+8059830,Neighborhood Nine,42.38694,-71.14058,Entire home/apt,260,80,45
+8064408,East Cambridge,42.36394,-71.08414,Entire home/apt,249,364,91
+8064641,East Cambridge,42.3639,-71.08305,Entire home/apt,209,193,30
+8100480,Mid-Cambridge,42.369640000000004,-71.10745,Entire home/apt,109,90,29
+8129338,East Cambridge,42.369409999999995,-71.0836,Private room,95,0,2
+8151702,The Port,42.36922,-71.09638000000001,Entire home/apt,290,179,90
+8272257,The Port,42.36725,-71.09612,Private room,199,361,1
+8272315,The Port,42.367020000000004,-71.09606,Private room,129,361,1
+8308492,Cambridgeport,42.36067,-71.11053000000001,Entire home/apt,395,0,7
+8308744,Cambridgeport,42.36258,-71.11191,Private room,100,289,2
+8309612,The Port,42.36725,-71.09612,Private room,149,361,1
+8382466,Cambridgeport,42.358129999999996,-71.11043000000001,Entire home/apt,210,0,91
+8391615,Riverside,42.36502,-71.1142,Private room,77,0,91
+8615648,Mid-Cambridge,42.36905,-71.10661,Entire home/apt,150,0,5
+8653612,East Cambridge,42.372640000000004,-71.0819,Private room,109,0,91
+8732457,West Cambridge,42.37477,-71.12926999999999,Entire home/apt,270,364,91
+8758789,The Port,42.36868,-71.09875,Entire home/apt,299,74,2
+8866753,Mid-Cambridge,42.36919,-71.10927,Private room,85,86,2
+8988749,Cambridgeport,42.35767,-71.11046,Private room,110,365,91
+9300963,North Cambridge,42.39467,-71.1277,Entire home/apt,175,1,1
+9341968,Neighborhood Nine,42.38364,-71.12899999999999,Entire home/apt,100,342,2
+9371115,Agassiz,42.37826,-71.10929,Entire home/apt,499,173,91
+9371596,Cambridgeport,42.358270000000005,-71.1066,Private room,80,364,91
+9729190,Neighborhood Nine,42.38584,-71.12584,Private room,125,0,4
+9790965,Neighborhood Nine,42.38701,-71.12753000000001,Private room,90,302,1
+9832821,Agassiz,42.386959999999995,-71.11764000000001,Private room,149,0,3
+9938323,Cambridgeport,42.36221,-71.09983000000001,Private room,110,41,1
+9940633,The Port,42.36253,-71.09751,Entire home/apt,325,0,32
+9940720,Mid-Cambridge,42.3694,-71.10723,Private room,120,71,1
+9975650,Mid-Cambridge,42.3684,-71.1082,Entire home/apt,154,90,31
+10052642,East Cambridge,42.36438,-71.08301999999999,Entire home/apt,199,358,91
+10052826,East Cambridge,42.36365,-71.08466999999999,Entire home/apt,199,358,91
+10066136,East Cambridge,42.36313,-71.0841,Entire home/apt,189,0,91
+10066362,East Cambridge,42.36432,-71.08225,Entire home/apt,299,338,91
+10068003,East Cambridge,42.36399,-71.08431,Entire home/apt,229,193,91
+10068121,East Cambridge,42.36436,-71.0841,Entire home/apt,179,193,91
+10068220,East Cambridge,42.363009999999996,-71.08353000000001,Entire home/apt,249,1,91
+10068492,East Cambridge,42.3634,-71.08377,Entire home/apt,249,364,91
+10138304,Cambridgeport,42.36208,-71.09963,Private room,110,10,1
+10138457,Cambridgeport,42.36192,-71.09827,Entire home/apt,325,0,32
+10138571,The Port,42.36202,-71.09788,Private room,110,9,1
+10152128,Riverside,42.3678,-71.1082,Private room,120,0,32
+10152514,North Cambridge,42.3927,-71.12688,Private room,100,71,1
+10245993,Cambridgeport,42.36039,-71.10038,Entire home/apt,179,365,30
+10355885,Mid-Cambridge,42.37015,-71.1016,Entire home/apt,299,0,3
+10366230,Mid-Cambridge,42.37108,-71.10051,Entire home/apt,200,243,30
+10389930,Mid-Cambridge,42.37001,-71.10059,Private room,110,90,91
+10413061,Mid-Cambridge,42.37154,-71.10045,Entire home/apt,299,365,3
+10545046,North Cambridge,42.39501,-71.13701999999999,Entire home/apt,190,184,28
+10649456,East Cambridge,42.3724,-71.08051,Shared room,125,1,1
+10675072,North Cambridge,42.39764,-71.13282,Entire home/apt,131,307,2
+10918238,The Port,42.362159999999996,-71.09788,Entire home/apt,325,0,32
+11041806,Cambridgeport,42.36218,-71.09951,Private room,275,5,32
+11084684,The Port,42.36795,-71.09861,Entire home/apt,220,180,90
+11127214,Riverside,42.362390000000005,-71.11353000000001,Entire home/apt,100,356,14
+11172827,North Cambridge,42.39059,-71.12419,Entire home/apt,160,298,30
+11298634,Mid-Cambridge,42.3692,-71.10864000000001,Entire home/apt,299,364,91
+11527263,Cambridgeport,42.36083,-71.10771,Entire home/apt,110,0,2
+11656940,Agassiz,42.38558,-71.11735,Entire home/apt,190,308,3
+11836087,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,225,248,2
+11944852,Neighborhood Nine,42.38606,-71.1384,Entire home/apt,280,89,90
+12038379,Neighborhood Nine,42.38575,-71.1319,Entire home/apt,201,358,2
+12220649,Mid-Cambridge,42.37205,-71.10695,Private room,48,40,1
+12231967,Mid-Cambridge,42.37257,-71.10967,Entire home/apt,390,0,91
+12309052,West Cambridge,42.38152,-71.14256999999999,Entire home/apt,500,364,91
+12318450,Cambridgeport,42.35692,-71.10983,Entire home/apt,100,84,1
+12345098,Neighborhood Nine,42.38322,-71.13159,Entire home/apt,150,0,91
+12398544,Cambridgeport,42.36056,-71.09975,Entire home/apt,350,0,32
+12422422,Cambridgeport,42.36077,-71.09919000000001,Private room,110,10,1
+12432434,Mid-Cambridge,42.37315,-71.11180999999999,Entire home/apt,240,41,21
+12489082,Cambridgeport,42.36234,-71.1105,Entire home/apt,175,16,2
+12507244,Mid-Cambridge,42.37298,-71.10821,Entire home/apt,130,364,91
+12522168,Mid-Cambridge,42.37205,-71.10033,Entire home/apt,115,180,91
+12532155,Mid-Cambridge,42.37143,-71.10732,Private room,70,40,1
+12655984,Agassiz,42.38154,-71.11499,Private room,99,89,3
+12678652,Strawberry Hill,42.37775,-71.1497,Entire home/apt,258,274,1
+12683483,The Port,42.369040000000005,-71.09719,Entire home/apt,275,177,90
+12694481,Neighborhood Nine,42.38694,-71.12839,Entire home/apt,150,0,91
+12733997,Cambridgeport,42.35988,-71.10098,Entire home/apt,179,365,30
+12810652,East Cambridge,42.37185,-71.0836,Private room,90,362,2
+12827666,Mid-Cambridge,42.36991,-71.10746999999999,Entire home/apt,150,170,91
+12871772,Agassiz,42.38157,-71.11542,Private room,83,90,91
+12903091,Strawberry Hill,42.38058,-71.15278,Private room,75,365,30
+12944416,Cambridgeport,42.363659999999996,-71.10392,Entire home/apt,194,364,91
+12985396,Cambridgeport,42.36079,-71.10242,Entire home/apt,200,365,30
+13002717,Agassiz,42.383379999999995,-71.11674000000001,Private room,75,289,3
+13044207,Cambridgeport,42.358470000000004,-71.1114,Private room,95,0,2
+13055504,Mid-Cambridge,42.37164,-71.11098,Entire home/apt,110,364,91
+13073921,Strawberry Hill,42.377790000000005,-71.14975,Private room,89,151,1
+13110608,Mid-Cambridge,42.37113,-71.11067,Entire home/apt,115,364,91
+13147180,Cambridgeport,42.36345,-71.10153000000001,Entire home/apt,175,0,32
+13156403,Strawberry Hill,42.37781,-71.14974000000001,Private room,89,81,1
+13169945,Strawberry Hill,42.37815,-71.1493,Private room,89,303,1
+13175406,North Cambridge,42.394529999999996,-71.13489,Private room,75,113,1
+13199285,Mid-Cambridge,42.37381,-71.1018,Entire home/apt,129,0,91
+13202758,Mid-Cambridge,42.37095,-71.11121,Entire home/apt,110,364,91
+13203203,Cambridgeport,42.36122,-71.09978000000001,Private room,120,10,1
+13209403,Cambridgeport,42.362840000000006,-71.10346,Private room,60,0,91
+13231626,Cambridgeport,42.36094,-71.09796999999999,Entire home/apt,325,4,32
+13281865,Neighborhood Nine,42.38898,-71.1275,Entire home/apt,60,294,91
+13294153,East Cambridge,42.37105,-71.08296,Private room,99,0,2
+13395069,East Cambridge,42.37225,-71.0871,Entire home/apt,200,0,1
+13425602,Mid-Cambridge,42.37052,-71.11315,Entire home/apt,85,364,91
+13458825,Mid-Cambridge,42.37174,-71.11097,Entire home/apt,130,364,91
+13522694,Riverside,42.36537,-71.10731,Entire home/apt,250,0,2
+13546773,Strawberry Hill,42.37877,-71.15478,Entire home/apt,125,6,5
+13575646,Wellington-Harrington,42.37369,-71.10036,Entire home/apt,190,173,2
+13586974,Mid-Cambridge,42.371390000000005,-71.11386,Private room,75,329,1
+13600523,Riverside,42.36878,-71.11355,Private room,75,365,1
+13617148,Wellington-Harrington,42.3711,-71.0888,Entire home/apt,145,16,30
+13653574,Cambridgeport,42.35988,-71.10098,Entire home/apt,179,365,30
+13683876,East Cambridge,42.36231,-71.08306999999999,Entire home/apt,219,362,91
+13710379,East Cambridge,42.37294,-71.0836,Private room,165,0,3
+13729763,The Port,42.3667,-71.09792,Entire home/apt,150,0,5
+13770887,Mid-Cambridge,42.36911,-71.10755999999999,Entire home/apt,179,0,91
+13789049,Neighborhood Nine,42.38373,-71.13311999999999,Private room,95,88,91
+13893163,Agassiz,42.37765,-71.10972,Entire home/apt,145,116,7
+13953617,The Port,42.36972,-71.09729,Entire home/apt,70,0,32
+13971507,Wellington-Harrington,42.373509999999996,-71.10048,Entire home/apt,100,330,30
+14041853,The Port,42.36634,-71.09679,Private room,60,0,91
+14069570,Mid-Cambridge,42.37643,-71.11224,Private room,89,71,30
+14088030,Cambridgeport,42.360640000000004,-71.11208,Entire home/apt,300,154,2
+14117899,Mid-Cambridge,42.37373,-71.10754,Entire home/apt,120,365,91
+14142611,East Cambridge,42.36997,-71.08263000000001,Private room,117,1,2
+14154872,Wellington-Harrington,42.37281,-71.09456999999999,Private room,70,0,91
+14212774,The Port,42.3624,-71.09824,Private room,120,0,1
+14212880,Cambridgeport,42.36148,-71.09961,Private room,110,0,32
+14213983,Riverside,42.36529,-71.11399999999999,Entire home/apt,135,89,91
+14229298,East Cambridge,42.36303,-71.08345,Entire home/apt,219,191,91
+14234360,East Cambridge,42.37299,-71.08184,Private room,88,0,2
+14251369,Cambridgeport,42.363640000000004,-71.10494,Entire home/apt,225,365,91
+14313342,Cambridgeport,42.36079,-71.10242,Entire home/apt,179,89,30
+14359574,Strawberry Hill,42.380140000000004,-71.15379,Private room,60,0,30
+14436594,Mid-Cambridge,42.368140000000004,-71.10474,Entire home/apt,100,232,150
+14449525,West Cambridge,42.37842,-71.14496,Entire home/apt,100,313,2
+14490684,Riverside,42.36213,-71.1158,Private room,70,0,91
+14503389,Riverside,42.36914,-71.11435,Private room,75,361,1
+14521992,Mid-Cambridge,42.36995,-71.11071,Shared room,395,365,91
+14536322,Riverside,42.370740000000005,-71.11491,Private room,75,362,1
+14587541,The Port,42.36764,-71.09841,Entire home/apt,205,0,91
+14592916,The Port,42.36953,-71.09969,Private room,160,0,2
+14727253,The Port,42.370540000000005,-71.09718000000001,Private room,50,365,32
+14730752,Cambridgeport,42.36116,-71.10947,Entire home/apt,70,0,150
+14738606,The Port,42.36273,-71.09809,Private room,110,0,32
+14754020,Cambridgeport,42.36137,-71.09804,Entire home/apt,325,0,32
+14754163,Cambridgeport,42.36055,-71.10002,Private room,100,10,1
+14754327,Cambridgeport,42.36121,-71.09836,Private room,110,0,32
+14758794,Cambridgeport,42.36104,-71.09866,Private room,130,0,1
+14758867,Cambridgeport,42.36115,-71.09794000000001,Private room,110,0,32
+14759286,Cambridgeport,42.36142,-71.09949,Private room,110,10,1
+14759316,The Port,42.36252,-71.09865,Private room,100,0,32
+14759578,East Cambridge,42.37265,-71.08655,Entire home/apt,158,133,2
+14841218,Cambridgeport,42.35839,-71.10828000000001,Entire home/apt,197,208,91
+14847982,Mid-Cambridge,42.37206,-71.11078,Entire home/apt,120,346,7
+14858857,East Cambridge,42.3694,-71.08745,Private room,75,151,91
+14896940,Riverside,42.36568,-71.10706,Private room,175,0,91
+14914342,Mid-Cambridge,42.37523,-71.11179,Entire home/apt,255,1,32
+14931741,Riverside,42.36564,-71.10821,Private room,100,0,91
+14974786,Mid-Cambridge,42.37588,-71.11363,Private room,190,117,1
+15022874,Mid-Cambridge,42.37575,-71.1109,Private room,190,112,1
+15056521,The Port,42.37019,-71.09931,Private room,155,0,2
+15125756,Neighborhood Nine,42.38344,-71.12122,Private room,65,89,2
+15191990,Mid-Cambridge,42.37155,-71.1085,Entire home/apt,395,0,2
+15192853,Cambridgeport,42.3606,-71.09973000000001,Entire home/apt,350,0,32
+15222030,West Cambridge,42.381370000000004,-71.14288,Entire home/apt,150,0,2
+15235520,The Port,42.36237,-71.09755,Private room,120,0,1
+15235674,Cambridgeport,42.36235,-71.09924000000001,Private room,110,0,32
+15272594,North Cambridge,42.39887,-71.14135,Private room,100,0,2
+15285943,East Cambridge,42.362759999999994,-71.08421,Entire home/apt,571,338,30
+15295354,East Cambridge,42.36423,-71.08434,Entire home/apt,571,364,30
+15295836,East Cambridge,42.36253,-71.084,Entire home/apt,571,364,30
+15295997,East Cambridge,42.36405,-71.08256,Entire home/apt,299,364,30
+15369556,East Cambridge,42.363440000000004,-71.08223000000001,Entire home/apt,299,365,30
+15451457,East Cambridge,42.36756,-71.08104,Entire home/apt,140,79,1
+15512578,The Port,42.36752,-71.10008,Entire home/apt,150,306,2
+15523233,West Cambridge,42.375890000000005,-71.13013000000001,Entire home/apt,99,75,1
+15534322,East Cambridge,42.36776,-71.08244,Entire home/apt,200,0,3
+15645066,East Cambridge,42.36851,-71.08164000000001,Entire home/apt,140,107,1
+15788977,Neighborhood Nine,42.37827,-71.12055,Entire home/apt,215,0,2
+15789298,North Cambridge,42.39768,-71.13065,Private room,75,0,7
+15826847,Mid-Cambridge,42.36752,-71.10674,Private room,120,72,1
+15827795,Mid-Cambridge,42.369209999999995,-71.10679,Private room,100,71,1
+15881987,Mid-Cambridge,42.36891,-71.10842,Private room,120,72,1
+15896255,North Cambridge,42.39889,-71.13208,Private room,35,101,1
+15902585,North Cambridge,42.395,-71.1287,Private room,80,0,3
+15929332,Mid-Cambridge,42.366440000000004,-71.10315,Entire home/apt,203,90,2
+15930566,Mid-Cambridge,42.375859999999996,-71.10588,Entire home/apt,115,279,2
+15970136,Strawberry Hill,42.37937,-71.1535,Entire home/apt,135,0,1
+16012632,Mid-Cambridge,42.36769,-71.10712,Private room,125,72,1
+16013016,Riverside,42.36725,-71.10698000000001,Private room,115,0,32
+16013157,Riverside,42.36722,-71.1083,Private room,100,72,1
+16013859,North Cambridge,42.392340000000004,-71.12607,Private room,100,71,1
+16019233,Cambridgeport,42.35953,-71.11154,Private room,50,364,90
+16056199,Wellington-Harrington,42.36874,-71.09414,Private room,100,0,1
+16136728,East Cambridge,42.3703,-71.08156,Entire home/apt,194,18,3
+16146887,East Cambridge,42.368970000000004,-71.08213,Private room,90,18,3
+16238299,Cambridgeport,42.35901,-71.10582,Entire home/apt,150,0,91
+16338380,Cambridgeport,42.35512,-71.10859,Private room,109,0,4
+16353525,Wellington-Harrington,42.36805,-71.09125999999999,Private room,120,177,3
+16361055,West Cambridge,42.373259999999995,-71.12508000000001,Entire home/apt,350,346,2
+16436214,Riverside,42.36743,-71.10812,Private room,120,72,1
+16532655,Wellington-Harrington,42.36946,-71.08993000000001,Private room,100,96,1
+16572261,Mid-Cambridge,42.37101,-71.10231,Entire home/apt,99,90,91
+16734672,The Port,42.36566,-71.10265,Entire home/apt,469,46,2
+16826930,Cambridgeport,42.36388,-71.10401999999999,Entire home/apt,229,9,91
+16843178,East Cambridge,42.3729,-71.0781,Private room,66,90,91
+16948035,Mid-Cambridge,42.368520000000004,-71.10311999999999,Private room,75,0,30
+17011428,West Cambridge,42.37927,-71.14289000000001,Entire home/apt,125,0,91
+17107558,Mid-Cambridge,42.3731,-71.10019,Private room,299,0,2
+17209703,Strawberry Hill,42.3758,-71.15354,Entire home/apt,265,0,28
+17278589,Wellington-Harrington,42.36927,-71.08976,Private room,150,157,1
+17285749,Agassiz,42.381159999999994,-71.11893,Entire home/apt,110,138,1
+17318399,North Cambridge,42.39912,-71.13063000000001,Entire home/apt,105,18,1
+17348129,East Cambridge,42.36894,-71.08197,Entire home/apt,258,41,1
+17388503,Wellington-Harrington,42.369,-71.09031,Private room,71,125,1
+17416232,Agassiz,42.38408,-71.11608000000001,Entire home/apt,299,0,2
+17811602,East Cambridge,42.36795,-71.08617,Entire home/apt,134,41,21
+17843584,West Cambridge,42.37477,-71.12393,Private room,40,63,14
+17903038,Mid-Cambridge,42.366609999999994,-71.10396,Entire home/apt,509,46,2
+17942925,North Cambridge,42.39367,-71.12673000000001,Entire home/apt,200,0,4
+17944943,Riverside,42.36712,-71.10837,Private room,200,0,91
+17988370,Mid-Cambridge,42.3682,-71.10342,Entire home/apt,369,10,2
+18086596,Mid-Cambridge,42.369240000000005,-71.10973,Entire home/apt,120,6,91
+18151308,Mid-Cambridge,42.37632,-71.1102,Entire home/apt,240,0,2
+18406874,East Cambridge,42.364,-71.08237,Entire home/apt,419,211,30
+18427707,Agassiz,42.38525,-71.11731,Private room,72,0,91
+18600639,Agassiz,42.38245,-71.11425,Entire home/apt,1375,363,4
+18610351,Cambridgeport,42.36367,-71.10348,Entire home/apt,250,0,91
+18611600,Cambridgeport,42.363040000000005,-71.10323000000001,Private room,250,0,91
+18613736,Neighborhood Nine,42.38479,-71.12904,Entire home/apt,199,0,91
+18614693,Neighborhood Nine,42.383520000000004,-71.12957,Entire home/apt,150,178,91
+18615189,Neighborhood Nine,42.3856,-71.131,Entire home/apt,140,364,30
+18676360,Mid-Cambridge,42.36758,-71.10495,Entire home/apt,325,0,2
+18682931,Agassiz,42.38479,-71.11679000000001,Private room,119,64,2
+18791077,Cambridgeport,42.364090000000004,-71.10378,Entire home/apt,243,364,91
+19065197,The Port,42.36743,-71.10086,Private room,57,358,110
+19183167,Cambridgeport,42.3616,-71.10424,Entire home/apt,202,35,2
+19248273,Cambridgeport,42.36073,-71.11438000000001,Entire home/apt,111,0,28
+19251505,The Port,42.366890000000005,-71.09894,Entire home/apt,250,178,91
+19295898,East Cambridge,42.37184,-71.08475,Private room,65,151,2
+19307734,The Port,42.3672,-71.09614,Entire home/apt,599,360,1
+19328997,Mid-Cambridge,42.37177,-71.10221999999999,Private room,109,0,2
+19346242,Cambridgeport,42.36488,-71.10395,Private room,99,363,1
+19346436,Cambridgeport,42.3643,-71.10339,Private room,99,362,1
+19376539,West Cambridge,42.37489,-71.123,Private room,39,34,14
+19423076,Neighborhood Nine,42.38766,-71.12579000000001,Entire home/apt,270,0,1
+19426275,East Cambridge,42.36758,-71.08318,Private room,183,89,4
+19847550,The Port,42.3663,-71.09353,Entire home/apt,600,178,91
+19911587,Riverside,42.36553,-71.1092,Private room,99,364,1
+19942644,Mid-Cambridge,42.36765,-71.1059,Entire home/apt,225,104,30
+20024644,Cambridgeport,42.36282,-71.10472,Entire home/apt,203,0,30
+20074456,West Cambridge,42.37426,-71.12796999999999,Entire home/apt,175,65,1
+20074638,Riverside,42.36396,-71.10956,Entire home/apt,150,131,2
+20150500,East Cambridge,42.363,-71.08306999999999,Entire home/apt,260,29,91
+20153407,Mid-Cambridge,42.371390000000005,-71.10793000000001,Private room,78,179,91
+20355928,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,125,105,30
+20403205,East Cambridge,42.3643,-71.08213,Entire home/apt,135,191,91
+20403672,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,225,0,30
+20419752,The Port,42.36457,-71.10181,Entire home/apt,279,186,1
+20462256,East Cambridge,42.367090000000005,-71.08156,Entire home/apt,145,106,1
+20476550,Riverside,42.365829999999995,-71.11296999999999,Entire home/apt,220,0,91
+20504268,Wellington-Harrington,42.37332,-71.09803000000001,Entire home/apt,275,89,91
+20572514,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,201,105,30
+20589244,Mid-Cambridge,42.371629999999996,-71.10135,Private room,80,363,5
+20597669,Agassiz,42.37806,-71.10838000000001,Private room,160,0,3
+20602168,Mid-Cambridge,42.37124,-71.10011999999999,Private room,79,0,5
+20617996,Mid-Cambridge,42.36973,-71.10116,Private room,75,0,7
+20624380,Mid-Cambridge,42.36853,-71.10811,Entire home/apt,215,0,91
+20633588,Mid-Cambridge,42.37362,-71.10471,Private room,89,75,5
+20649068,Mid-Cambridge,42.37294,-71.10495999999999,Private room,99,78,3
+20671080,Mid-Cambridge,42.37304,-71.10665,Private room,89,82,1
+20756502,Mid-Cambridge,42.373059999999995,-71.10635,Private room,99,170,28
+20769949,Mid-Cambridge,42.37531,-71.10585999999999,Private room,95,0,1
+20797694,The Port,42.3656,-71.09706,Private room,50,254,1
+20799027,The Port,42.36608,-71.09761,Private room,54,270,1
+20817892,Wellington-Harrington,42.36792,-71.09099,Private room,150,0,1
+20848838,Mid-Cambridge,42.3724,-71.10519000000001,Entire home/apt,199,155,4
+20928592,East Cambridge,42.36748,-71.08551999999999,Entire home/apt,170,41,21
+21012703,Riverside,42.36898,-71.11134,Entire home/apt,108,20,91
+21204503,Riverside,42.36843,-71.11466,Entire home/apt,599,169,3
+21248869,Agassiz,42.38342,-71.11646999999999,Private room,119,0,2
+21275668,East Cambridge,42.36914,-71.08093000000001,Entire home/apt,206,123,2
+21362447,East Cambridge,42.37254,-71.08641,Private room,70,146,2
+21385410,Wellington-Harrington,42.373909999999995,-71.09642,Private room,70,89,91
+21389613,Wellington-Harrington,42.3716,-71.08870999999999,Entire home/apt,540,180,91
+21460557,North Cambridge,42.391659999999995,-71.11975,Entire home/apt,170,94,1
+21491807,Riverside,42.36553,-71.11378,Private room,100,0,91
+21534031,The Port,42.3672,-71.09614,Entire home/apt,109,361,1
+21546255,Agassiz,42.38601,-71.11718,Private room,100,255,3
+21636726,Neighborhood Nine,42.39026,-71.139,Private room,38,0,91
+21649708,Riverside,42.36551,-71.11442,Private room,100,0,91
+21664531,Mid-Cambridge,42.368829999999996,-71.10789,Private room,100,0,91
+21682941,Wellington-Harrington,42.3731,-71.09026999999999,Entire home/apt,100,0,1
+21738836,Wellington-Harrington,42.36845,-71.09132,Private room,58,61,2
+21765306,Cambridgeport,42.36265,-71.09931999999999,Entire home/apt,250,69,2
+21885937,Wellington-Harrington,42.37034,-71.09212,Private room,56,365,91
+21980382,Mid-Cambridge,42.37226,-71.11242,Entire home/apt,119,0,4
+22004690,North Cambridge,42.39654,-71.13512,Private room,46,184,90
+22008825,Riverside,42.36553,-71.11551,Entire home/apt,125,108,91
+22099694,Riverside,42.36615,-71.10934,Entire home/apt,399,59,3
+22142932,Wellington-Harrington,42.36846,-71.09009,Private room,30,63,2
+22216607,Mid-Cambridge,42.37275,-71.11221,Entire home/apt,195,0,3
+22265937,Cambridgeport,42.362590000000004,-71.10323000000001,Entire home/apt,50,20,1
+22265938,Cambridgeport,42.36335,-71.10429,Entire home/apt,40,135,1
+22265939,Cambridgeport,42.36261,-71.10479000000001,Entire home/apt,40,258,1
+22281628,North Cambridge,42.39274,-71.1322,Private room,50,89,2
+22338629,Area 2/MIT,42.36247,-71.08426999999999,Entire home/apt,272,211,29
+22339138,East Cambridge,42.36261,-71.08345,Entire home/apt,272,211,29
+22339678,East Cambridge,42.36461,-71.08191,Entire home/apt,278,211,29
+22339933,East Cambridge,42.36461,-71.08187,Entire home/apt,278,211,29
+22352805,East Cambridge,42.3639,-71.08157,Entire home/apt,249,305,30
+22353454,East Cambridge,42.36399,-71.08136,Entire home/apt,135,364,30
+22356328,East Cambridge,42.36453,-71.08415,Entire home/apt,249,364,30
+22377492,West Cambridge,42.37557,-71.12971,Private room,175,0,31
+22384370,Cambridgeport,42.35725,-71.10649000000001,Entire home/apt,101,0,2
+22387574,Riverside,42.36756,-71.11186,Private room,75,0,91
+22411857,Wellington-Harrington,42.37125,-71.09009,Entire home/apt,74,16,30
+22419586,Cambridgeport,42.3629,-71.10455999999999,Entire home/apt,50,288,1
+22445294,East Cambridge,42.36473,-71.08362,Entire home/apt,399,143,91
+22445511,West Cambridge,42.3836,-71.134,Private room,100,179,91
+22450493,Wellington-Harrington,42.37242,-71.09442,Private room,65,0,91
+22461420,East Cambridge,42.3625,-71.08391999999999,Entire home/apt,289,13,91
+22461484,East Cambridge,42.36456,-71.08277,Entire home/apt,289,30,91
+22567155,East Cambridge,42.36427,-71.08391,Entire home/apt,269,193,91
+22567215,East Cambridge,42.36425,-71.084,Entire home/apt,269,0,91
+22592882,North Cambridge,42.39595,-71.13554,Private room,45,184,90
+22596580,Neighborhood Nine,42.38045,-71.12453000000001,Entire home/apt,150,0,30
+22598276,Cambridgeport,42.35618,-71.10885999999999,Private room,56,70,1
+22602459,Wellington-Harrington,42.37382,-71.09176,Entire home/apt,83,0,1
+22625445,North Cambridge,42.3896,-71.12363,Entire home/apt,175,125,30
+22629543,Mid-Cambridge,42.373020000000004,-71.10895,Shared room,47,365,91
+22681674,Cambridgeport,42.36121,-71.09939,Entire home/apt,320,3,32
+22751749,The Port,42.37032,-71.09965,Private room,59,101,91
+22842459,Mid-Cambridge,42.37365,-71.10564000000001,Entire home/apt,750,0,91
+22888033,Wellington-Harrington,42.36905,-71.09066,Private room,43,63,2
+22888285,Wellington-Harrington,42.36868,-71.09143,Private room,43,63,12
+22898757,Wellington-Harrington,42.37362,-71.09701,Entire home/apt,500,0,91
+22958055,North Cambridge,42.39555,-71.13255,Entire home/apt,170,51,2
+22987565,Wellington-Harrington,42.37358,-71.09636,Private room,130,71,30
+23102114,Cambridgeport,42.35889,-71.11095,Private room,89,342,1
+23102247,Wellington-Harrington,42.37042,-71.09323,Private room,50,69,91
+23108929,Neighborhood Nine,42.38748,-71.14052,Private room,105,179,90
+23114408,Neighborhood Nine,42.387170000000005,-71.13951,Private room,65,0,45
+23114790,Neighborhood Nine,42.38812,-71.14029000000001,Entire home/apt,290,170,90
+23253127,Wellington-Harrington,42.370870000000004,-71.0893,Entire home/apt,180,14,30
+23257882,West Cambridge,42.37525,-71.12919000000001,Entire home/apt,145,59,1
+23308507,Wellington-Harrington,42.36891,-71.09168000000001,Private room,47,63,2
+23309047,Cambridgeport,42.36368,-71.10504,Entire home/apt,149,90,30
+23523253,Cambridgeport,42.35788,-71.11137,Private room,75,321,1
+23563670,Cambridgeport,42.35761,-71.11151,Private room,140,296,1
+23594538,North Cambridge,42.395179999999996,-71.13024,Entire home/apt,160,117,3
+23660990,Cambridgeport,42.36173,-71.10587,Entire home/apt,299,0,30
+23730467,The Port,42.366859999999996,-71.09861,Entire home/apt,145,23,1
+23769190,Cambridgeport,42.3612,-71.10454,Entire home/apt,299,0,30
+23772557,The Port,42.3665,-71.09486,Private room,67,0,2
+23836304,The Port,42.366929999999996,-71.09461999999999,Private room,85,0,2
+23898034,Riverside,42.36334,-71.11152,Entire home/apt,350,56,91
+23902787,West Cambridge,42.37726,-71.14546999999999,Entire home/apt,110,137,60
+23997196,The Port,42.36769,-71.10181999999999,Private room,75,0,30
+23997968,West Cambridge,42.37368,-71.12665,Private room,69,31,30
+24011176,Wellington-Harrington,42.3731,-71.09199,Entire home/apt,150,0,1
+24071440,Mid-Cambridge,42.36875,-71.10287,Private room,120,0,30
+24197198,Strawberry Hill,42.38275,-71.15767,Entire home/apt,399,0,91
+24298372,Cambridgeport,42.358309999999996,-71.11143,Private room,80,322,1
+24304200,North Cambridge,42.39305,-71.13046999999999,Private room,100,140,1
+24397113,Wellington-Harrington,42.37063,-71.09016,Entire home/apt,150,63,3
+24442402,West Cambridge,42.38063,-71.1352,Private room,120,53,2
+24521053,North Cambridge,42.39204,-71.12285,Entire home/apt,150,0,91
+24559968,Riverside,42.36529,-71.11494,Entire home/apt,219,0,91
+24755466,Mid-Cambridge,42.370779999999996,-71.10918000000001,Private room,85,0,1
+24886707,Wellington-Harrington,42.37211,-71.09002,Private room,99,365,1
+24887170,North Cambridge,42.39713,-71.13075,Private room,42,0,4
+24888098,Wellington-Harrington,42.37331,-71.09116,Private room,99,364,1
+24888768,Cambridgeport,42.35971,-71.10961,Entire home/apt,240,360,1
+24888817,Wellington-Harrington,42.37207,-71.09034,Private room,99,365,1
+24967119,The Port,42.36461,-71.10072,Entire home/apt,250,64,2
+25036068,Riverside,42.3686,-71.11414,Entire home/apt,179,3,3
+25103936,East Cambridge,42.36296,-71.08239,Entire home/apt,399,364,91
+25191811,Agassiz,42.38196,-71.11546,Entire home/apt,168,0,91
+25212486,West Cambridge,42.381,-71.13841,Private room,40,141,7
+25483626,The Port,42.3659,-71.0992,Private room,60,323,1
+25687175,Neighborhood Nine,42.37937,-71.12051,Entire home/apt,144,90,91
+25691658,Agassiz,42.38071,-71.11896,Entire home/apt,264,89,91
+25728312,Mid-Cambridge,42.37656,-71.10986,Private room,49,365,91
+25738590,Cambridgeport,42.36437,-71.10579,Private room,150,248,1
+25778262,Agassiz,42.38279,-71.11831,Entire home/apt,189,64,2
+25999483,Cambridgeport,42.364670000000004,-71.10338,Entire home/apt,439,0,2
+26003078,Area 2/MIT,42.36149,-71.08275,Entire home/apt,147,10,1
+26036459,East Cambridge,42.36331,-71.08295,Entire home/apt,290,0,91
+26036913,East Cambridge,42.36456,-71.08408,Entire home/apt,288,0,91
+26037476,East Cambridge,42.362970000000004,-71.08283,Entire home/apt,292,0,91
+26037743,East Cambridge,42.36415,-71.08421,Entire home/apt,292,0,91
+26038543,East Cambridge,42.36345,-71.08445,Entire home/apt,265,0,91
+26038670,East Cambridge,42.36271,-71.08230999999999,Entire home/apt,318,0,91
+26060147,East Cambridge,42.3632,-71.08238,Entire home/apt,297,0,91
+26078842,Cambridgeport,42.36081,-71.1146,Private room,76,0,91
+26128752,North Cambridge,42.393809999999995,-71.14658,Entire home/apt,120,0,91
+26136927,North Cambridge,42.38984,-71.1262,Entire home/apt,200,0,1
+26355325,Riverside,42.368179999999995,-71.10866999999999,Entire home/apt,150,0,91
+26428050,Wellington-Harrington,42.37322,-71.08983,Private room,99,365,1
+26429034,Wellington-Harrington,42.372890000000005,-71.09046,Private room,99,365,1
+26429366,Wellington-Harrington,42.37292,-71.09065,Private room,99,365,1
+26471100,West Cambridge,42.37209,-71.12398,Entire home/apt,300,0,91
+26473352,West Cambridge,42.38029,-71.1388,Private room,58,179,7
+26502467,Wellington-Harrington,42.37303,-71.09055,Private room,99,365,1
+26502701,Wellington-Harrington,42.37348,-71.09053,Private room,99,365,1
+26687203,Neighborhood Nine,42.380390000000006,-71.12554,Private room,56,0,91
+26688986,North Cambridge,42.39055,-71.12435,Entire home/apt,149,82,91
+26857005,East Cambridge,42.3678,-71.08609,Entire home/apt,220,104,21
+27017697,Wellington-Harrington,42.3729,-71.09006,Entire home/apt,175,363,1
+27083472,The Port,42.367709999999995,-71.10151,Private room,76,358,100
+27131268,West Cambridge,42.38214,-71.13765,Private room,80,0,91
+27141126,Riverside,42.36544,-71.10821999999999,Private room,99,1,1
+27303018,North Cambridge,42.38991,-71.12744,Private room,64,0,33
+27407158,Cambridgeport,42.36383,-71.10761,Private room,99,364,1
+27488452,Strawberry Hill,42.37638,-71.15432,Entire home/apt,1000,5,7
+27576430,North Cambridge,42.39394,-71.13206,Entire home/apt,125,0,2
+27658293,Wellington-Harrington,42.37292,-71.09563,Private room,75,269,91
+27757091,West Cambridge,42.372820000000004,-71.12354,Private room,89,29,30
+27757751,West Cambridge,42.374179999999996,-71.12342,Private room,89,1,30
+27757911,West Cambridge,42.37491,-71.12573,Private room,89,37,30
+27809135,Riverside,42.36611,-71.11239,Private room,96,0,91
+27834082,East Cambridge,42.36619,-71.08568000000001,Private room,58,0,91
+27897602,Riverside,42.36738,-71.10825,Private room,100,71,1
+27898877,Riverside,42.36728,-71.10797,Private room,120,70,1
+27907172,Riverside,42.36609,-71.11224,Private room,90,0,91
+28051994,Mid-Cambridge,42.37106,-71.11259,Private room,70,139,3
+28106616,West Cambridge,42.37295,-71.12297,Private room,79,29,30
+28178013,North Cambridge,42.39268,-71.12473,Entire home/apt,140,269,91
+28186233,Riverside,42.365809999999996,-71.10781999999999,Private room,99,362,1
+28195363,Neighborhood Nine,42.38818,-71.12697,Private room,77,0,33
+28282525,West Cambridge,42.38153,-71.13295,Entire home/apt,170,0,91
+28371598,Area 2/MIT,42.36272,-71.0848,Private room,99,31,1
+28371774,Area 2/MIT,42.36262,-71.0848,Private room,99,31,1
+28430990,Wellington-Harrington,42.37392,-71.09062,Entire home/apt,185,0,91
+28466690,East Cambridge,42.37242,-71.07941,Entire home/apt,149,0,91
+28489121,Riverside,42.36793,-71.11474,Entire home/apt,119,20,3
+28667379,Mid-Cambridge,42.36938,-71.11045,Private room,43,359,223
+28761770,Riverside,42.36627,-71.10585,Private room,172,0,91
+28801153,Mid-Cambridge,42.369,-71.10693,Private room,120,71,1
+28832386,West Cambridge,42.38259,-71.1326,Entire home/apt,170,76,91
+28833374,West Cambridge,42.38236,-71.13396999999999,Entire home/apt,300,1,91
+28835831,The Port,42.362629999999996,-71.09821,Private room,110,0,32
+28939065,East Cambridge,42.36853,-71.08532,Entire home/apt,199,0,3
+28952923,The Port,42.366009999999996,-71.09873,Private room,75,334,1
+28957832,East Cambridge,42.36453,-71.08272,Entire home/apt,220,0,91
+28983064,Cambridgeport,42.36484,-71.10327,Private room,75,148,91
+28988139,Wellington-Harrington,42.37239,-71.0982,Private room,65,155,30
+28988885,The Port,42.37052,-71.09696,Private room,65,103,30
+28989060,Wellington-Harrington,42.36978,-71.09538,Private room,65,153,30
+29031832,East Cambridge,42.363209999999995,-71.08252,Entire home/apt,175,0,91
+29034417,The Port,42.36469,-71.0972,Private room,50,298,1
+29151496,East Cambridge,42.37291,-71.08754,Entire home/apt,179,179,2
+29250510,Mid-Cambridge,42.37145,-71.10146,Private room,50,0,5
+29308635,West Cambridge,42.37791,-71.12553,Private room,275,365,91
+29343335,The Port,42.36824,-71.09742,Private room,29,87,2
+29382369,Neighborhood Nine,42.38183,-71.12167,Private room,95,0,91
+29383908,Neighborhood Nine,42.382459999999995,-71.1223,Shared room,60,0,91
+29384478,Neighborhood Nine,42.38365,-71.12223,Private room,120,0,91
+29489778,Neighborhood Nine,42.38279,-71.1212,Private room,120,0,1
+29538693,Neighborhood Nine,42.38387,-71.12068000000001,Private room,120,0,91
+29588602,North Cambridge,42.39236,-71.1252,Private room,100,71,1
+29605555,Mid-Cambridge,42.37037,-71.101,Private room,69,0,91
+29657934,The Port,42.36627,-71.10301,Private room,61,295,91
+29789486,Wellington-Harrington,42.37097,-71.09598000000001,Private room,29,139,2
+29806399,Wellington-Harrington,42.37242,-71.09544,Private room,29,176,2
+29816287,Wellington-Harrington,42.37219,-71.09687,Private room,29,92,2
+29854517,The Port,42.36591,-71.10193000000001,Private room,115,364,91
+29857648,The Port,42.36473,-71.09898000000001,Entire home/apt,129,0,91
+29992024,Cambridge Highlands,42.394040000000004,-71.15287,Entire home/apt,475,362,1
+30035967,East Cambridge,42.3693,-71.0806,Entire home/apt,180,58,2
+30080995,Wellington-Harrington,42.37022,-71.09599,Private room,19,64,2
+30091687,East Cambridge,42.36531,-71.08466,Private room,60,0,91
+30130868,The Port,42.364090000000004,-71.09851,Entire home/apt,250,90,2
+30169164,Cambridgeport,42.3624,-71.11168,Entire home/apt,200,61,2
+30174545,Cambridgeport,42.36235,-71.11026,Private room,102,0,1
+30253776,Mid-Cambridge,42.37093,-71.11239,Private room,60,65,75
+30323319,Riverside,42.36602,-71.11448,Private room,60,122,91
+30369982,Cambridgeport,42.36139,-71.10311999999999,Entire home/apt,200,177,30
+30386484,Area 2/MIT,42.36288,-71.08784,Entire home/apt,199,124,32
+30389876,Area 2/MIT,42.36288,-71.08784,Entire home/apt,166,364,32
+30389899,Area 2/MIT,42.36288,-71.08784,Entire home/apt,138,304,32
+30389924,Area 2/MIT,42.36288,-71.08784,Entire home/apt,171,324,32
+30390003,Area 2/MIT,42.36288,-71.08784,Entire home/apt,258,293,32
+30390533,Area 2/MIT,42.36288,-71.08784,Entire home/apt,138,317,32
+30397057,Area 2/MIT,42.36288,-71.08784,Entire home/apt,183,1,32
+30397111,Area 2/MIT,42.36288,-71.08784,Entire home/apt,142,350,32
+30403097,Wellington-Harrington,42.37212,-71.09304,Private room,130,15,30
+30428472,Neighborhood Nine,42.38648,-71.12385,Entire home/apt,159,36,2
+30444093,Mid-Cambridge,42.37095,-71.11094,Private room,50,65,91
+30482786,Cambridgeport,42.36078,-71.10370999999999,Private room,108,9,91
+30489683,Area 2/MIT,42.36288,-71.08784,Entire home/apt,142,341,32
+30494278,Riverside,42.36939,-71.11548,Private room,70,0,91
+30567500,Neighborhood Nine,42.38861,-71.12755,Entire home/apt,70,129,13
+30686042,The Port,42.3643,-71.09652,Private room,49,365,91
+30691794,East Cambridge,42.371190000000006,-71.07898,Entire home/apt,132,0,91
+30716135,Wellington-Harrington,42.37011,-71.08898,Entire home/apt,131,0,91
+30788187,Neighborhood Nine,42.37891,-71.12026,Entire home/apt,89,18,91
+31026140,Agassiz,42.384240000000005,-71.11563000000001,Private room,90,0,91
+31043406,Neighborhood Nine,42.383829999999996,-71.13103000000001,Private room,70,0,91
+31065212,North Cambridge,42.3901,-71.11861,Private room,66,0,91
+31127224,The Port,42.37072,-71.09719,Private room,39,92,1
+31152056,Neighborhood Nine,42.37845,-71.12024,Private room,60,0,91
+31153915,Area 2/MIT,42.36157,-71.08937,Private room,200,365,91
+31205669,Mid-Cambridge,42.37012,-71.1059,Private room,35,140,91
+31211301,The Port,42.36561,-71.10324,Private room,75,364,91
+31211478,Neighborhood Nine,42.37863,-71.12236999999999,Entire home/apt,120,80,91
+31265845,Wellington-Harrington,42.368809999999996,-71.09338000000001,Private room,45,262,91
+31392468,Wellington-Harrington,42.368829999999996,-71.09454000000001,Entire home/apt,68,90,3
+31419591,Mid-Cambridge,42.3771,-71.10758,Private room,40,365,28
+31804595,Cambridgeport,42.35771,-71.11074,Private room,80,0,2
+32055447,East Cambridge,42.36893,-71.08325,Entire home/apt,175,262,2
+32089527,The Port,42.36994,-71.09785,Private room,45,170,32
+32202426,Cambridgeport,42.35579,-71.11032,Private room,80,0,2
+32202637,Cambridgeport,42.357690000000005,-71.11178000000001,Private room,160,0,1
+32249396,West Cambridge,42.38098,-71.1398,Entire home/apt,350,0,4
+32286134,Wellington-Harrington,42.36759,-71.09206999999999,Private room,50,154,1
+32324379,East Cambridge,42.366240000000005,-71.0841,Entire home/apt,192,4,32
+32405612,Riverside,42.36692,-71.10639,Entire home/apt,110,0,91
+32441363,North Cambridge,42.39371,-71.12983,Private room,80,320,1
+32448910,Strawberry Hill,42.38322,-71.15737,Private room,70,0,91
+32520971,West Cambridge,42.37396,-71.12437,Private room,60,365,91
+32521733,West Cambridge,42.37404,-71.12468,Private room,60,365,91
+32521848,West Cambridge,42.37345,-71.12405,Private room,60,365,91
+32522744,East Cambridge,42.3712,-71.08529,Entire home/apt,325,365,91
+32529852,Neighborhood Nine,42.38915,-71.1271,Entire home/apt,150,42,28
+32550845,West Cambridge,42.37375,-71.12472,Private room,60,365,91
+32551001,West Cambridge,42.37255,-71.12474,Private room,60,365,91
+32551056,West Cambridge,42.37363,-71.12420999999999,Private room,60,365,91
+32554763,West Cambridge,42.372279999999996,-71.12435,Private room,60,0,91
+32572212,North Cambridge,42.389790000000005,-71.12571,Private room,65,157,1
+32574515,Neighborhood Nine,42.38916,-71.12423000000001,Private room,65,159,1
+32574566,Neighborhood Nine,42.388059999999996,-71.12449000000001,Private room,65,159,1
+32644196,Neighborhood Nine,42.384479999999996,-71.1241,Private room,110,151,1
+32644577,Neighborhood Nine,42.38474,-71.12246,Private room,110,132,1
+32644829,Neighborhood Nine,42.38563,-71.12329,Private room,110,149,1
+32719651,Neighborhood Nine,42.38649,-71.12501,Private room,60,132,1
+32720300,Neighborhood Nine,42.38711,-71.12625,Private room,60,159,1
+32783224,Cambridgeport,42.359590000000004,-71.10897,Entire home/apt,85,0,91
+32791973,Wellington-Harrington,42.37148,-71.0893,Entire home/apt,230,21,91
+32887181,The Port,42.36987,-71.09969,Private room,1000,0,91
+32900803,The Port,42.370290000000004,-71.09765,Private room,60,147,1
+32901476,The Port,42.370020000000004,-71.09886999999999,Private room,60,150,1
+32901607,The Port,42.36978,-71.09748,Private room,60,132,1
+32951022,Riverside,42.36707,-71.11548,Entire home/apt,100,0,91
+32986957,Wellington-Harrington,42.37378,-71.09734,Private room,60,153,1
+33017126,Mid-Cambridge,42.37151,-71.10106999999999,Private room,71,0,91
+33028188,Area 2/MIT,42.36288,-71.08784,Entire home/apt,163,129,32
+33035685,West Cambridge,42.373740000000005,-71.12379,Private room,79,80,30
+33038463,West Cambridge,42.373459999999994,-71.12439,Private room,99,49,30
+33063308,Cambridgeport,42.36132,-71.09945,Private room,110,0,32
+33064251,Cambridgeport,42.36053,-71.09944,Private room,120,39,1
+33067776,Cambridgeport,42.35952,-71.1104,Private room,60,155,1
+33072598,Cambridgeport,42.36035,-71.11091,Private room,60,158,1
+33072838,Cambridgeport,42.35948,-71.10943,Private room,60,155,1
+33128612,North Cambridge,42.38975,-71.12254,Entire home/apt,120,325,91
+33183552,Area 2/MIT,42.36288,-71.08784,Entire home/apt,250,22,32
+33210207,North Cambridge,42.39232,-71.12435,Private room,1000,34,91
+33242374,Cambridgeport,42.35845,-71.10399,Private room,65,150,1
+33245746,Cambridgeport,42.35843,-71.10499,Private room,65,0,1
+33245987,Cambridgeport,42.35985,-71.10316999999999,Private room,65,142,1
+33274420,East Cambridge,42.36288,-71.08336,Entire home/apt,179,58,1
+33325791,East Cambridge,42.37223,-71.07923000000001,Entire home/apt,500,208,1
+33337073,East Cambridge,42.372479999999996,-71.07845999999999,Entire home/apt,500,0,1
+33340302,East Cambridge,42.371809999999996,-71.07706999999999,Entire home/apt,500,0,1
+33341290,Agassiz,42.38547,-71.1168,Entire home/apt,126,1,32
+33341404,Agassiz,42.38547,-71.1168,Entire home/apt,133,358,32
+33374476,Wellington-Harrington,42.37218,-71.08807,Entire home/apt,210,21,91
+33390947,The Port,42.36261,-71.09846,Private room,120,41,1
+33451422,Wellington-Harrington,42.37385,-71.09631,Entire home/apt,189,56,30
+33455197,North Cambridge,42.38943,-71.12066999999999,Private room,65,153,3
+33483321,North Cambridge,42.38893,-71.12252,Entire home/apt,130,325,91
+33484884,North Cambridge,42.39204,-71.12642,Entire home/apt,118,79,91
+33487070,North Cambridge,42.39306,-71.12608,Private room,100,0,32
+33524860,North Cambridge,42.39433,-71.12680999999999,Private room,100,0,32
+33551653,Area 2/MIT,42.36288,-71.08784,Entire home/apt,150,357,32
+33596731,Area 2/MIT,42.36288,-71.08784,Entire home/apt,192,293,32
+33692520,Agassiz,42.37808,-71.11077,Private room,56,365,91
+33718681,Riverside,42.36697,-71.11332,Entire home/apt,175,17,1
+33719501,Cambridgeport,42.36425,-71.10661999999999,Entire home/apt,150,0,3
+33789540,Mid-Cambridge,42.37227,-71.11513000000001,Entire home/apt,358,45,2
+33804875,North Cambridge,42.39247,-71.127,Private room,100,0,32
+33913038,North Cambridge,42.391490000000005,-71.12264,Entire home/apt,62,325,91
+33915066,West Cambridge,42.38292,-71.138,Private room,46,225,91
+33943878,West Cambridge,42.37338,-71.12219,Entire home/apt,135,57,91
+33998489,Mid-Cambridge,42.36977,-71.10268,Entire home/apt,230,259,2
+34015776,The Port,42.36497,-71.10256,Private room,75,364,91
+34065863,North Cambridge,42.39305,-71.12538,Entire home/apt,85,364,91
+34127139,Mid-Cambridge,42.37681,-71.10831,Private room,46,0,28
+34251848,Mid-Cambridge,42.36995,-71.11279,Entire home/apt,650,253,1
+34301228,Cambridgeport,42.3625,-71.10418,Entire home/apt,317,80,91
+34336722,Mid-Cambridge,42.36974,-71.10929,Entire home/apt,200,0,91
+34440624,East Cambridge,42.36956,-71.08176,Private room,114,1,1
+34461429,Agassiz,42.37833,-71.1122,Private room,89,154,30
+34479576,Riverside,42.36412,-71.1152,Entire home/apt,119,0,91
+34507120,East Cambridge,42.37061,-71.0829,Private room,95,279,3
+34642733,West Cambridge,42.383990000000004,-71.14044,Entire home/apt,83,0,91
+34664077,Cambridgeport,42.35768,-71.10982,Entire home/apt,114,71,1
+34785693,Cambridgeport,42.35747,-71.10963000000001,Entire home/apt,134,135,1
+34807804,Mid-Cambridge,42.37519,-71.10946,Private room,120,0,91
+34859528,Agassiz,42.379709999999996,-71.11941,Private room,45,0,91
+34910959,West Cambridge,42.37377,-71.1238,Private room,180,0,91
+34937739,Wellington-Harrington,42.37212,-71.09524,Private room,115,72,2
+34944649,Cambridgeport,42.35564,-71.10982,Entire home/apt,150,77,1
+34975940,Mid-Cambridge,42.37616,-71.11113,Entire home/apt,173,51,1
+35060349,Cambridgeport,42.35993,-71.11211,Entire home/apt,180,313,6
+35086687,East Cambridge,42.36955,-71.07522,Private room,110,0,2
+35187780,Riverside,42.367670000000004,-71.10779000000001,Entire home/apt,825,52,91
+35233542,Strawberry Hill,42.37938,-71.15227,Private room,75,0,30
+35333477,Mid-Cambridge,42.369040000000005,-71.10715,Private room,120,71,1
+35460964,Neighborhood Nine,42.38006,-71.12416,Entire home/apt,179,179,1
+35536931,Mid-Cambridge,42.3706,-71.11198,Entire home/apt,149,253,1
+35635231,Agassiz,42.385290000000005,-71.11768000000001,Entire home/apt,149,14,3
+35908090,Area 2/MIT,42.36146,-71.08456,Entire home/apt,125,0,91
+35908805,East Cambridge,42.37126,-71.08331,Entire home/apt,350,0,2
+36197065,Mid-Cambridge,42.37523,-71.11225999999999,Entire home/apt,950,0,3
+36351988,West Cambridge,42.38064,-71.13933,Shared room,45,88,91
+36393934,Strawberry Hill,42.38315,-71.15789000000001,Entire home/apt,150,365,91
+36441058,Cambridgeport,42.363459999999996,-71.10300000000001,Entire home/apt,145,365,91
+36687393,East Cambridge,42.37251,-71.08057,Entire home/apt,200,0,21
+36699059,The Port,42.37065,-71.09792,Entire home/apt,92,79,1
+36769756,North Cambridge,42.392140000000005,-71.13249,Entire home/apt,345,84,30
+36867730,Mid-Cambridge,42.37308,-71.11234,Entire home/apt,80,171,91
+36978412,Mid-Cambridge,42.37154,-71.11395,Private room,150,0,1
+37010665,Neighborhood Nine,42.38263,-71.12171,Entire home/apt,20,0,4
+37055357,West Cambridge,42.37571,-71.1215,Entire home/apt,195,0,1
+37142306,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,180,268,32
+37205053,West Cambridge,42.38213,-71.13783000000001,Entire home/apt,100,253,91
+37389489,West Cambridge,42.38088,-71.14,Entire home/apt,115,364,91
+37419036,Riverside,42.36611,-71.11355,Private room,97,364,91
+37420729,Cambridgeport,42.36476,-71.10325999999999,Private room,119,365,91
+37460222,Mid-Cambridge,42.37319,-71.11577,Private room,55,89,1
+37532162,Cambridgeport,42.36506,-71.10429,Private room,142,365,91
+37557973,Wellington-Harrington,42.37425,-71.09424,Private room,50,365,91
+37655129,Strawberry Hill,42.37811,-71.15244,Entire home/apt,299,50,2
+37680404,The Port,42.36319,-71.09782,Private room,100,364,91
+37696869,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,138,309,32
+37726328,East Cambridge,42.367779999999996,-71.08247,Entire home/apt,180,0,1
+37744523,Mid-Cambridge,42.37639,-71.10734000000001,Entire home/apt,370,87,91
+37931659,Riverside,42.36745,-71.11015,Entire home/apt,213,349,2
+37933151,The Port,42.36712,-71.09884,Entire home/apt,100,0,91
+37975180,East Cambridge,42.37093,-71.07160999999999,Private room,42,23,91
+38165135,The Port,42.36711,-71.09423000000001,Private room,99,365,1
+38165961,The Port,42.367290000000004,-71.09348,Private room,99,365,1
+38166224,The Port,42.36704,-71.09445,Private room,99,365,1
+38166657,The Port,42.36743,-71.09459,Private room,99,365,1
+38192215,The Port,42.36542,-71.09297,Private room,99,365,1
+38192850,The Port,42.36717,-71.09393,Private room,99,365,1
+38265273,Mid-Cambridge,42.36955,-71.10473,Private room,110,121,91
+38360503,Mid-Cambridge,42.37277,-71.11233,Private room,160,0,91
+38435661,Mid-Cambridge,42.37153,-71.11086,Shared room,55,90,91
+38460544,Neighborhood Nine,42.388870000000004,-71.12705,Private room,74,0,33
+38461612,North Cambridge,42.39346,-71.12586999999999,Entire home/apt,149,187,2
+38492542,Mid-Cambridge,42.37278,-71.11242,Private room,140,90,91
+38606783,Mid-Cambridge,42.37247,-71.11559,Private room,70,0,91
+38623699,Wellington-Harrington,42.371179999999995,-71.09738,Entire home/apt,215,0,3
+38656707,The Port,42.36566,-71.10231,Entire home/apt,177,0,32
+38779533,North Cambridge,42.401509999999995,-71.13525,Entire home/apt,350,0,2
+38779928,Neighborhood Nine,42.38863,-71.12618,Private room,77,0,33
+38817473,Neighborhood Nine,42.38904,-71.1385,Shared room,60,90,91
+38820941,Wellington-Harrington,42.36997,-71.09425,Entire home/apt,65,0,91
+38849280,Wellington-Harrington,42.37412,-71.09947,Entire home/apt,250,228,2
+38854719,Area 2/MIT,42.35964,-71.08681,Private room,60,89,91
+38915459,East Cambridge,42.36684,-71.08216999999999,Entire home/apt,180,0,32
+38925812,Mid-Cambridge,42.36999,-71.1124,Private room,130,0,1
+38960329,Agassiz,42.37988,-71.11802,Private room,110,179,2
+39000981,East Cambridge,42.37085,-71.07741999999999,Private room,100,108,91
+39228046,North Cambridge,42.394529999999996,-71.14161,Private room,180,0,91
+39239952,East Cambridge,42.36684,-71.08216999999999,Entire home/apt,188,0,32
+39334004,West Cambridge,42.3829,-71.13583,Entire home/apt,125,26,2
+39340799,Mid-Cambridge,42.37738,-71.10793000000001,Entire home/apt,149,11,2
+39380202,North Cambridge,42.391529999999996,-71.13410999999999,Entire home/apt,400,292,4
+39530972,East Cambridge,42.37348,-71.07885,Entire home/apt,176,8,31
+39553011,East Cambridge,42.37245,-71.07754,Entire home/apt,119,232,31
+39555362,Area 2/MIT,42.36235,-71.08891,Entire home/apt,127,26,31
+39557106,Area 2/MIT,42.36195,-71.08689,Entire home/apt,116,135,31
+39557295,East Cambridge,42.363820000000004,-71.08703,Entire home/apt,190,92,31
+39557365,Area 2/MIT,42.36401,-71.08816,Entire home/apt,124,84,31
+39581461,East Cambridge,42.37162,-71.0807,Private room,78,0,2
+39608947,The Port,42.36476,-71.10263,Entire home/apt,110,49,30
+39701982,Neighborhood Nine,42.3858,-71.11953000000001,Private room,100,179,1
+39728795,North Cambridge,42.391909999999996,-71.13079,Entire home/apt,2250,62,2
+39747612,The Port,42.36475,-71.09995,Entire home/apt,146,322,32
+39860203,Wellington-Harrington,42.3684,-71.09399,Entire home/apt,78,0,6
+39864033,Wellington-Harrington,42.36922,-71.09533,Entire home/apt,68,0,91
+39895736,Cambridgeport,42.36456,-71.10253,Entire home/apt,162,0,31
+39896724,East Cambridge,42.37034,-71.08648000000001,Entire home/apt,120,242,2
+39908171,Agassiz,42.385090000000005,-71.11703,Entire home/apt,155,324,32
+39908320,Agassiz,42.38547,-71.1168,Entire home/apt,164,356,32
+39908347,Agassiz,42.38547,-71.1168,Entire home/apt,164,293,32
+39908417,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,158,249,32
+39918050,The Port,42.36603,-71.10346,Entire home/apt,116,0,31
+39918227,Mid-Cambridge,42.366690000000006,-71.10351,Entire home/apt,157,161,31
+39984608,Cambridgeport,42.35859,-71.10965999999999,Shared room,80,0,1
+40064240,Strawberry Hill,42.377320000000005,-71.14971,Private room,29,0,1
+40064507,Strawberry Hill,42.37678,-71.14914,Private room,28,345,1
+40423832,Mid-Cambridge,42.368320000000004,-71.10231,Entire home/apt,133,0,32
+40453443,Neighborhood Nine,42.38876,-71.12688,Private room,35,360,91
+40552282,North Cambridge,42.39327,-71.13391,Entire home/apt,250,32,28
+40564625,Riverside,42.3636,-71.11251999999999,Entire home/apt,250,131,31
+40565168,Riverside,42.36316,-71.1137,Entire home/apt,250,131,31
+40651373,North Cambridge,42.39188,-71.13495,Entire home/apt,400,23,4
+40677231,Wellington-Harrington,42.37305,-71.09448,Private room,59,0,2
+40724856,Mid-Cambridge,42.3709,-71.11166999999999,Private room,99,0,1
+40757650,West Cambridge,42.37764,-71.14756,Entire home/apt,149,365,1
+40778267,Neighborhood Nine,42.38545,-71.12071,Private room,65,360,1
+40795090,Neighborhood Nine,42.384640000000005,-71.12059,Private room,80,0,1
+40796021,Neighborhood Nine,42.384609999999995,-71.11945,Private room,160,365,1
+40801804,North Cambridge,42.390240000000006,-71.12259,Entire home/apt,170,325,30
+40807339,Mid-Cambridge,42.36738,-71.1053,Private room,120,0,2
+40807711,North Cambridge,42.38989,-71.12259,Entire home/apt,210,21,1
+40814027,Mid-Cambridge,42.37038,-71.11333,Private room,99,87,1
+40814215,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,2500,270,1
+40816851,Agassiz,42.384370000000004,-71.11859,Private room,75,0,1
+40817274,Neighborhood Nine,42.3839,-71.12066999999999,Private room,110,358,1
+40820452,Cambridgeport,42.35633,-71.11028,Entire home/apt,74,0,1
+40957399,Riverside,42.36567,-71.1078,Private room,49,0,2
+41056764,Cambridgeport,42.36241,-71.10161,Private room,75,0,4
+41087815,North Cambridge,42.39311,-71.14123000000001,Private room,75,362,91
+41223077,Area 2/MIT,42.36175,-71.08700999999999,Entire home/apt,188,357,32
+41371692,Strawberry Hill,42.37843,-71.15448,Entire home/apt,199,323,7
+41379642,Cambridgeport,42.35515,-71.11166,Entire home/apt,120,0,5
+41399965,Strawberry Hill,42.3768,-71.15405,Entire home/apt,199,306,7
+41449656,West Cambridge,42.38306,-71.13271,Entire home/apt,245,10,3
+41569941,West Cambridge,42.38382,-71.1351,Private room,53,172,91
+41570879,North Cambridge,42.39498,-71.14274,Private room,150,48,1
+41576497,East Cambridge,42.37218,-71.07265,Entire home/apt,155,359,32
+41576602,East Cambridge,42.37222,-71.07226,Entire home/apt,149,351,32
+41605338,The Port,42.37073,-71.09877,Entire home/apt,62,74,1
+41665960,Mid-Cambridge,42.37388,-71.11831,Entire home/apt,107,0,7
+41696190,The Port,42.3635,-71.10019,Private room,56,90,91
+41740740,The Port,42.368109999999994,-71.09418000000001,Private room,75,273,30
+41785799,Mid-Cambridge,42.367329999999995,-71.10318000000001,Entire home/apt,149,0,32
+41830938,Area 2/MIT,42.363459999999996,-71.08806,Entire home/apt,139,219,31
+41871493,Area 2/MIT,42.362140000000004,-71.08882,Entire home/apt,121,246,31
+41871696,Area 2/MIT,42.362109999999994,-71.08683,Entire home/apt,129,0,31
+41998167,East Cambridge,42.36776,-71.08045,Entire home/apt,300,68,20
+42037691,Mid-Cambridge,42.370909999999995,-71.10723,Private room,42,140,150
+42089092,The Port,42.36441,-71.10105,Entire home/apt,163,299,32
+42092857,North Cambridge,42.394090000000006,-71.13533000000001,Private room,55,71,28
+42095854,North Cambridge,42.39562,-71.13367,Private room,55,0,28
+42116124,The Port,42.36827,-71.09591,Private room,49,365,91
+42153289,Neighborhood Nine,42.37964,-71.12465999999999,Entire home/apt,85,0,92
+42231352,The Port,42.36838,-71.10077,Entire home/apt,285,173,91
+42242371,Neighborhood Nine,42.38387,-71.12024,Private room,125,365,1
+42250515,Neighborhood Nine,42.38411,-71.11964,Private room,125,330,1
+42250776,Neighborhood Nine,42.384840000000004,-71.11979000000001,Private room,125,0,1
+42250936,Neighborhood Nine,42.383720000000004,-71.12012,Private room,125,365,1
+42270014,North Cambridge,42.39286,-71.12586,Private room,224,266,1
+42285285,Agassiz,42.38391,-71.119,Private room,125,365,1
+42285406,Neighborhood Nine,42.385670000000005,-71.12108,Private room,125,365,1
+42298895,Cambridgeport,42.36054,-71.11028,Private room,135,81,7
+42300297,North Cambridge,42.393840000000004,-71.13325999999999,Private room,38,31,28
+42300472,North Cambridge,42.39536,-71.13335,Private room,38,31,28
+42302430,Neighborhood Nine,42.38364,-71.12109,Private room,125,0,1
+42302589,Neighborhood Nine,42.38583,-71.12125,Private room,125,365,1
+42308453,North Cambridge,42.39472,-71.1265,Entire home/apt,200,0,3
+42317247,North Cambridge,42.39509,-71.13493000000001,Private room,38,31,28
+42317412,North Cambridge,42.39386,-71.13457,Private room,38,31,28
+42333608,Cambridgeport,42.35838,-71.10793000000001,Entire home/apt,111,255,2
+42357558,East Cambridge,42.36765,-71.07823,Entire home/apt,250,0,21
+42384429,Neighborhood Nine,42.38677,-71.12263,Private room,110,90,31
+42384625,Neighborhood Nine,42.38855,-71.1224,Private room,110,0,31
+42384839,Neighborhood Nine,42.38704,-71.12258,Private room,110,89,31
+42385082,The Port,42.371140000000004,-71.09769,Private room,110,89,31
+42385305,The Port,42.36995,-71.09788,Private room,110,90,31
+42385399,The Port,42.36978,-71.09722,Private room,110,89,31
+42385619,Cambridgeport,42.358670000000004,-71.10783,Private room,110,90,31
+42385742,Cambridgeport,42.35764,-71.10772,Private room,110,89,31
+42385892,Cambridgeport,42.35931,-71.10707,Private room,110,89,31
+42434594,Cambridgeport,42.35879,-71.10897,Private room,130,81,7
+42509402,North Cambridge,42.394090000000006,-71.13195999999999,Private room,53,90,2
+42566945,North Cambridge,42.39242,-71.1268,Private room,128,0,2
+42580966,Riverside,42.36551,-71.11073,Private room,65,83,91
+42638417,Neighborhood Nine,42.38389,-71.13141,Private room,53,203,91
+42660737,The Port,42.36614,-71.10311,Private room,55,365,91
+42663517,East Cambridge,42.369170000000004,-71.07348,Entire home/apt,370,365,1
+42664410,East Cambridge,42.36889,-71.07389,Entire home/apt,450,365,1
+42700675,Neighborhood Nine,42.38531,-71.12111,Private room,350,365,1
+42787897,Cambridgeport,42.363009999999996,-71.10019,Entire home/apt,114,0,3
+42789288,North Cambridge,42.391040000000004,-71.12074,Entire home/apt,199,170,91
+42795388,Wellington-Harrington,42.37141,-71.09664000000001,Private room,70,0,4
+42888495,North Cambridge,42.3913,-71.12066,Entire home/apt,136,293,30
+42946067,Cambridgeport,42.3634,-71.10068000000001,Entire home/apt,158,1,32
+42950780,Wellington-Harrington,42.37745,-71.10126,Entire home/apt,260,180,1
+43111083,Cambridge Highlands,42.39257,-71.14627,Entire home/apt,100,93,91
+43111801,Cambridge Highlands,42.39114,-71.14759000000001,Entire home/apt,117,93,91
+43189501,The Port,42.36529,-71.1,Private room,55,281,91
+43222795,North Cambridge,42.393390000000004,-71.13467,Private room,42,32,28
+43223000,North Cambridge,42.39541,-71.13373,Private room,42,32,28
+43224620,Mid-Cambridge,42.37182,-71.11401,Private room,98,65,91
+43250287,Wellington-Harrington,42.36911,-71.09121999999999,Private room,39,365,120
+43431747,East Cambridge,42.3681,-71.07258,Entire home/apt,370,1,1
+43488299,North Cambridge,42.39468,-71.13373,Private room,47,32,28
+43507072,The Port,42.36902,-71.09839000000001,Private room,112,98,90
+43507782,Cambridgeport,42.36073,-71.10562,Private room,45,6,2
+43508069,The Port,42.36892,-71.09854,Private room,67,0,90
+43540382,Cambridgeport,42.35907,-71.10701999999999,Private room,71,0,2
+43542233,Cambridgeport,42.35954,-71.10561,Private room,71,179,32
+43546186,Cambridgeport,42.36079,-71.1073,Private room,71,172,32
+43554389,Cambridgeport,42.363240000000005,-71.10637,Private room,80,263,2
+43557078,Cambridgeport,42.36061,-71.10587,Private room,50,172,32
+43566154,Cambridgeport,42.35942,-71.10786999999999,Private room,72,0,32
+43566913,Cambridgeport,42.36081,-71.10781999999999,Private room,72,171,32
+43567939,Cambridgeport,42.3605,-71.10704,Private room,93,1,32
+43655400,Mid-Cambridge,42.37148,-71.10687,Private room,65,361,1
+43704373,Cambridgeport,42.36071,-71.10571999999999,Private room,46,172,2
+43711601,Cambridgeport,42.35969,-71.10779000000001,Private room,62,171,2
+43723071,Cambridgeport,42.35952,-71.10792,Private room,56,267,2
+43729550,Mid-Cambridge,42.370779999999996,-71.11282,Entire home/apt,149,178,2
+43736675,Cambridgeport,42.360620000000004,-71.10559,Private room,49,286,2
+43738940,Cambridgeport,42.36053,-71.10791,Private room,69,323,2
+43739916,Cambridgeport,42.36074,-71.10579,Private room,72,1,2
+43747945,Cambridgeport,42.359429999999996,-71.10705,Private room,68,0,32
+43748426,Cambridgeport,42.35944,-71.10648,Private room,58,310,2
+43748655,Cambridgeport,42.359390000000005,-71.10736,Private room,99,182,2
+43749528,Cambridgeport,42.358990000000006,-71.10647,Private room,72,214,2
+43750288,Riverside,42.36524,-71.11153,Private room,58,294,2
+43776888,Mid-Cambridge,42.37604,-71.10452,Entire home/apt,275,14,6
+43777157,Riverside,42.364470000000004,-71.11211999999999,Private room,54,332,2
+43806155,East Cambridge,42.36461,-71.06792,Entire home/apt,299,0,13
+43820544,Riverside,42.36391,-71.11239,Entire home/apt,175,177,1

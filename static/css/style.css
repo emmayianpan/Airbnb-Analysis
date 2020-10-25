@@ -68,6 +68,60 @@ html {
   height: 100%;
 }
 
+#map-nyc,
+body,
+html {
+  height: 100%;
+}
+
+#map-hi,
+body,
+html {
+  height: 100%;
+}
+
+#map-bos,
+body,
+html {
+  height: 100%;
+}
+
+#map-chi,
+body,
+html {
+  height: 100%;
+}
+
+#map-colo,
+body,
+html {
+  height: 100%;
+}
+
+#map-den,
+body,
+html {
+  height: 100%;
+}
+
+#map-bc,
+body,
+html {
+  height: 100%;
+}
+
+#map-la,
+body,
+html {
+  height: 100%;
+}
+
+#map-nsh,
+body,
+html {
+  height: 100%;
+}
+
 /*style for analytics.html 'plot' */
 #wrapper {
   height: 300px;

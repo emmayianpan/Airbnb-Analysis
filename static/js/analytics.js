@@ -90,7 +90,7 @@ function makeChart(data) {
 }
 
 // Request data using D3
-d3.csv("https://raw.githubusercontent.com/emmayianpan/Airbnb-Analysis/main/static/data/summary.csv")
+d3.csv("../static/data/summary.csv")
 	.then(makeChart);
 
 //Color Picker: https://www.w3schools.com/colors/colors_picker.asp

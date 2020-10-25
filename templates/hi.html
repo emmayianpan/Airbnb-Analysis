@@ -5,7 +5,7 @@
 <!--Link-->
 
 <head>
-    <title>Home</title>
+    <title>Hawaii</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -51,12 +51,12 @@
                     City
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="/atx">Austin, Texas</a>
                     <a class="dropdown-item" href="/bos">Boston, Massachusetts</a>
+                    <a class="dropdown-item" href="/bc">Broward County, Florida</a>
                     <a class="dropdown-item" href="/chi">Chicago, Illinois</a>
                     <a class="dropdown-item" href="/colo">Columbus, Ohio</a>
                     <a class="dropdown-item" href="/den">Denver, Colorado</a>
-                    <a class="dropdown-item" href="/jc">Jersey City, New Jersey</a>
+                    <a class="dropdown-item" href="/hi">Hawaii, Hawaii</a>
                     <a class="dropdown-item" href="/la">Los Angeles, California</a>
                     <a class="dropdown-item" href="/nsh">Nashville, Tennessee</a>
                     <a class="dropdown-item" href="/nyc">New York City, New York</a>
@@ -81,50 +81,44 @@
     </nav>
     <!--format for every html ended from here-->
 
-    <!--City Intro from Wiki and Data Analysis-->
+    <!--City Intro-->
     <div class="container"></div>
-    <h1><b>Austin</b></h1>
-    <p align="center">Austin is the capital city of the U.S. state of Texas,
-        as well as the seat and largest city of Travis County, with portions extending into Hays and Williamson
-        counties. It is the 11th-most populous city in the United States, the
-        fourth-most-populous city in Texas, and the second-most-populous state capital city (after Phoenix,
-        Arizona). It was also the fastest growing large city in the United States in 2015 and 2016. It is
-        the southernmost state capital in the contiguous United States.
+    <h1><b>Hawaii</b></h1>
+    <p align="center">Hawaii is a state of the United States of America located in the Pacific Ocean.
+        It is the only U.S. state located outside North America, the only island state, and the only state in the
+        tropics.
+        Of the 50 U.S. states, Hawaii is the eighth-smallest geographically and the 11th-least populous, but the
+        13th-most densely populated. It has more than 1.4 million residents, and is among the most diverse states in the
+        country, with the nation's only Asian American demographic majority.
     </p>
     <br>
 
     <!--Top-Rated Tourist Attractions from Planet Ware-->
     <h4 align="center"><b><i>Top-Rated Tourist Attractions</i></b></h4>
     <ul class="center">
-        <li>The State Capitol and Visitors Center</li>
-        <li>Zilker Metropolitan Park Attractions</li>
-        <li>Lady Bird Lake</li>
-        <li>Batty about Austin</i>
-        <li>University of Texas at Austin</li>
+        <li>Waikiki Beach and Diamond Head State Monument</li>
+        <li>Pearl Harbor and USS Arizona Memorial</li>
+        <li>Hanauma Bay Nature Preserve</li>
+        <li>Volcanoes National Park</i>
+        <li>Haleakala National Park</li>
     </ul>
 
-    <!--Display BoxPlot-->
     <div class="row">
         <div class="col-md-6">
-            <canvas id="boxplot-atx"></canvas>
+            <h4 align="center"><b><i>Price by Neighbourhood (Top 25)</i></b></h4>
+            <!--Display Bar Chart-->
+            <div id="bar-hi"></div>
         </div>
-        <!-- <div class="col-md-6">
-      <div id="map"></div>
-    </div> -->
+        <div class="col-md-6">
+            <!--Display BoxPlot-->
+            <div id="boxplot-hi"></div>
+        </div>
     </div>
 
     <h4 align="center"><b><i>Map</i></b></h4>
     <!--Display Map-->
-    <div id="map-atx"></div>
-    <br/>
-
-    <div align="center">
-        <button type="button" name="load_data" id="load_data" class="btn btn-info">
-            See if your budget meets where you want to stay!</button>
-    </div>
-    <br/>
-    <!--Display Table-->
-    <div id="neighbor-atx" width=100></div>
+    <div id="map-hi"></div>
+    <br />
 
     <!--format for every html started from here-->
     <footer class="text-muted">
@@ -158,6 +152,7 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
 
     <!--Chart JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
@@ -172,8 +167,8 @@
     <script type="text/javascript" src="../static/js/sf.js"></script>
     <script type="text/javascript" src="../static/js/nyc.js"></script>
     <script type="text/javascript" src="../static/js/la.js"></script>
-    <script type="text/javascript" src="../static/js/jc.js"></script>
-    <script type="text/javascript" src="../static/js/atx.js"></script>
+    <script type="text/javascript" src="../static/js/hi.js"></script>
+    <script type="text/javascript" src="../static/js/bc.js"></script>
     <script type="text/javascript" src="../static/js/bos.js"></script>
     <script type="text/javascript" src="../static/js/nsh.js"></script>
     <script type="text/javascript" src="../static/js/chi.js"></script>

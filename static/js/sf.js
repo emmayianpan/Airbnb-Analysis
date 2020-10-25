@@ -87,6 +87,7 @@ function makeBar() {
             .attr("y", 0)
             .attr("x", 7)
             .attr("dy", ".35em")
+            .attr("font-size","12px")
             .attr("transform", "rotate(90)")
             .style("text-anchor", "start");
 
