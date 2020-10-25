@@ -5,9 +5,9 @@ CREATE TABLE summary AS(
 	UNION
 	SELECT*FROM la
 	UNION
-	SELECT*FROM jc
+	SELECT*FROM hi
 	UNION
-	SELECT*FROM atx
+	SELECT*FROM bc
 	UNION
 	SELECT*FROM bos
 	UNION
@@ -21,5 +21,5 @@ CREATE TABLE summary AS(
 ); 
 
 COPY (SELECT*FROM summary) 
-	To 'C:\Users\emmayianpan\Desktop\Airbnb\static\data\summary.csv' 
+	To 'C:\Users\emmayianpan\Desktop\Github Repo\Airbnb-Analysis\static\data\summary.csv' 
 	With CSV DELIMITER ',' HEADER;

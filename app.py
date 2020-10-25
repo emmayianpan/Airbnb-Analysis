@@ -44,13 +44,13 @@ def nyc():
 def la():
     return render_template("la.html")
 
-@app.route("/jc")
-def jc():
-    return render_template("jc.html")
+@app.route("/hi")
+def hi():
+    return render_template("hi.html")
 
-@app.route("/atx")
-def atx():
-    return render_template("atx.html")
+@app.route("/bc")
+def bc():
+    return render_template("bc.html")
 
 @app.route("/bos")
 def bos():
