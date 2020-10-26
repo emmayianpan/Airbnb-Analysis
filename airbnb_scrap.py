@@ -18,10 +18,10 @@ def scrap():
     bbc_article = bbc_soup.find('article')
     bbc_header = bbc_article.find('header')
     bbc_headline = bbc_header.find('span').text #Airbnb blocks US Halloween bookings over party fears
-    bbc_url = bbc_header.h3.a['href'] #/news/technology-54395664
+    bbc_scarp_link = bbc_header.h3.a['href'] #/news/technology-54395664
     bbc_summary = bbc_article.find('div', class_='gel-5/8@l').text #The company wants to crack down on house parties after concerns of a second Covid wave.Read morenext
     bbc_img = bbc_article.find('img')['src'] #https://ichef.bbci.co.uk/live-experience/cps/320/cpsprodpb/9FDB/production/_114732904_90728edc-0dee-4c27-8b26-1eb687f6ef6e.jpg
-    bbc_link = 'https://www.bbc.com' + bbc_url
+    bbc_link = f'https://www.bbc.com{bbc_scarp_link}'
 
     #abc
     abc_url = requests.get('https://abcnews.go.com/alerts/airbnb').text

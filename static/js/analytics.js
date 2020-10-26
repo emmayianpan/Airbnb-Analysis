@@ -22,9 +22,13 @@ function makeChart(data) {
 		return +d.shared_room;
 	});
 
-	//make plot 'Average Price by City'
-	var plot1 = new Chart('plot2', {
-		type: "horizontalBar",
+	var totalSupply = data.map(function (d){
+		return +d.total_supply; 
+	}); 
+
+	//make plot 'Total Supply/Average Price by City'
+	var plot2 = new Chart('plot2', {
+		type: "bar",
 		options: {
 			maintainAspectRatio: false,
 			legend: {
@@ -35,21 +39,43 @@ function makeChart(data) {
 			labels: city,
 			datasets: [
 				{
+					backgroundColor: "#ff1a1a",
+					data: totalSupply,
+					yAxisID: 'B',
+					label: 'Total Supply',
+					type: "line",
+					fill: false,
+					borderColor: "#ff884d"
+				},
+				{
 					backgroundColor: "#80aaff",
-					data: price
+					data: price,
+					yAxisID: 'A',
+					label: 'Price'
 				}
 			]
 		}, 
 		options: {
+			scales: {
+				yAxes: [{
+				  id: 'A',
+				  type: 'linear',
+				  position: 'left',
+				}, {
+				  id: 'B',
+				  type: 'linear',
+				  position: 'right'
+				}]
+			  },
 			title: {
 				display: true,
-				text: "Average Price by City"
+				text: "Average Price/Total Supply by City"
 			}
 		} 
 	});
 
 	//make plot 'Total Units by Room Type'
-	var plot2 = new Chart('plot1', {
+	var plot1 = new Chart('plot1', {
 		type: 'bar',
 		data: {
 			labels: city,
