@@ -1,13 +1,13 @@
 # Airbnb-Analysis
 
-##Resources
+## Resources
 
 Inside Airbnb: http://insideairbnb.com/get-the-data.html
 
 
 
 
-##Cities
+## Cities
 
 San Francisco, California, United States (sf)
 
