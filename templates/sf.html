@@ -5,7 +5,7 @@
 <!--Link-->
 
 <head>
-  <title>San Francisco</title>
+  <title>Home</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -65,15 +65,24 @@
       </li>
 
       <!--About and Resources-->
-      <div class="container">
+      <div class="container-fluid">
         <a href="#demo" class="btn btn-primary" data-toggle="collapse">About</a>
         <div id="demo" class="collapse">
           <p style="color: white;">
-            (add more!) The project is to analyze Airbnb market supply and pricing for 10 cities</p>
+            The goal for this project is to create an interative webpage for people who are interested in
+            either staying or investing on Airbnb in chosen ten cities in the United States.
+            The website provides the insights and visulizations of macro and micro analysis.</p>
+          <p style="color: white;">
+            Team: Radhi, Yi An Pan (Emma)</p>
         </div>
         <a href="#demo" class="btn btn-primary" data-toggle="collapse">Resources</a>
         <div id="demo" class="collapse">
           <li><a href="http://insideairbnb.com/get-the-data.html" class="text-white">Inside Airbnb</a></li>
+          <li><a href="https://www.wikipedia.org/" class="text-white">Wikipedia</a></li>
+          <li><a href="https://www.planetware.com/" class="text-white">Planet Ware</a></li>
+          <li><a href="https://news.airbnb.com/" class="text-white">Airbnb Newsroom</a></li>
+          <li><a href="https://www.bbc.com/news" class="text-white">BBC News</a></li>
+          <li><a href="https://abcnews.go.com/" class="text-white">ABC News</a></li>
         </div>
       </div>
 
@@ -82,34 +91,35 @@
   <!--format for every html ended from here-->
 
   <!--City Intro-->
-  <div class="container"></div>
-  <h1><b>San Francisco</b></h1>
-  <p align="center">San Francisco is the cultural, commercial, and financial center of Northern California.
-    San Francisco is the 16th most populous city in the United States and
-    the 12th-largest metropolitan statistical area in the United States by population, with 4.7 million people,
-    and the fourth-largest by economic output, with GDP of $549 billion in 2018.
-  </p>
-  <br>
+  <div class="container-fluid">
+    <h1><b>San Francisco</b></h1>
+    <p align="center">San Francisco is the cultural, commercial, and financial center of Northern California.
+      San Francisco is the 16th most populous city in the United States and
+      the 12th-largest metropolitan statistical area in the United States by population, with 4.7 million people,
+      and the fourth-largest by economic output, with GDP of $549 billion in 2018.
+    </p>
+    <br>
 
-  <!--Top-Rated Tourist Attractions from Planet Ware-->
-  <h4 align="center"><b><i>Top-Rated Tourist Attractions</i></b></h4>
-  <ul class="center">
-    <li>Golden Gate Bridge</li>
-    <li>Alcatraz Island</li>
-    <li>Fisherman's Wharf</li>
-    <li>Ride the Cable Cars</li>
-    <li>Golden Gate Park</li>
-  </ul>
+    <!--Top-Rated Tourist Attractions from Planet Ware-->
+    <h4 align="center"><b><i>Top-Rated Tourist Attractions</i></b></h4>
+    <ul class="center">
+      <li>Golden Gate Bridge</li>
+      <li>Alcatraz Island</li>
+      <li>Fisherman's Wharf</li>
+      <li>Ride the Cable Cars</li>
+      <li>Golden Gate Park</li>
+    </ul>
 
-  <div class="row">
-    <div class="col-md-6">
-      <h4 align="center"><b><i>Price by Neighbourhood (Top 25)</i></b></h4>
-      <!--Display Bar Chart-->
-      <div id="bar-sf"></div>
-    </div>
-    <div class="col-md-6">
-      <!--Display BoxPlot-->
-      <div id="boxplot-sf"></div>
+    <div class="row">
+      <div class="col-md-6">
+        <h4 align="center"><b><i>Price by Neighbourhood (Top 25)</i></b></h4>
+        <!--Display Bar Chart-->
+        <div id="bar-sf"></div>
+      </div>
+      <div class="col-md-6">
+        <!--Display BoxPlot-->
+        <div id="boxplot-sf"></div>
+      </div>
     </div>
   </div>
 
@@ -117,6 +127,7 @@
   <!--Display Map-->
   <div id="map-sf"></div>
   <br />
+
 
   <!--format for every html started from here-->
   <footer class="text-muted">

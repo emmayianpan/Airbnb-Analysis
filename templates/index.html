@@ -31,7 +31,7 @@
 <body>
   <!--Navbar-->
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-    <!--Airbnb Icon-->
+    <!--Airbnb Logo-->
     <img src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png" height="100" width="100"
       class="navbar-brand">
 
@@ -65,15 +65,26 @@
       </li>
 
       <!--About and Resources-->
-      <div class="container">
+      <div class="container-fluid">
         <a href="#demo" class="btn btn-primary" data-toggle="collapse">About</a>
         <div id="demo" class="collapse">
           <p style="color: white;">
-            (add more!) The project is to analyze Airbnb market supply and pricing for 10 cities</p>
+            The goal for this project is to create an interative webpage for people who are interested in
+            either staying or investing on Airbnb in chosen ten cities in the United States.
+            The website provides the insights and visulizations of macro and micro analysis.</p>
+          <p style="color: white;">
+            Team: Radhi, Yi An Pan (Emma)</p>
         </div>
         <a href="#demo" class="btn btn-primary" data-toggle="collapse">Resources</a>
         <div id="demo" class="collapse">
           <li><a href="http://insideairbnb.com/get-the-data.html" class="text-white">Inside Airbnb</a></li>
+          <li><a href="https://www.wikipedia.org/" class="text-white">Wikipedia</a></li>
+          <li><a href="https://www.planetware.com/" class="text-white">Planet Ware</a></li>
+          <li><a href="https://news.airbnb.com/" class="text-white">Airbnb Newsroom</a></li>
+          <li><a href="https://www.bbc.com/news" class="text-white">BBC News</a></li>
+          <li><a href="https://abcnews.go.com/" class="text-white">ABC News</a></li>
+          <li><a href="https://barrie360.com/wp-content/uploads/2020/02/airbnb-3399753_1920.jpg" class="text-white">Homepage Image</a></li>
+          <li><a href="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png" class="text-white">Airbnb Logo</a></li>
         </div>
       </div>
 
@@ -82,22 +93,23 @@
   <!--format for every html ended from here-->
 
   <header class="images">
-    <img source srcset="https://a0.muscache.com/im/pictures/18084f37-67e0-400f-bfd8-55eea0e89508.jpg?im_w=1200 1x, 
-https://a0.muscache.com/im/pictures/18084f37-67e0-400f-bfd8-55eea0e89508.jpg?im_w=1920 2x" media="(min-width: 1828px)">
+    <img src = "https://barrie360.com/wp-content/uploads/2020/02/airbnb-3399753_1920.jpg"
+      style="width: 1260px; height: 400px;">
   </header>
+  <div class="container-fluid">
+    <!--Home page thumbnail-->
+    <h1><b>Airbnb Updated News</b></h1>
 
-  <!--Home page thumbnail-->
-  <div class="album py-5 bg-light">
-    <div class="container">
+    <div class="album py-5 bg-light">
       <div class="row">
 
+        <!--Airbnb News-->
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <!-- <div id="city" class="thumbnail"></div> -->
             <img src="{{airbnb.airbnb_img | default('static/images/error.png', true)}}" class="img-responsive" alt=""
-              height="200" width="348">
+              height="300" width="400">
             <div class="card-body">
-              <h5 class="card-text">{{airbnb['airbnb_headline']}}</h5>
+              <h3 class="card-text"><b>{{airbnb['airbnb_headline']}}</b></h3>
               <p class="card-text">{{airbnb['airbnb_summary']}}</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -109,32 +121,32 @@ https://a0.muscache.com/im/pictures/18084f37-67e0-400f-bfd8-55eea0e89508.jpg?im_
           </div>
         </div>
 
-        <!--should fix BBC Link //-->
+        <!--BBC News-->
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <!-- <div id="city" class="thumbnail"></div> -->
             <img src="{{airbnb.bbc_img | default('static/images/error.png', true)}}" class="img-responsive" alt=""
-              height="200" width="348">
+              height="300" width="400">
             <div class="card-body">
-              <h5 class="card-text">{{airbnb['bbc_headline']}}</h5>
+              <h3 class="card-text"><b>{{airbnb['bbc_headline']}}</b></h3>
               <p class="card-text">{{airbnb['bbc_summary']}}</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <a href="/scrape" type="button" class="btn btn-sm btn-outline-secondary">Update</a>
-                  <a href="{{airbnb.bbc_link}}" type="button" class="btn btn-sm btn-outline-secondary">Link</a>
+                  <a href="{{airbnb.bbc_link | default('static/images/error.png', true)}}" type="button"
+                    class="btn btn-sm btn-outline-secondary">Link</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
+        <!--ABC News-->
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <!-- <div id="city" class="thumbnail"></div> -->
             <img src="https://deadline.com/wp-content/uploads/2019/09/abc-news-logo-featured.jpg" class="img-responsive"
-              alt="" height="200" width="348">
+              alt="" height="300" width="400">
             <div class="card-body">
-              <h5 class="card-text">{{airbnb['abc_headline']}}</h5>
+              <h3 class="card-text"><b>{{airbnb['abc_headline']}}</h3>
               <p class="card-text">{{airbnb['abc_summary']}}</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
