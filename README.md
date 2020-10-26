@@ -4,7 +4,7 @@ The goal for this project is to create an interative webpage for people who are 
 The website provides the insights and visulizations by using [Inside Airbnb data](http://insideairbnb.com/).  
 
 Project Team:
-* Radhi
+* Radhi Patel
 * Yi An Pan (Emma) 
 
 ## Cities
