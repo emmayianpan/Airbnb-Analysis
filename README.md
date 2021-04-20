@@ -15,7 +15,7 @@
   <img src="static/image/screenshot.JPG" alt="Webpage Screenshot" width="900" height="450">
 </a>
 <br>
-<strong><i> The goal of this project is to create an interactive webpage for people who are interested in either staying or investing in Airbnb in chosen ten cities in the United States. The website provides the insights and visualizations by using Inside Airbnb data. </i></strong>
+<strong><i> The goal of this project is to create an interactive webpage for people who are interested in either staying or investing in Airbnb in chosen ten cities in the United States. The website provides insights and visualizations by using Inside Airbnb data. </i></strong>
 
 ## Prerequisites 
 * Getting Started 
